@@ -37,9 +37,6 @@
 [ASP .NET  返回Json操作结果]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET--%E8%BF%94%E5%9B%9EJson%E6%93%8D%E4%BD%9C%E7%BB%93%E6%9E%9C)
 
-[sql 多列求和]
-(https://github.com/zLulus/My_Note/wiki/sql-%E5%A4%9A%E5%88%97%E6%B1%82%E5%92%8C)
-
 [有了VARCHAR，为什么还要有CHAR？]
 (https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
 
@@ -119,3 +116,6 @@
 
 [跨库查询数据]
 (https://github.com/zLulus/My_Note/wiki/%E8%B7%A8%E5%BA%93%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE)
+
+[sql 多列求和]
+(https://github.com/zLulus/My_Note/wiki/sql-%E5%A4%9A%E5%88%97%E6%B1%82%E5%92%8C)
