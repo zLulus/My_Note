@@ -64,9 +64,6 @@
 [sql count(1)不要和查询数据混用 非常耗时]
 (https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
 
-[ASP .NET　Model]
-(https://github.com/zLulus/My_Note/wiki/ASP-.NET%E3%80%80Model)
-
 [Ajax请求小结]
 (https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
@@ -89,6 +86,9 @@
 
 [ViewBag&&ViewData(转载)]
 (https://github.com/zLulus/My_Note/wiki/ViewBag&&ViewData(%E8%BD%AC%E8%BD%BD))
+
+[ASP .NET　Model]
+(https://github.com/zLulus/My_Note/wiki/ASP-.NET%E3%80%80Model)
 
 # javascript
 [ layerui ]
