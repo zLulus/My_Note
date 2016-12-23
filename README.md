@@ -40,8 +40,7 @@
 [有了VARCHAR，为什么还要有CHAR？]
 (https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
 
-[弹出确认框，打开新窗口]
-(https://github.com/zLulus/My_Note/wiki/%E5%BC%B9%E5%87%BA%E7%A1%AE%E8%AE%A4%E6%A1%86%EF%BC%8C%E6%89%93%E5%BC%80%E6%96%B0%E7%AA%97%E5%8F%A3)
+
 
 [数据表访问]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E8%A1%A8%E8%AE%BF%E9%97%AE)
@@ -90,6 +89,9 @@
 # javascript
 [ layerui ]
 (https://github.com/zLulus/My_Note/wiki/layerui) 
+
+[弹出确认框，打开新窗口]
+(https://github.com/zLulus/My_Note/wiki/%E5%BC%B9%E5%87%BA%E7%A1%AE%E8%AE%A4%E6%A1%86%EF%BC%8C%E6%89%93%E5%BC%80%E6%96%B0%E7%AA%97%E5%8F%A3)
 
 # html
 [ src与href的区别（转载） ](https://github.com/zLulus/My_Note/wiki/src%E4%B8%8Ehref%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89) 
