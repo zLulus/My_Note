@@ -11,6 +11,7 @@
 (https://github.com/zLulus/My_Note/wiki/SQL-Server-bit---int)
 
 [sql SCOPE_IDENTITY()]
+(https://github.com/zLulus/My_Note/wiki/SCOPE_IDENTITY())
 
 # ASP .NET
 
