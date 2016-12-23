@@ -1,5 +1,17 @@
 # My Note
 
+# 待完成
+[刷新页面的几种方式]
+(https://github.com/zLulus/My_Note/wiki/%E5%88%B7%E6%96%B0%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
+[sql in 全局扫描]
+(https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
+
+[SQL Server bit<->int]
+(https://github.com/zLulus/My_Note/wiki/SQL-Server-bit---int)
+
+[sql SCOPE_IDENTITY()]
+
 # ASP .NET
 
 [ ASP .NET导出word（转载）  ]
