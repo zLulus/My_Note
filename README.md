@@ -52,8 +52,8 @@
 [ASP .NET Response类型]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
 
-[sql Left join 多表 把小表放前面join]
-(https://github.com/zLulus/My_Note/wiki/sql-Left-join-%E5%A4%9A%E8%A1%A8-%E6%8A%8A%E5%B0%8F%E8%A1%A8%E6%94%BE%E5%89%8D%E9%9D%A2join)
+[sql Left/right join 多表 注意表的连接顺序]
+(https://github.com/zLulus/My_Note/wiki/sql-Left-right-join-%E5%A4%9A%E8%A1%A8-%E6%B3%A8%E6%84%8F%E8%A1%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E9%A1%BA%E5%BA%8F)
 
 [sql 1=1  不要用]
 (https://github.com/zLulus/My_Note/wiki/sql-1=1--%E4%B8%8D%E8%A6%81%E7%94%A8)
