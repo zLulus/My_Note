@@ -5,14 +5,10 @@
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
 
-[SQL Server bit<->int]
-(https://github.com/zLulus/My_Note/wiki/SQL-Server-bit%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+
 
 [ASP .NET  列表常用]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET--%E5%88%97%E8%A1%A8%E5%B8%B8%E7%94%A8)
-
-[下拉选择框　设置内容/获取选中项/设置选中项]
-(https://github.com/zLulus/My_Note/wiki/%E4%B8%8B%E6%8B%89%E9%80%89%E6%8B%A9%E6%A1%86%E3%80%80%E8%AE%BE%E7%BD%AE%E5%86%85%E5%AE%B9-%E8%8E%B7%E5%8F%96%E9%80%89%E4%B8%AD%E9%A1%B9-%E8%AE%BE%E7%BD%AE%E9%80%89%E4%B8%AD%E9%A1%B9)
 
 [ASP .NET 图片上传与显示]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
@@ -41,14 +37,17 @@
 [sql count(1)不要和查询数据混用 非常耗时]
 (https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
 
-[Ajax请求小结]
-(https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
+
 
 [DataTable->Entity  反射+泛型]
 (https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
 
 [数据库关系]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
+
+[SQL Server数据库操作 连接/增删改查/断开]
+
+[SQLite数据库操作]
 
 # ASP .NET
 [ASP .NET Controller返回类型]
@@ -69,7 +68,13 @@
 [ASP .NET  返回Json操作结果]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET--%E8%BF%94%E5%9B%9EJson%E6%93%8D%E4%BD%9C%E7%BB%93%E6%9E%9C)
 
+[下拉选择框　设置内容/获取选中项/设置选中项]
+(https://github.com/zLulus/My_Note/wiki/%E4%B8%8B%E6%8B%89%E9%80%89%E6%8B%A9%E6%A1%86%E3%80%80%E8%AE%BE%E7%BD%AE%E5%86%85%E5%AE%B9-%E8%8E%B7%E5%8F%96%E9%80%89%E4%B8%AD%E9%A1%B9-%E8%AE%BE%E7%BD%AE%E9%80%89%E4%B8%AD%E9%A1%B9)
+
 # javascript&jQuery
+[Ajax请求小结]
+(https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
+
 [ layerui ]
 (https://github.com/zLulus/My_Note/wiki/layerui) 
 
@@ -119,3 +124,6 @@
 
 [sql SCOPE_IDENTITY()]
 (https://github.com/zLulus/My_Note/wiki/SCOPE_IDENTITY())
+
+[SQL Server bit<->int]
+(https://github.com/zLulus/My_Note/wiki/SQL-Server-bit%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
