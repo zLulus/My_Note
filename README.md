@@ -9,6 +9,7 @@
 [WCF SOAP and Rest]
 [WCF SOAP用法]
 [WCF Rest用法]
+(https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
 
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
