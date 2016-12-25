@@ -1,9 +1,9 @@
 # My Note
 [C#]
-(#CSharp)
+(#csharp)
 
 [WCF]
-(#WCF)
+(#wcf)
 
 # 待完成
 [WCF SOAP and Rest]
