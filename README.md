@@ -1,4 +1,9 @@
 # My Note
+[C#]
+(#CSharp)
+
+[WCF]
+(#WCF)
 
 # 待完成
 [WCF SOAP and Rest]
@@ -35,7 +40,7 @@
 [数据库关系]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
-# C#
+# CSharp
 
 # WCF
 ## 基本
