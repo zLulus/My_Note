@@ -1,14 +1,12 @@
 # My Note
 
 # 待完成
+[WCF SOAP and Rest]
+[WCF SOAP用法]
+[WCF Rest用法]
 
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
-
-
-
-[ASP .NET  列表常用]
-(https://github.com/zLulus/My_Note/wiki/ASP-.NET--%E5%88%97%E8%A1%A8%E5%B8%B8%E7%94%A8)
 
 [ASP .NET 图片上传与显示]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
@@ -16,14 +14,8 @@
 [ASP .NET DropDownList多级选择事件]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-DropDownList%E5%A4%9A%E7%BA%A7%E9%80%89%E6%8B%A9%E4%BA%8B%E4%BB%B6)
 
-[有了VARCHAR，为什么还要有CHAR？]
-(https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
-
 [数据表访问]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E8%A1%A8%E8%AE%BF%E9%97%AE)
-
-[sql server 查询存储过程指令]
-(https://github.com/zLulus/My_Note/wiki/sql-server-%E6%9F%A5%E8%AF%A2%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E6%8C%87%E4%BB%A4)
 
 [ASP .NET Response类型]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
@@ -37,17 +29,27 @@
 [sql count(1)不要和查询数据混用 非常耗时]
 (https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
 
-
-
 [DataTable->Entity  反射+泛型]
 (https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
 
 [数据库关系]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
-[SQL Server数据库操作 连接/增删改查/断开]
+# C#
 
-[SQLite数据库操作]
+# WCF
+## 基本
+[WCF概念]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%A6%82%E5%BF%B5)
+
+[WCF配置文件详解]
+(https://github.com/zLulus/My_Note/wiki/WCF%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3)
+
+## SOAP
+
+## Rest
+
+# IIS
 
 # ASP .NET
 [ASP .NET Controller返回类型]
@@ -105,6 +107,8 @@
 [html 常用控件取值]
 (https://github.com/zLulus/My_Note/wiki/html-%E5%B8%B8%E7%94%A8%E6%8E%A7%E4%BB%B6%E5%8F%96%E5%80%BC)
 
+[列表常用]
+(https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B8%B8%E7%94%A8)
 
 # sql
 [sql like N'%...%' 在C#里的写法]
@@ -127,3 +131,31 @@
 
 [SQL Server bit<->int]
 (https://github.com/zLulus/My_Note/wiki/SQL-Server-bit%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+
+# 数据库
+## 关系型数据库
+[有了VARCHAR，为什么还要有CHAR？]
+(https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
+
+[sql server 查询存储过程指令]
+(https://github.com/zLulus/My_Note/wiki/sql-server-%E6%9F%A5%E8%AF%A2%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E6%8C%87%E4%BB%A4)
+
+[数据库操作 连接/增删改查/断开]
+(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C-%E8%BF%9E%E6%8E%A5-%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5-%E6%96%AD%E5%BC%80)
+## 非关系型数据库
+
+# 数据结构
+
+# WPF
+
+# Android
+
+# 设计模式
+
+# 网络
+
+# GIS
+
+# Python
+
+# Java
