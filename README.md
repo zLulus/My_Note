@@ -8,8 +8,6 @@
 # 待完成
 [WCF SOAP and Rest]
 [WCF SOAP用法]
-[WCF Rest用法]
-(https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
 
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
@@ -50,6 +48,12 @@
 
 [WCF配置文件详解]
 (https://github.com/zLulus/My_Note/wiki/WCF%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3)
+
+[WCF Rest用法]
+(https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
+
+[WCF 大文件传输配置]
+(https://github.com/zLulus/My_Note/wiki/WCF-%E5%A4%A7%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E9%85%8D%E7%BD%AE)
 
 ## SOAP
 
