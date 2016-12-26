@@ -8,6 +8,7 @@
 # 待完成
 [WCF SOAP and Rest]
 [WCF SOAP用法]
+[手动安装windows服务]
 
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
@@ -17,9 +18,6 @@
 
 [ASP .NET DropDownList多级选择事件]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-DropDownList%E5%A4%9A%E7%BA%A7%E9%80%89%E6%8B%A9%E4%BA%8B%E4%BB%B6)
-
-[数据表访问]
-(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E8%A1%A8%E8%AE%BF%E9%97%AE)
 
 [ASP .NET Response类型]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
@@ -36,8 +34,7 @@
 [DataTable->Entity  反射+泛型]
 (https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
 
-[数据库关系]
-(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
+
 
 # CSharp
 
@@ -51,6 +48,9 @@
 
 [WCF Rest用法]
 (https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
+
+[多个不同类对象传输思路]
+(https://github.com/zLulus/My_Note/wiki/%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%AF%B9%E8%B1%A1%E4%BC%A0%E8%BE%93%E6%80%9D%E8%B7%AF)
 
 [WCF 大文件传输配置]
 (https://github.com/zLulus/My_Note/wiki/WCF-%E5%A4%A7%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E9%85%8D%E7%BD%AE)
@@ -143,6 +143,9 @@
 (https://github.com/zLulus/My_Note/wiki/SQL-Server-bit%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 
 # 数据库
+[数据库关系]
+(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
+
 ## 关系型数据库
 [有了VARCHAR，为什么还要有CHAR？]
 (https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
@@ -152,6 +155,10 @@
 
 [数据库操作 连接/增删改查/断开]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C-%E8%BF%9E%E6%8E%A5-%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5-%E6%96%AD%E5%BC%80)
+
+[数据表访问]
+(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E8%A1%A8%E8%AE%BF%E9%97%AE)
+
 ## 非关系型数据库
 
 # 数据结构
