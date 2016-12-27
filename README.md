@@ -6,6 +6,9 @@
 (#wcf)
 
 # 待完成
+[自定义函数Function]
+(https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0Function)
+
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
@@ -167,6 +170,12 @@
 [数据库关系]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
+[主从同步]
+(https://github.com/zLulus/My_Note/wiki/%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5)
+
+[VS创建新的本地数据库]
+(https://github.com/zLulus/My_Note/wiki/VS%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E5%BA%93)
+
 ## 关系型数据库
 [有了VARCHAR，为什么还要有CHAR？]
 (https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
@@ -185,6 +194,12 @@
 
 [工具：sql server profiler（分析器）]
 (https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%85%B7%EF%BC%9Asql-server-profiler%EF%BC%88%E5%88%86%E6%9E%90%E5%99%A8%EF%BC%89)
+
+[存储过程Procedure]
+(https://github.com/zLulus/My_Note/wiki/%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8BProcedure)
+
+[特殊存储过程——触发器Trigger]
+(https://github.com/zLulus/My_Note/wiki/%E7%89%B9%E6%AE%8A%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E2%80%94%E2%80%94%E8%A7%A6%E5%8F%91%E5%99%A8Trigger)
 
 ## 非关系型数据库
 
