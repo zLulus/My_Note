@@ -6,9 +6,8 @@
 (#wcf)
 
 # 待完成
-[WCF SOAP and Rest]
-[WCF SOAP用法]
-[手动安装windows服务]
+[windows服务的编写和安装]
+(https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
@@ -25,8 +24,7 @@
 [sql Left/right join 多表 注意表的连接顺序]
 (https://github.com/zLulus/My_Note/wiki/sql-Left-right-join-%E5%A4%9A%E8%A1%A8-%E6%B3%A8%E6%84%8F%E8%A1%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E9%A1%BA%E5%BA%8F)
 
-[sql 1=1  不要用]
-(https://github.com/zLulus/My_Note/wiki/sql-1=1--%E4%B8%8D%E8%A6%81%E7%94%A8)
+
 
 [sql count(1)不要和查询数据混用 非常耗时]
 (https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
@@ -40,14 +38,20 @@
 
 # WCF
 ## 基本
-[WCF概念]
-(https://github.com/zLulus/My_Note/wiki/WCF%E6%A6%82%E5%BF%B5)
-
 [WCF配置文件详解]
 (https://github.com/zLulus/My_Note/wiki/WCF%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3)
 
+[WCF服务的IIS托管（网站托管）]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84IIS%E6%89%98%E7%AE%A1%EF%BC%88%E7%BD%91%E7%AB%99%E6%89%98%E7%AE%A1%EF%BC%89)
+
+[WCF服务的IIS托管（应用程序）]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84IIS%E6%89%98%E7%AE%A1%EF%BC%88%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%89)
+
 [WCF Rest用法]
 (https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
+
+[WCF SOAP用法]
+(https://github.com/zLulus/My_Note/wiki/WCF-SOAP%E7%94%A8%E6%B3%95)
 
 [多个不同类对象传输思路]
 (https://github.com/zLulus/My_Note/wiki/%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%AF%B9%E8%B1%A1%E4%BC%A0%E8%BE%93%E6%80%9D%E8%B7%AF)
@@ -55,9 +59,23 @@
 [WCF 大文件传输配置]
 (https://github.com/zLulus/My_Note/wiki/WCF-%E5%A4%A7%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E9%85%8D%E7%BD%AE)
 
-## SOAP
+[Uri ? & =]
+(https://github.com/zLulus/My_Note/wiki/Uri--%3F-&-=)
 
-## Rest
+[Xml格式的Bared和Warpped]
+(https://github.com/zLulus/My_Note/wiki/Xml%E6%A0%BC%E5%BC%8F%E7%9A%84Bared%E5%92%8CWarpped)
+
+[Wrapped的返回值取值]
+(https://github.com/zLulus/My_Note/wiki/Wrapped%E7%9A%84%E8%BF%94%E5%9B%9E%E5%80%BC%E5%8F%96%E5%80%BC)
+
+[WCF服务托管方式（转载）]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E6%89%98%E7%AE%A1%E6%96%B9%E5%BC%8F%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
+
+[IIS运行WCF服务报错]
+(https://github.com/zLulus/My_Note/wiki/IIS%E8%BF%90%E8%A1%8CWCF%E6%9C%8D%E5%8A%A1%E6%8A%A5%E9%94%99)
+
+[WCF概念]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%A6%82%E5%BF%B5)
 
 # IIS
 
@@ -141,6 +159,9 @@
 
 [SQL Server bit<->int]
 (https://github.com/zLulus/My_Note/wiki/SQL-Server-bit%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+
+[sql 1=1]
+(https://github.com/zLulus/My_Note/wiki/sql-1=1)
 
 # 数据库
 [数据库关系]
