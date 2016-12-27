@@ -180,6 +180,12 @@
 [数据表访问]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E8%A1%A8%E8%AE%BF%E9%97%AE)
 
+[不同关系数据库 关系数据库的数据迁移]
+(https://github.com/zLulus/My_Note/wiki/%E4%B8%8D%E5%90%8C%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB)
+
+[工具：sql server profiler（分析器）]
+(https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%85%B7%EF%BC%9Asql-server-profiler%EF%BC%88%E5%88%86%E6%9E%90%E5%99%A8%EF%BC%89)
+
 ## 非关系型数据库
 
 # 数据结构
@@ -194,6 +200,11 @@
 
 # GIS
 
+# 计算机基本知识
+[字符集编码和排列规则]
+(https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
+
 # Python
 
 # Java
+
