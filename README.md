@@ -257,6 +257,12 @@
 
 ## 非关系型数据库
 ### NoSql
+[Nosql]
+(https://github.com/zLulus/My_Note/wiki/Nosql)
+
+[搜索服务器Elasticsearch]
+(https://github.com/zLulus/My_Note/wiki/%E6%90%9C%E7%B4%A2%E6%9C%8D%E5%8A%A1%E5%99%A8Elasticsearch)
+
 ### Redis
 ### Mongo DB
 
