@@ -6,8 +6,6 @@
 (#wcf)
 
 # 待完成
-[自定义函数Function]
-(https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0Function)
 
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
@@ -170,12 +168,6 @@
 [数据库关系]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
-[主从同步]
-(https://github.com/zLulus/My_Note/wiki/%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5)
-
-[VS创建新的本地数据库]
-(https://github.com/zLulus/My_Note/wiki/VS%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E5%BA%93)
-
 ## 关系型数据库
 [有了VARCHAR，为什么还要有CHAR？]
 (https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
@@ -201,6 +193,54 @@
 [特殊存储过程——触发器Trigger]
 (https://github.com/zLulus/My_Note/wiki/%E7%89%B9%E6%AE%8A%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E2%80%94%E2%80%94%E8%A7%A6%E5%8F%91%E5%99%A8Trigger)
 
+[自定义函数Function]
+(https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0Function)
+
+[主从同步]
+(https://github.com/zLulus/My_Note/wiki/%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5)
+
+[VS创建新的本地数据库]
+(https://github.com/zLulus/My_Note/wiki/VS%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+[函数与存储过程的区别]
+(https://github.com/zLulus/My_Note/wiki/%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+[视图View]
+(https://github.com/zLulus/My_Note/wiki/%E8%A7%86%E5%9B%BEView)
+
+[索引Index]
+(https://github.com/zLulus/My_Note/wiki/%E7%B4%A2%E5%BC%95Index)
+
+[约束Constraints]
+(https://github.com/zLulus/My_Note/wiki/%E7%BA%A6%E6%9D%9FConstraints)
+
+[索引与约束的区别]
+(https://github.com/zLulus/My_Note/wiki/%E7%B4%A2%E5%BC%95%E4%B8%8E%E7%BA%A6%E6%9D%9F%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+[删除数据库依赖项与被依赖项]
+(https://github.com/zLulus/My_Note/wiki/%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BE%9D%E8%B5%96%E9%A1%B9%E4%B8%8E%E8%A2%AB%E4%BE%9D%E8%B5%96%E9%A1%B9)
+
+[级联删除、更新]
+(https://github.com/zLulus/My_Note/wiki/%E7%BA%A7%E8%81%94%E5%88%A0%E9%99%A4%E3%80%81%E6%9B%B4%E6%96%B0)
+
+[数据库的设计原则]
+(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99)
+
+[数据库优化]
+(https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96)
+
+[事务]
+(https://github.com/zLulus/My_Note/wiki/%E4%BA%8B%E5%8A%A1)
+
+[sql server  DateTime与DateTime2的区别]
+(https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+[Dapper简介]
+(https://github.com/zLulus/My_Note/wiki/Dapper%E7%AE%80%E4%BB%8B)
+
+### EF
+
+
 ## 非关系型数据库
 
 # 数据结构
@@ -218,6 +258,9 @@
 # 计算机基本知识
 [字符集编码和排列规则]
 (https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
+
+[内存泄漏]
+(https://github.com/zLulus/My_Note/wiki/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
 
 # Python
 
