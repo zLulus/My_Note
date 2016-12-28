@@ -10,6 +10,9 @@
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
+[EF 事务]
+(https://github.com/zLulus/My_Note/wiki/EF-%E4%BA%8B%E5%8A%A1)
+
 [sql in 全局扫描]
 (https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
 
@@ -164,6 +167,21 @@
 [sql 1=1]
 (https://github.com/zLulus/My_Note/wiki/sql-1=1)
 
+[SQL基础+关键字]
+(https://github.com/zLulus/My_Note/wiki/SQL%E5%9F%BA%E7%A1%80-%E5%85%B3%E9%94%AE%E5%AD%97)
+
+[通配符]
+(https://github.com/zLulus/My_Note/wiki/%E9%80%9A%E9%85%8D%E7%AC%A6)
+
+[典型示例]
+(https://github.com/zLulus/My_Note/wiki/%E5%85%B8%E5%9E%8B%E7%A4%BA%E4%BE%8B)
+
+[SQL之Grant(分配权限)和Revoke(回收权限)]
+(https://github.com/zLulus/My_Note/wiki/SQL%E4%B9%8BGrant(%E5%88%86%E9%85%8D%E6%9D%83%E9%99%90)%E5%92%8CRevoke(%E5%9B%9E%E6%94%B6%E6%9D%83%E9%99%90))
+
+[子查询：相关子查询、无关子查询]
+(https://github.com/zLulus/My_Note/wiki/%E5%AD%90%E6%9F%A5%E8%AF%A2%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2%E3%80%81%E6%97%A0%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2)
+
 # 数据库
 [数据库关系]
 (https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
@@ -238,10 +256,48 @@
 [Dapper简介]
 (https://github.com/zLulus/My_Note/wiki/Dapper%E7%AE%80%E4%BB%8B)
 
-### EF
-
-
 ## 非关系型数据库
+
+# EF
+[EF性能优化]
+(https://github.com/zLulus/My_Note/wiki/EF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+
+[EF延迟加载LazyLoading]
+(https://github.com/zLulus/My_Note/wiki/EF%E5%BB%B6%E8%BF%9F%E5%8A%A0%E8%BD%BDLazyLoading)
+
+[EF相关报错]
+(https://github.com/zLulus/My_Note/wiki/EF%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%94%99)
+
+[EF 事务]
+(https://github.com/zLulus/My_Note/wiki/EF-%E4%BA%8B%E5%8A%A1)
+
+[Entity相互关系]
+(https://github.com/zLulus/My_Note/wiki/Entity%E7%9B%B8%E4%BA%92%E5%85%B3%E7%B3%BB)
+
+[Entity种类（动态代理）]
+(https://github.com/zLulus/My_Note/wiki/Entity%E7%A7%8D%E7%B1%BB%EF%BC%88%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%EF%BC%89)
+
+[DbContext]
+(https://github.com/zLulus/My_Note/wiki/DbContext)
+
+## Code First
+[Code First 连接已有数据库]
+(https://github.com/zLulus/My_Note/wiki/Code-First-%E8%BF%9E%E6%8E%A5%E5%B7%B2%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+## DB First
+[生成EF后修改最大长度限制等]
+(https://github.com/zLulus/My_Note/wiki/%E7%94%9F%E6%88%90EF%E5%90%8E%E4%BF%AE%E6%94%B9%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E9%99%90%E5%88%B6%E7%AD%89)
+
+[更新EF（更新表 添加表…）]
+(https://github.com/zLulus/My_Note/wiki/%E6%9B%B4%E6%96%B0EF%EF%BC%88%E6%9B%B4%E6%96%B0%E8%A1%A8-%E6%B7%BB%E5%8A%A0%E8%A1%A8%E2%80%A6%EF%BC%89)
+
+[DB First .edmx]
+(https://github.com/zLulus/My_Note/wiki/DB-First--.edmx)
+
+[DB First-EF中的存储过程、函数、视图]
+(https://github.com/zLulus/My_Note/wiki/DB-First-EF%E4%B8%AD%E7%9A%84%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E3%80%81%E5%87%BD%E6%95%B0%E3%80%81%E8%A7%86%E5%9B%BE)
+
+
 
 # 数据结构
 
