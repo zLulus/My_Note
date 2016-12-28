@@ -256,6 +256,8 @@
 (https://github.com/zLulus/My_Note/wiki/Dapper%E7%AE%80%E4%BB%8B)
 
 ## 非关系型数据库
+### NoSql
+### Redis
 ### Mongo DB
 
 
