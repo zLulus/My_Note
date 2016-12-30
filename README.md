@@ -10,11 +10,8 @@
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
-[EF 事务]
-(https://github.com/zLulus/My_Note/wiki/EF-%E4%BA%8B%E5%8A%A1)
-
-[sql in 全局扫描]
-(https://github.com/zLulus/My_Note/wiki/sql-in-%E5%85%A8%E5%B1%80%E6%89%AB%E6%8F%8F)
+[position、定位、z-index]
+(https://github.com/zLulus/My_Note/wiki/position%E3%80%81%E5%AE%9A%E4%BD%8D%E3%80%81z-index)
 
 [ASP .NET 图片上传与显示]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
@@ -82,6 +79,21 @@
 [IIS运行WCF服务报错]
 (https://github.com/zLulus/My_Note/wiki/IIS%E8%BF%90%E8%A1%8CWCF%E6%9C%8D%E5%8A%A1%E6%8A%A5%E9%94%99)
 
+[IIS基本介绍]
+(https://github.com/zLulus/My_Note/wiki/IIS%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D)
+
+[IIS IP地址与端口]
+(https://github.com/zLulus/My_Note/wiki/IIS-IP%E5%9C%B0%E5%9D%80%E4%B8%8E%E7%AB%AF%E5%8F%A3)
+
+[IIS文件目录]
+(https://github.com/zLulus/My_Note/wiki/IIS%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95)
+
+[MIME映射(程序映射)]
+(https://github.com/zLulus/My_Note/wiki/MIME%E6%98%A0%E5%B0%84(%E7%A8%8B%E5%BA%8F%E6%98%A0%E5%B0%84))
+
+[服务没有权限访问某目录]
+(https://github.com/zLulus/My_Note/wiki/%E6%9C%8D%E5%8A%A1%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%AE%BF%E9%97%AE%E6%9F%90%E7%9B%AE%E5%BD%95)
+
 # ASP .NET
 [ASP .NET Controller返回类型]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-Controller%E8%BF%94%E5%9B%9E%E7%B1%BB%E5%9E%8B)
@@ -124,10 +136,16 @@
 (https://github.com/zLulus/My_Note/wiki/js-%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90button-%E5%B9%B6%E8%AE%BE%E7%BD%AEclick%E4%BA%8B%E4%BB%B6)
 
 # html
-[ src与href的区别（转载） ](https://github.com/zLulus/My_Note/wiki/src%E4%B8%8Ehref%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89) 
+[html常用]
+(https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
-[ a标签 ]
-(https://github.com/zLulus/My_Note/wiki/-a-%E6%A0%87%E7%AD%BE)
+[各个控件说明]
+(https://github.com/zLulus/My_Note/wiki/%E5%90%84%E4%B8%AA%E6%8E%A7%E4%BB%B6%E8%AF%B4%E6%98%8E)
+
+[DOCTYPE]
+(https://github.com/zLulus/My_Note/wiki/DOCTYPE)
+
+[ src与href的区别（转载） ](https://github.com/zLulus/My_Note/wiki/src%E4%B8%8Ehref%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89) 
 
 [Html 空格与换行]
 (https://github.com/zLulus/My_Note/wiki/Html-%E7%A9%BA%E6%A0%BC%E4%B8%8E%E6%8D%A2%E8%A1%8C)
@@ -137,9 +155,6 @@
 
 [html 常用控件取值]
 (https://github.com/zLulus/My_Note/wiki/html-%E5%B8%B8%E7%94%A8%E6%8E%A7%E4%BB%B6%E5%8F%96%E5%80%BC)
-
-[列表常用]
-(https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B8%B8%E7%94%A8)
 
 # sql
 [sql like N'%...%' 在C#里的写法]
@@ -180,6 +195,9 @@
 
 [子查询：相关子查询、无关子查询]
 (https://github.com/zLulus/My_Note/wiki/%E5%AD%90%E6%9F%A5%E8%AF%A2%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2%E3%80%81%E6%97%A0%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2)
+
+[sql in(inner join)]
+(https://github.com/zLulus/My_Note/wiki/sql-in(inner-join))
 
 # 数据库
 [数据库关系]
@@ -287,6 +305,9 @@
 
 [DbContext]
 (https://github.com/zLulus/My_Note/wiki/DbContext)
+
+[EF 事务]
+(https://github.com/zLulus/My_Note/wiki/EF-%E4%BA%8B%E5%8A%A1)
 
 ## Code First
 [Code First 连接已有数据库]
