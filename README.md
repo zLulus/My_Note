@@ -10,6 +10,15 @@
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
+[并行和多线程Parallel]
+(https://github.com/zLulus/My_Note/wiki/%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8BParallel)
+
+[Parallel Linq的用法及性能]
+(https://github.com/zLulus/My_Note/wiki/Parallel-Linq%E7%9A%84%E7%94%A8%E6%B3%95%E5%8F%8A%E6%80%A7%E8%83%BD)
+
+[await&&async]
+(https://github.com/zLulus/My_Note/wiki/await&&async)
+
 [position、定位、z-index]
 (https://github.com/zLulus/My_Note/wiki/position%E3%80%81%E5%AE%9A%E4%BD%8D%E3%80%81z-index)
 
@@ -34,6 +43,17 @@
 
 
 # CSharp
+
+## 异步
+[异步的几种方法]
+(https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
+
+## 多线程
+[多线程Parallel和Task]
+(https://github.com/zLulus/My_Note/wiki/%E5%A4%9A%E7%BA%BF%E7%A8%8BParallel%E5%92%8CTask)
+
+[线程安全ConcurrentBag]
+(https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8ConcurrentBag)
 
 # WCF
 ## 基本
