@@ -32,9 +32,6 @@
 [ASP .NET 图片上传与显示]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
 
-[ASP .NET DropDownList多级选择事件]
-(https://github.com/zLulus/My_Note/wiki/ASP-.NET-DropDownList%E5%A4%9A%E7%BA%A7%E9%80%89%E6%8B%A9%E4%BA%8B%E4%BB%B6)
-
 [ASP .NET Response类型]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
 
@@ -122,6 +119,9 @@
 (https://github.com/zLulus/My_Note/wiki/%E6%9C%8D%E5%8A%A1%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%AE%BF%E9%97%AE%E6%9F%90%E7%9B%AE%E5%BD%95)
 
 # ASP .NET
+[ASP .NET DropDownList多级联动事件]
+(https://github.com/zLulus/My_Note/wiki/ASP-.NET-DropDownList%E5%A4%9A%E7%BA%A7%E8%81%94%E5%8A%A8%E4%BA%8B%E4%BB%B6)
+
 [ASP .NET Controller返回类型]
 (https://github.com/zLulus/My_Note/wiki/ASP-.NET-Controller%E8%BF%94%E5%9B%9E%E7%B1%BB%E5%9E%8B)
 
