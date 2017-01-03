@@ -9,6 +9,10 @@
 [github基本使用]
 (https://github.com/zLulus/My_Note/wiki/github%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
+[企业级的高可用技术]
+
+[后端性能优化]
+
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
