@@ -40,15 +40,15 @@
 
 
 # 待完成
-[全链路体验设计]
-(https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1)
+
 
 [企业级的高可用技术]
 (https://github.com/zLulus/My_Note/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8%E6%8A%80%E6%9C%AF)
 
 [后端性能优化]
 
-[WCF单元测试]
+[WCF服务的单元测试]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
 [windows服务的编写和安装]
 (https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
@@ -414,8 +414,6 @@
 [内存泄漏]
 (https://github.com/zLulus/My_Note/wiki/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
 
-# Python
-
-# Java
-
 # 其他
+[全链路体验设计]
+(https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1)
