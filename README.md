@@ -113,6 +113,9 @@
 [WCF概念]
 (https://github.com/zLulus/My_Note/wiki/WCF%E6%A6%82%E5%BF%B5)
 
+[毫秒数据字符串转换为DateTime]
+(https://github.com/zLulus/My_Note/wiki/%E6%AF%AB%E7%A7%92%E6%95%B0%E6%8D%AE%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E4%B8%BADateTime)
+
 ## Rest
 [WCF Rest用法]
 (https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
