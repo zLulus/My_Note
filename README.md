@@ -38,50 +38,8 @@
 [其他]
 (#其他)
 
-
-# 待完成
-[MSSQL]
-(https://github.com/zLulus/My_Note/wiki/MSSQL)
-
-[企业级的高可用技术]
-(https://github.com/zLulus/My_Note/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8%E6%8A%80%E6%9C%AF)
-
-[后端性能优化]
-
-[WCF服务的单元测试]
-(https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
-
-[windows服务的编写和安装]
-(https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
-
-[并行和多线程Parallel]
-(https://github.com/zLulus/My_Note/wiki/%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8BParallel)
-
-[Parallel Linq的用法及性能]
-(https://github.com/zLulus/My_Note/wiki/Parallel-Linq%E7%9A%84%E7%94%A8%E6%B3%95%E5%8F%8A%E6%80%A7%E8%83%BD)
-
-[await&&async]
-(https://github.com/zLulus/My_Note/wiki/await&&async)
-
-[position、定位、z-index]
-(https://github.com/zLulus/My_Note/wiki/position%E3%80%81%E5%AE%9A%E4%BD%8D%E3%80%81z-index)
-
-[ASP .NET 图片上传与显示]
-(https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
-
-[ASP .NET Response类型]
-(https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
-
-[sql Left/right join 多表 注意表的连接顺序]
-(https://github.com/zLulus/My_Note/wiki/sql-Left-right-join-%E5%A4%9A%E8%A1%A8-%E6%B3%A8%E6%84%8F%E8%A1%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E9%A1%BA%E5%BA%8F)
-
-[sql count(1)不要和查询数据混用 非常耗时]
-(https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
-
-[DataTable->Entity  反射+泛型]
-(https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
-
-
+[待完成]
+(#待完成)
 
 # CSharp
 
@@ -421,3 +379,46 @@
 # 其他
 [全链路体验设计]
 (https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1)
+
+
+# 待完成
+[MSSQL]
+(https://github.com/zLulus/My_Note/wiki/MSSQL)
+
+[企业级的高可用技术]
+(https://github.com/zLulus/My_Note/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8%E6%8A%80%E6%9C%AF)
+
+[后端性能优化]
+
+[WCF服务的单元测试]
+(https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+
+[windows服务的编写和安装]
+(https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
+
+[并行和多线程Parallel]
+(https://github.com/zLulus/My_Note/wiki/%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8BParallel)
+
+[Parallel Linq的用法及性能]
+(https://github.com/zLulus/My_Note/wiki/Parallel-Linq%E7%9A%84%E7%94%A8%E6%B3%95%E5%8F%8A%E6%80%A7%E8%83%BD)
+
+[await&&async]
+(https://github.com/zLulus/My_Note/wiki/await&&async)
+
+[position、定位、z-index]
+(https://github.com/zLulus/My_Note/wiki/position%E3%80%81%E5%AE%9A%E4%BD%8D%E3%80%81z-index)
+
+[ASP .NET 图片上传与显示]
+(https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
+
+[ASP .NET Response类型]
+(https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
+
+[sql Left/right join 多表 注意表的连接顺序]
+(https://github.com/zLulus/My_Note/wiki/sql-Left-right-join-%E5%A4%9A%E8%A1%A8-%E6%B3%A8%E6%84%8F%E8%A1%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E9%A1%BA%E5%BA%8F)
+
+[sql count(1)不要和查询数据混用 非常耗时]
+(https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
+
+[DataTable->Entity  反射+泛型]
+(https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
