@@ -29,8 +29,12 @@
 [数据结构]
 (#数据结构)
 
+[操作系统]
+(#操作系统)
+
 [github]
 (#github)
+
 
 [计算机基本知识]
 (#计算机基本知识)
@@ -357,6 +361,10 @@
 
 
 # 数据结构
+
+# 操作系统
+[windows server疑难杂症]
+(https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
 
 # github
 [github基本使用]
