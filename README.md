@@ -141,6 +141,9 @@
 [下拉选择框　设置内容/获取选中项/设置选中项]
 (https://github.com/zLulus/My_Note/wiki/%E4%B8%8B%E6%8B%89%E9%80%89%E6%8B%A9%E6%A1%86%E3%80%80%E8%AE%BE%E7%BD%AE%E5%86%85%E5%AE%B9-%E8%8E%B7%E5%8F%96%E9%80%89%E4%B8%AD%E9%A1%B9-%E8%AE%BE%E7%BD%AE%E9%80%89%E4%B8%AD%E9%A1%B9)
 
+[Form submit方法]
+(https://github.com/zLulus/My_Note/wiki/Form-submit)
+
 # javascript && jQuery
 [Ajax请求小结]
 (https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
