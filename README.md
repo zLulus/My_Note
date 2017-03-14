@@ -14,6 +14,9 @@
 [javascript && jQuery]
 (#javascript--jquery)
 
+[AngularJS]
+(#AngularJS)
+
 [html]
 (#html)
 
@@ -148,7 +151,7 @@
 [Form submit方法]
 (https://github.com/zLulus/My_Note/wiki/Form-submit)
 
-# javascript && jQuery
+# javascript && jQuery 
 [Ajax请求小结]
 (https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
@@ -166,6 +169,10 @@
 
 [js 动态生成button 并设置click事件]
 (https://github.com/zLulus/My_Note/wiki/js-%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90button-%E5%B9%B6%E8%AE%BE%E7%BD%AEclick%E4%BA%8B%E4%BB%B6)
+
+# AngularJS
+[AngularJS 简介]
+(https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
 
 # html
 [html常用]
@@ -433,3 +440,6 @@
 
 [DataTable->Entity  反射+泛型]
 (https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
+
+[html 自制属性]
+(https://github.com/zLulus/My_Note/wiki/html-%E8%87%AA%E5%88%B6%E5%B1%9E%E6%80%A7)
