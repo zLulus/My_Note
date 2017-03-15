@@ -183,6 +183,9 @@
 [AngularJS 过滤器]
 (https://github.com/zLulus/My_Note/wiki/AngularJS-%E8%BF%87%E6%BB%A4%E5%99%A8)
 
+[AngularJS 服务(Service)]
+(https://github.com/zLulus/My_Note/wiki/AngularJS-%E6%9C%8D%E5%8A%A1(Service))
+
 # html
 [html常用]
 (https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
