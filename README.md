@@ -1,58 +1,40 @@
 # My Note
-[C#]
-(#csharp)
+[C#](#csharp)
 
-[WCF]
-(#wcf)
+[WCF](#wcf)
 
-[WCF && IIS]
-(#wcf--iis)
+[WCF && IIS](#wcf--iis)
 
-[ASP .NET]
-(#asp-net)
+[ASP .NET](#asp-net)
 
-[javascript && jQuery]
-(#javascript--jquery)
+[javascript && jQuery](#javascript--jquery)
 
-[AngularJS]
-(#AngularJS)
+[AngularJS](#AngularJS)
 
-[html]
-(#html)
+[html](#html)
 
-[sql]
-(#sql)
+[sql](#sql)
 
-[数据库]
-(#数据库)
+[数据库](#数据库)
 
-[EF]
-(#ef)
+[EF](#ef)
 
-[数据结构]
-(#数据结构)
+[数据结构](#数据结构)
 
-[操作系统]
-(#操作系统)
+[操作系统](#操作系统)
 
-[github]
-(#github)
+[github](#github)
 
+[计算机基本知识](#计算机基本知识)
 
-[计算机基本知识]
-(#计算机基本知识)
+[其他](#其他)
 
-[其他]
-(#其他)
-
-[待完成]
-(#待完成)
+[待完成](#待完成)
 
 # CSharp
 
 ## 异步
-[异步的几种方法]
-(https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
+[异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
 ## 多线程
 [多线程Parallel和Task]
@@ -185,6 +167,7 @@
 
 [AngularJS 服务(Service)]
 (https://github.com/zLulus/My_Note/wiki/AngularJS-%E6%9C%8D%E5%8A%A1(Service))
+
 
 # html
 [html常用]
@@ -458,3 +441,6 @@
 
 [html 自制属性]
 (https://github.com/zLulus/My_Note/wiki/html-%E8%87%AA%E5%88%B6%E5%B1%9E%E6%80%A7)
+
+[AngularJS 依赖注入]
+(https://github.com/zLulus/My_Note/wiki/AngularJS-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
