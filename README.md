@@ -9,7 +9,7 @@
 
 [javascript && jQuery](#javascript--jquery)
 
-[AngularJS](#AngularJS)
+[AngularJS](#angularJS)
 
 [html](#html)
 
