@@ -129,6 +129,7 @@
 
 [AngularJS 服务(Service)](https://github.com/zLulus/My_Note/wiki/AngularJS-%E6%9C%8D%E5%8A%A1(Service))
 
+[AngularJS Demo分析](https://github.com/zLulus/My_Note/wiki/AngularJS-Demo%E5%88%86%E6%9E%90)
 
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
