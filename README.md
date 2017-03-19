@@ -294,6 +294,7 @@
 # 其他
 [全链路体验设计](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1)
 
+[单点登录SSO（转载）](https://github.com/zLulus/My_Note/wiki/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95SSO%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
 # 待完成
 [MSSQL](https://github.com/zLulus/My_Note/wiki/MSSQL)
