@@ -109,6 +109,8 @@
 
 [Form submit方法](https://github.com/zLulus/My_Note/wiki/Form-submit)
 
+[Tab切换效果的实现](https://github.com/zLulus/My_Note/wiki/Tab%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C%E7%9A%84%E5%AE%9E%E7%8E%B0)
+
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
