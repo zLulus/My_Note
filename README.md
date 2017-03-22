@@ -135,6 +135,8 @@
 
 [AngularJS Demo分析](https://github.com/zLulus/My_Note/wiki/AngularJS-Demo%E5%88%86%E6%9E%90)
 
+[AngularJS radio绑定与取值](https://github.com/zLulus/My_Note/wiki/AngularJS-radio%E7%BB%91%E5%AE%9A%E4%B8%8E%E5%8F%96%E5%80%BC)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
