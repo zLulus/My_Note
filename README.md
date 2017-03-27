@@ -133,9 +133,13 @@
 
 [AngularJS 服务(Service)](https://github.com/zLulus/My_Note/wiki/AngularJS-%E6%9C%8D%E5%8A%A1(Service))
 
-[AngularJS Demo分析](https://github.com/zLulus/My_Note/wiki/AngularJS-Demo%E5%88%86%E6%9E%90)
-
 [AngularJS radio绑定与取值](https://github.com/zLulus/My_Note/wiki/AngularJS-radio%E7%BB%91%E5%AE%9A%E4%B8%8E%E5%8F%96%E5%80%BC)
+
+[AngularJS table循环数据](https://github.com/zLulus/My_Note/wiki/AngularJS-table%E5%BE%AA%E7%8E%AF%E6%95%B0%E6%8D%AE)
+
+[AngularJS 页面计算](https://github.com/zLulus/My_Note/wiki/AngularJS-%E9%A1%B5%E9%9D%A2%E8%AE%A1%E7%AE%97)
+
+[AngularJS 多级下拉框](https://github.com/zLulus/My_Note/wiki/AngularJS-%E5%A4%9A%E7%BA%A7%E4%B8%8B%E6%8B%89%E6%A1%86)
 
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
