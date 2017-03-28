@@ -145,6 +145,8 @@
 
 [AngularJS ng-if使用](https://github.com/zLulus/My_Note/wiki/AngularJS-ng_if%E4%BD%BF%E7%94%A8)
 
+[AngularJS 页面传参、窗口传参](https://github.com/zLulus/My_Note/wiki/AngularJS-%E9%A1%B5%E9%9D%A2%E4%BC%A0%E5%8F%82%E3%80%81%E7%AA%97%E5%8F%A3%E4%BC%A0%E5%8F%82)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
