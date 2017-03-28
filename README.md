@@ -141,6 +141,10 @@
 
 [AngularJS 多级下拉框](https://github.com/zLulus/My_Note/wiki/AngularJS-%E5%A4%9A%E7%BA%A7%E4%B8%8B%E6%8B%89%E6%A1%86)
 
+[AngularJS 计时器](https://github.com/zLulus/My_Note/wiki/AngularJS-%E8%AE%A1%E6%97%B6%E5%99%A8)
+
+[AngularJS ng-if使用](https://github.com/zLulus/My_Note/wiki/AngularJS-ng_if%E4%BD%BF%E7%94%A8)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
