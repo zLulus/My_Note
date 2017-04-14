@@ -113,6 +113,8 @@
 
 [Tab切换效果的实现](https://github.com/zLulus/My_Note/wiki/Tab%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C%E7%9A%84%E5%AE%9E%E7%8E%B0)
 
+[ajax默认form表单提交，导致实体不识别](https://github.com/zLulus/My_Note/wiki/ajax%E9%BB%98%E8%AE%A4form%E8%A1%A8%E5%8D%95%E6%8F%90%E4%BA%A4%EF%BC%8C%E5%AF%BC%E8%87%B4%E5%AE%9E%E4%BD%93%E4%B8%8D%E8%AF%86%E5%88%AB)
+
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
