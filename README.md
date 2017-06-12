@@ -325,6 +325,8 @@
 
 [单点登录SSO（转载）](https://github.com/zLulus/My_Note/wiki/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95SSO%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
+[技术面试官基础](https://github.com/zLulus/My_Note/wiki/%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%AE%98%E5%9F%BA%E7%A1%80)
+
 # 待完成
 [MSSQL](https://github.com/zLulus/My_Note/wiki/MSSQL)
 
