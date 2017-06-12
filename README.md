@@ -305,6 +305,8 @@
 # github
 [github基本使用](https://github.com/zLulus/My_Note/wiki/github%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
+[SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
+
 # WPF
 
 # Android
