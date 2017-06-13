@@ -331,6 +331,8 @@
 
 [测试工具](https://github.com/zLulus/My_Note/wiki/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)
 
+[常见性能问题选编](https://github.com/zLulus/My_Note/wiki/%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E9%80%89%E7%BC%96)
+
 # 待完成
 [MSSQL](https://github.com/zLulus/My_Note/wiki/MSSQL)
 
