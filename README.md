@@ -115,6 +115,8 @@
 
 [ajax默认form表单提交，导致实体不识别](https://github.com/zLulus/My_Note/wiki/ajax%E9%BB%98%E8%AE%A4form%E8%A1%A8%E5%8D%95%E6%8F%90%E4%BA%A4%EF%BC%8C%E5%AF%BC%E8%87%B4%E5%AE%9E%E4%BD%93%E4%B8%8D%E8%AF%86%E5%88%AB)
 
+[ASP .NET Views文件夹下面的文件找不到](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Views%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%96%87%E4%BB%B6%E6%89%BE%E4%B8%8D%E5%88%B0)
+
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
