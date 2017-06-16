@@ -327,15 +327,15 @@
 [内存泄漏](https://github.com/zLulus/My_Note/wiki/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
 
 # 其他
-[全链路体验设计](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1)
+[全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
 [单点登录SSO（转载）](https://github.com/zLulus/My_Note/wiki/%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95SSO%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
-[技术面试官基础](https://github.com/zLulus/My_Note/wiki/%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%AE%98%E5%9F%BA%E7%A1%80)
+[技术面试官基础（转载）](https://github.com/zLulus/My_Note/wiki/%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%AE%98%E5%9F%BA%E7%A1%80%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
-[测试工具](https://github.com/zLulus/My_Note/wiki/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)
+[测试工具（转载）](https://github.com/zLulus/My_Note/wiki/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
-[常见性能问题选编](https://github.com/zLulus/My_Note/wiki/%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E9%80%89%E7%BC%96)
+[常见性能问题选编（转载）](https://github.com/zLulus/My_Note/wiki/%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E9%80%89%E7%BC%96%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
 # 待完成
 [MSSQL](https://github.com/zLulus/My_Note/wiki/MSSQL)
