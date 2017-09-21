@@ -134,6 +134,8 @@
 
 [js 动态生成button 并设置click事件](https://github.com/zLulus/My_Note/wiki/js-%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90button-%E5%B9%B6%E8%AE%BE%E7%BD%AEclick%E4%BA%8B%E4%BB%B6)
 
+[js的一些写法问题](https://github.com/zLulus/My_Note/wiki/js%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%99%E6%B3%95%E9%97%AE%E9%A2%98)
+
 # AngularJS
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
 
