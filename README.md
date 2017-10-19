@@ -39,7 +39,7 @@
 
 [C#调用python](https://github.com/zLulus/My_Note/wiki/C%23%E8%B0%83%E7%94%A8python)
 
-[模拟请求(模拟header gzip解压 泛型)](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E6%8B%9F%E8%AF%B7%E6%B1%82(%E6%A8%A1%E6%8B%9Fheader-gzip%E8%A7%A3%E5%8E%8B-%E6%B3%9B%E5%9E%8B))
+[模拟请求(模拟header/gzip解压/泛型)](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E6%8B%9F%E8%AF%B7%E6%B1%82(%E6%A8%A1%E6%8B%9Fheader-gzip%E8%A7%A3%E5%8E%8B-%E6%B3%9B%E5%9E%8B))
 
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
