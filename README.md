@@ -132,6 +132,8 @@
 
 [ASP.NET Core 配置身份验证](https://github.com/zLulus/My_Note/wiki/ASP.NET-Core-%E9%85%8D%E7%BD%AE%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81)
 
+[.net core注入服务](https://github.com/zLulus/My_Note/wiki/.net-core%E6%B3%A8%E5%85%A5%E6%9C%8D%E5%8A%A1)
+
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
