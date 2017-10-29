@@ -127,6 +127,7 @@
 
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+[windows IIS发布.net core网站的环境配置](https://github.com/zLulus/My_Note/wiki/windows-IIS%E5%8F%91%E5%B8%83.net-core%E7%BD%91%E7%AB%99%E7%9A%84%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE)
 
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
