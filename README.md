@@ -134,6 +134,8 @@
 
 [.net core注入服务](https://github.com/zLulus/My_Note/wiki/.net-core%E6%B3%A8%E5%85%A5%E6%9C%8D%E5%8A%A1)
 
+[.net core使用redis](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8redis)
+
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
 
