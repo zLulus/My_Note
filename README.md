@@ -139,9 +139,11 @@
 ## IdentityServer
 [IdentityServer基本概念](https://github.com/zLulus/My_Note/wiki/IdentityServer%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
+[最简单的IdentityServer实现](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0)
+
 [基于IdentityServer4的单点登录](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EIdentityServer4%E7%9A%84%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95)
 
-[最简单的IdentityServer实现](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0)
+[IdentityServer4的详细说明](https://github.com/zLulus/My_Note/wiki/IdentityServer4%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E)
 
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
