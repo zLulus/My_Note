@@ -137,7 +137,7 @@
 [.net core使用redis](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8redis)
 
 ## IdentityServer
-
+[IdentityServer基本概念](https://github.com/zLulus/My_Note/wiki/IdentityServer%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
 # javascript && jQuery 
 [Ajax请求小结](https://github.com/zLulus/My_Note/wiki/Ajax%E8%AF%B7%E6%B1%82%E5%B0%8F%E7%BB%93)
