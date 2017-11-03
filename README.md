@@ -374,6 +374,8 @@
 
 [Octave——function和commond](https://github.com/zLulus/My_Note/wiki/Octave%E2%80%94%E2%80%94function%E5%92%8Ccommond)
 
+[从命令行调用Octave](https://github.com/zLulus/My_Note/wiki/%E4%BB%8E%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%B0%83%E7%94%A8Octave)
+
 ### Octave基本语法
 [Octave基本语法（一）——矩阵](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E7%9F%A9%E9%98%B5)
 
