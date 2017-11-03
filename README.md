@@ -47,6 +47,8 @@
 
 [C#控制台关闭之前做一些操作](https://github.com/zLulus/My_Note/wiki/C%23%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%85%B3%E9%97%AD%E4%B9%8B%E5%89%8D%E5%81%9A%E4%B8%80%E4%BA%9B%E6%93%8D%E4%BD%9C)
 
+[C# 元组、匿名对象、ref&out](https://github.com/zLulus/My_Note/wiki/C%23-%E5%85%83%E7%BB%84%E3%80%81%E5%8C%BF%E5%90%8D%E5%AF%B9%E8%B1%A1%E3%80%81ref&out)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
