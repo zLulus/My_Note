@@ -369,6 +369,11 @@
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
+## Octave
+[Octave下载与运行](https://github.com/zLulus/My_Note/wiki/Octave%E4%B8%8B%E8%BD%BD%E4%B8%8E%E8%BF%90%E8%A1%8C)
+
+[Octave基本语法（一）——矩阵](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E7%9F%A9%E9%98%B5)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
