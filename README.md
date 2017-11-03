@@ -376,6 +376,8 @@
 
 [Octave基本语法（二）——微分方程和图形输出](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%92%8C%E5%9B%BE%E5%BD%A2%E8%BE%93%E5%87%BA)
 
+[Octave基本语法（三）——function和commond](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94function%E5%92%8Ccommond)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
