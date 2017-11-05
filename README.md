@@ -393,6 +393,8 @@
 
 [常见性能问题选编（转载）](https://github.com/zLulus/My_Note/wiki/%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E9%80%89%E7%BC%96%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
+[听讲座小记——关于全栈和学习方式等](https://github.com/zLulus/My_Note/wiki/%E5%90%AC%E8%AE%B2%E5%BA%A7%E5%B0%8F%E8%AE%B0%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E5%85%A8%E6%A0%88%E5%92%8C%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F%E7%AD%89)
+
 # 待完成
 [MSSQL](https://github.com/zLulus/My_Note/wiki/MSSQL)
 
