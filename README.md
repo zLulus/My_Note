@@ -369,6 +369,8 @@
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
+[模型相关概念](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E5%9E%8B%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5)
+
 ## Octave
 [Octave下载与运行](https://github.com/zLulus/My_Note/wiki/Octave%E4%B8%8B%E8%BD%BD%E4%B8%8E%E8%BF%90%E8%A1%8C)
 
