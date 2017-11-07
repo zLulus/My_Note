@@ -149,6 +149,8 @@
 
 [基于IdentityServer4的单点登录](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EIdentityServer4%E7%9A%84%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95)
 
+[基于IdentityServer4示例的修改](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EIdentityServer4%E7%A4%BA%E4%BE%8B%E7%9A%84%E4%BF%AE%E6%94%B9)
+
 [IdentityServer4的详细说明](https://github.com/zLulus/My_Note/wiki/IdentityServer4%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E)
 
 # javascript && jQuery 
