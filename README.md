@@ -376,6 +376,8 @@
 ## 回归问题
 [梯度下降算法](https://github.com/zLulus/My_Note/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D)
 
+[特征缩放(用于梯度下降算法)](https://github.com/zLulus/My_Note/wiki/%E7%89%B9%E5%BE%81%E7%BC%A9%E6%94%BE(%E7%94%A8%E4%BA%8E%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%AE%97%E6%B3%95))
+
 ## 分类问题
 
 ## Octave
