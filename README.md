@@ -373,14 +373,16 @@
 
 [模型相关概念](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E5%9E%8B%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5)
 
-## 梯度下降
+## 线性回归
+### 梯度下降
 [梯度下降算法](https://github.com/zLulus/My_Note/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D)
 
 [特征缩放(用于梯度下降算法)](https://github.com/zLulus/My_Note/wiki/%E7%89%B9%E5%BE%81%E7%BC%A9%E6%94%BE(%E7%94%A8%E4%BA%8E%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%AE%97%E6%B3%95))
 
-## 标准方程法
+### 标准方程法
 
 ## 逻辑回归
+### 梯度下降
 
 ## Octave
 [Octave下载与运行](https://github.com/zLulus/My_Note/wiki/Octave%E4%B8%8B%E8%BD%BD%E4%B8%8E%E8%BF%90%E8%A1%8C)
