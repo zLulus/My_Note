@@ -33,6 +33,8 @@
 
 [机器学习](#机器学习)
 
+[learning how to learn](#learning how to learn)
+
 [其他](#其他)
 
 [待完成](#待完成)
@@ -395,6 +397,9 @@
 [Octave基本语法（一）——矩阵](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E7%9F%A9%E9%98%B5)
 
 [Octave基本语法（二）——微分方程和图形输出](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%92%8C%E5%9B%BE%E5%BD%A2%E8%BE%93%E5%87%BA)
+
+
+# learning how to learn
 
 
 # 其他
