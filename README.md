@@ -33,7 +33,7 @@
 
 [机器学习](#机器学习)
 
-[learning how to learn](#learning--how--to--learn)
+[learning how to learn](#learning-how-to-learn)
 
 [其他](#其他)
 
