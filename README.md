@@ -400,7 +400,9 @@
 
 
 # learning how to learn
+[两种思维模式——集中思维和发散思维](https://github.com/zLulus/My_Note/wiki/%E4%B8%A4%E7%A7%8D%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%BC%8F%E2%80%94%E2%80%94%E9%9B%86%E4%B8%AD%E6%80%9D%E7%BB%B4%E5%92%8C%E5%8F%91%E6%95%A3%E6%80%9D%E7%BB%B4)
 
+[针对拖延症的解决方案](https://github.com/zLulus/My_Note/wiki/%E9%92%88%E5%AF%B9%E6%8B%96%E5%BB%B6%E7%97%87%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
