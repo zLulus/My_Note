@@ -321,8 +321,6 @@
 
 [DbContext](https://github.com/zLulus/My_Note/wiki/DbContext)
 
-[EF 事务](https://github.com/zLulus/My_Note/wiki/EF-%E4%BA%8B%E5%8A%A1)
-
 [Entity States](https://github.com/zLulus/My_Note/wiki/Entity-States)
 
 ## Code First
