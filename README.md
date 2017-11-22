@@ -397,6 +397,8 @@
 [Octave基本语法（二）——微分方程和图形输出](https://github.com/zLulus/My_Note/wiki/Octave%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%92%8C%E5%9B%BE%E5%BD%A2%E8%BE%93%E5%87%BA)
 
 
+## 神经网络
+
 # learning how to learn
 [两种思维模式——集中思维和发散思维](https://github.com/zLulus/My_Note/wiki/%E4%B8%A4%E7%A7%8D%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%BC%8F%E2%80%94%E2%80%94%E9%9B%86%E4%B8%AD%E6%80%9D%E7%BB%B4%E5%92%8C%E5%8F%91%E6%95%A3%E6%80%9D%E7%BB%B4)
 
