@@ -410,6 +410,8 @@
 
 [针对拖延症的解决方案](https://github.com/zLulus/My_Note/wiki/%E9%92%88%E5%AF%B9%E6%8B%96%E5%BB%B6%E7%97%87%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
+[帮助学习的方法](https://github.com/zLulus/My_Note/wiki/%E5%B8%AE%E5%8A%A9%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%96%B9%E6%B3%95)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
