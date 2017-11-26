@@ -381,12 +381,12 @@
 
 ### 标准方程法
 
-[线性回归作业归纳](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3)
+[线性回归作业归纳(作业1)](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3(%E4%BD%9C%E4%B8%9A1))
 
 ## 逻辑回归
 ### 梯度下降
 
-[逻辑回归作业归纳](https://github.com/zLulus/My_Note/wiki/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3)
+[逻辑回归作业归纳(作业2)](https://github.com/zLulus/My_Note/wiki/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3(%E4%BD%9C%E4%B8%9A2))
 
 ## Octave
 [Octave下载与运行](https://github.com/zLulus/My_Note/wiki/Octave%E4%B8%8B%E8%BD%BD%E4%B8%8E%E8%BF%90%E8%A1%8C)
@@ -408,6 +408,8 @@
 [神经网络的基本概念与公式](https://github.com/zLulus/My_Note/wiki/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%85%AC%E5%BC%8F)
 
 [神经网络运用举例](https://github.com/zLulus/My_Note/wiki/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%BF%90%E7%94%A8%E4%B8%BE%E4%BE%8B)
+
+[神经网络作业归纳(作业3)](https://github.com/zLulus/My_Note/wiki/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3(%E4%BD%9C%E4%B8%9A3))
 
 # learning how to learn
 [两种思维模式——集中思维和发散思维](https://github.com/zLulus/My_Note/wiki/%E4%B8%A4%E7%A7%8D%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%BC%8F%E2%80%94%E2%80%94%E9%9B%86%E4%B8%AD%E6%80%9D%E7%BB%B4%E5%92%8C%E5%8F%91%E6%95%A3%E6%80%9D%E7%BB%B4)
