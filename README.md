@@ -420,6 +420,8 @@
 
 [组块(Chunk)](https://github.com/zLulus/My_Note/wiki/%E7%BB%84%E5%9D%97(Chunk))
 
+[过度识记(Overlearning)、刻意训练、交替练习](https://github.com/zLulus/My_Note/wiki/%E8%BF%87%E5%BA%A6%E8%AF%86%E8%AE%B0(Overlearning)%E3%80%81%E5%88%BB%E6%84%8F%E8%AE%AD%E7%BB%83%E3%80%81%E4%BA%A4%E6%9B%BF%E7%BB%83%E4%B9%A0)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
