@@ -384,6 +384,8 @@
 ## 逻辑回归
 ### 梯度下降
 
+[逻辑回归作业归纳](https://github.com/zLulus/My_Note/wiki/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3)
+
 ## Octave
 [Octave下载与运行](https://github.com/zLulus/My_Note/wiki/Octave%E4%B8%8B%E8%BD%BD%E4%B8%8E%E8%BF%90%E8%A1%8C)
 
