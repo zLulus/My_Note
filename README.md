@@ -381,6 +381,8 @@
 
 ### 标准方程法
 
+[线性回归作业归纳](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3)
+
 ## 逻辑回归
 ### 梯度下降
 
