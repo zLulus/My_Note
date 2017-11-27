@@ -443,14 +443,6 @@
 
 [windows服务的编写和安装](https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
-[并行和多线程Parallel](https://github.com/zLulus/My_Note/wiki/%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8BParallel)
-
-[Parallel Linq的用法及性能](https://github.com/zLulus/My_Note/wiki/Parallel-Linq%E7%9A%84%E7%94%A8%E6%B3%95%E5%8F%8A%E6%80%A7%E8%83%BD)
-
-[await&&async](https://github.com/zLulus/My_Note/wiki/await&&async)
-
-[position、定位、z-index](https://github.com/zLulus/My_Note/wiki/position%E3%80%81%E5%AE%9A%E4%BD%8D%E3%80%81z-index)
-
 [ASP .NET 图片上传与显示](https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
 
 [ASP .NET Response类型](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
