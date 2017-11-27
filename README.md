@@ -191,8 +191,6 @@
 
 [AngularJS ng-if使用](https://github.com/zLulus/My_Note/wiki/AngularJS-ng_if%E4%BD%BF%E7%94%A8)
 
-[AngularJS 页面传参、窗口传参](https://github.com/zLulus/My_Note/wiki/AngularJS-%E9%A1%B5%E9%9D%A2%E4%BC%A0%E5%8F%82%E3%80%81%E7%AA%97%E5%8F%A3%E4%BC%A0%E5%8F%82)
-
 [AngularJS 时间格式化](https://github.com/zLulus/My_Note/wiki/AngularJS-%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96)
 
 [AngularJS $http和$.ajax](https://github.com/zLulus/My_Note/wiki/AngularJS-$http%E5%92%8C$.ajax)
