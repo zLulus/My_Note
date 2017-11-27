@@ -51,6 +51,8 @@
 
 [C# 元组、匿名对象、ref&out](https://github.com/zLulus/My_Note/wiki/C%23-%E5%85%83%E7%BB%84%E3%80%81%E5%8C%BF%E5%90%8D%E5%AF%B9%E8%B1%A1%E3%80%81ref&out)
 
+[DataTable转换为Entity(反射&&泛型)](https://github.com/zLulus/My_Note/wiki/DataTable%E8%BD%AC%E6%8D%A2%E4%B8%BAEntity(%E5%8F%8D%E5%B0%84&&%E6%B3%9B%E5%9E%8B))
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
@@ -450,8 +452,6 @@
 [sql Left/right join 多表 注意表的连接顺序](https://github.com/zLulus/My_Note/wiki/sql-Left-right-join-%E5%A4%9A%E8%A1%A8-%E6%B3%A8%E6%84%8F%E8%A1%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E9%A1%BA%E5%BA%8F)
 
 [sql count(1)不要和查询数据混用 非常耗时](https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
-
-[DataTable->Entity  反射+泛型](https://github.com/zLulus/My_Note/wiki/DataTable--Entity--%E5%8F%8D%E5%B0%84-%E6%B3%9B%E5%9E%8B)
 
 [html 自制属性](https://github.com/zLulus/My_Note/wiki/html-%E8%87%AA%E5%88%B6%E5%B1%9E%E6%80%A7)
 
