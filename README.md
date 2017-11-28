@@ -199,6 +199,8 @@
 
 [AngularJS $http和$.ajax](https://github.com/zLulus/My_Note/wiki/AngularJS-$http%E5%92%8C$.ajax)
 
+[AngularJS 依赖注入](https://github.com/zLulus/My_Note/wiki/AngularJS-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
+
 # ABP
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
 
@@ -452,7 +454,5 @@
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
 [windows服务的编写和安装](https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
-
-[AngularJS 依赖注入](https://github.com/zLulus/My_Note/wiki/AngularJS-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
 
 [ABP杂谈](https://github.com/zLulus/My_Note/wiki/ABP%E6%9D%82%E8%B0%88)
