@@ -451,8 +451,6 @@
 
 [windows服务的编写和安装](https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
 
-[ASP .NET 图片上传与显示](https://github.com/zLulus/My_Note/wiki/ASP-.NET-%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%8E%E6%98%BE%E7%A4%BA)
-
 [html 自制属性](https://github.com/zLulus/My_Note/wiki/html-%E8%87%AA%E5%88%B6%E5%B1%9E%E6%80%A7)
 
 [AngularJS 依赖注入](https://github.com/zLulus/My_Note/wiki/AngularJS-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
