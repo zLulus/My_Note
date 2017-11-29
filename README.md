@@ -148,6 +148,8 @@
 
 [.net core使用redis](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8redis)
 
+[EF Core注意事项](https://github.com/zLulus/My_Note/wiki/EF-Core%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+
 ## IdentityServer
 [IdentityServer基本概念](https://github.com/zLulus/My_Note/wiki/IdentityServer%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
