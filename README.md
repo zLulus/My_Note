@@ -154,6 +154,8 @@
 
 [EF Core注意事项](https://github.com/zLulus/My_Note/wiki/EF-Core%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
+[asp .net core 读取读取Views文件夹下的js和css](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E8%AF%BB%E5%8F%96%E8%AF%BB%E5%8F%96Views%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84js%E5%92%8Ccss)
+
 ## IdentityServer
 [IdentityServer基本概念](https://github.com/zLulus/My_Note/wiki/IdentityServer%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
