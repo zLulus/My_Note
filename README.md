@@ -77,6 +77,8 @@
 
 [POST请求——HttpWebRequest](https://github.com/zLulus/My_Note/wiki/POST%E8%AF%B7%E6%B1%82%E2%80%94%E2%80%94HttpWebRequest)
 
+[windows服务的编写,手动安装与卸载](https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99,%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E4%B8%8E%E5%8D%B8%E8%BD%BD)
+
 ## Rest
 [WCF Rest用法](https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
 
@@ -455,6 +457,6 @@
 
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
-[windows服务的编写和安装](https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99%E5%92%8C%E5%AE%89%E8%A3%85)
+
 
 [ABP杂谈](https://github.com/zLulus/My_Note/wiki/ABP%E6%9D%82%E8%B0%88)
