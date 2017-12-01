@@ -79,6 +79,8 @@
 
 [windows服务的编写,手动安装与卸载](https://github.com/zLulus/My_Note/wiki/windows%E6%9C%8D%E5%8A%A1%E7%9A%84%E7%BC%96%E5%86%99,%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E4%B8%8E%E5%8D%B8%E8%BD%BD)
 
+[WCF的几个注意事项](https://github.com/zLulus/My_Note/wiki/WCF%E7%9A%84%E5%87%A0%E4%B8%AA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+
 ## Rest
 [WCF Rest用法](https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
 
