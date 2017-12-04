@@ -162,7 +162,13 @@
 [IdentityServer流程图与相关术语](https://github.com/zLulus/My_Note/wiki/IdentityServer%E6%B5%81%E7%A8%8B%E5%9B%BE%E4%B8%8E%E7%9B%B8%E5%85%B3%E6%9C%AF%E8%AF%AD)
 
 ### 最简单的IdentityServer实现
-[最简单的IdentityServer实现](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0)
+[最简单的IdentityServer实现——项目基本结构与流程](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0%E2%80%94%E2%80%94%E9%A1%B9%E7%9B%AE%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%E4%B8%8E%E6%B5%81%E7%A8%8B)
+
+[最简单的IdentityServer实现——IdentityServer](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0%E2%80%94%E2%80%94IdentityServer)
+
+[最简单的IdentityServer实现——Api](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0%E2%80%94%E2%80%94Api)
+
+[最简单的IdentityServer实现——Client](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0%E2%80%94%E2%80%94Client)
 
 ### 基于IdentityServer4的单点登录
 [基于IdentityServer4的单点登录](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EIdentityServer4%E7%9A%84%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95)
