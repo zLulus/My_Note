@@ -157,7 +157,9 @@
 [asp .net core 读取读取Views文件夹下的js和css](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E8%AF%BB%E5%8F%96%E8%AF%BB%E5%8F%96Views%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84js%E5%92%8Ccss)
 
 ## IdentityServer
-[IdentityServer基本概念](https://github.com/zLulus/My_Note/wiki/IdentityServer%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+[IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
+
+[IdentityServer流程图与相关术语](https://github.com/zLulus/My_Note/wiki/IdentityServer%E6%B5%81%E7%A8%8B%E5%9B%BE%E4%B8%8E%E7%9B%B8%E5%85%B3%E6%9C%AF%E8%AF%AD)
 
 [最简单的IdentityServer实现](https://github.com/zLulus/My_Note/wiki/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84IdentityServer%E5%AE%9E%E7%8E%B0)
 
