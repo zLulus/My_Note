@@ -384,6 +384,13 @@
 [SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
 
 # WPF
+[列表嵌套列表](https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8)
+
+[Binding的TwoWay,PropertyChanged说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84TwoWay,PropertyChanged%E8%AF%B4%E6%98%8E)
+
+[ListView,ListBox,DataGrid](https://github.com/zLulus/My_Note/wiki/ListView,ListBox,DataGrid)
+
+[Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
 
 # Android
 
