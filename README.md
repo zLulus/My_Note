@@ -408,6 +408,20 @@
 
 [输入异常提示](https://github.com/zLulus/My_Note/wiki/%E8%BE%93%E5%85%A5%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA)
 
+[WPF DataGrid列头后台生成，列头重复解决方案](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E5%88%97%E5%A4%B4%E5%90%8E%E5%8F%B0%E7%94%9F%E6%88%90%EF%BC%8C%E5%88%97%E5%A4%B4%E9%87%8D%E5%A4%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+
+[触发器](https://github.com/zLulus/My_Note/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8)
+
+[线程](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B)
+
+[command+传参,click](https://github.com/zLulus/My_Note/wiki/command-%E4%BC%A0%E5%8F%82,click)
+
+[资源文件的适用范围](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4)
+
+[资源文件加载（Pack URI 方案）](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD%EF%BC%88Pack-URI-%E6%96%B9%E6%A1%88%EF%BC%89)
+
+[style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
+
 # Android
 
 # 设计模式
