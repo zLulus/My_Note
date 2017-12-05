@@ -422,6 +422,18 @@
 
 [style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
 
+[Tab切换顺序设置](https://github.com/zLulus/My_Note/wiki/Tab%E5%88%87%E6%8D%A2%E9%A1%BA%E5%BA%8F%E8%AE%BE%E7%BD%AE)
+
+[Binding](https://github.com/zLulus/My_Note/wiki/Binding)
+
+[x:Static](https://github.com/zLulus/My_Note/wiki/x:Static)
+
+[x:ArrayExtension](https://github.com/zLulus/My_Note/wiki/x:ArrayExtension)
+
+[style的继承](https://github.com/zLulus/My_Note/wiki/style%E7%9A%84%E7%BB%A7%E6%89%BF)
+
+[Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
+
 # Android
 
 # 设计模式
