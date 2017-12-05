@@ -400,6 +400,12 @@
 
 [CheckBox  IsHitTestVisible](https://github.com/zLulus/My_Note/wiki/CheckBox--IsHitTestVisible)
 
+[Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
+
+[Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts---ToolBar)
+
+[DataGrid DataGridTemplateColumn](https://github.com/zLulus/My_Note/wiki/DataGrid-DataGridTemplateColumn)
+
 # Android
 
 # 设计模式
