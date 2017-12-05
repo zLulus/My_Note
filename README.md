@@ -434,6 +434,18 @@
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
 
+## Template
+
+[Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
+
+[ControlTemplate](https://github.com/zLulus/My_Note/wiki/ControlTemplate)
+
+[DataTemplate](https://github.com/zLulus/My_Note/wiki/DataTemplate)
+
+[ItemsPanelTemplate](https://github.com/zLulus/My_Note/wiki/ItemsPanelTemplate)
+
+[HierarchicalDataTemplate](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate)
+
 # Android
 
 # 设计模式
