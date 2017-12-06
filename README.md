@@ -468,6 +468,8 @@
 
 [VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
 
+[RelativeSource](https://github.com/zLulus/My_Note/wiki/RelativeSource)
+
 
 ## Template
 
@@ -488,6 +490,8 @@
 [DataTemplate（数据模板）](https://github.com/zLulus/My_Note/wiki/DataTemplate%EF%BC%88%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%89)
 
 [ControlTemplate（控件模板）](https://github.com/zLulus/My_Note/wiki/ControlTemplate%EF%BC%88%E6%8E%A7%E4%BB%B6%E6%A8%A1%E6%9D%BF%EF%BC%89)
+
+[DataTemplate和ControlTemplate混用](https://github.com/zLulus/My_Note/wiki/DataTemplate%E5%92%8CControlTemplate%E6%B7%B7%E7%94%A8)
 
 ## 控件
 
