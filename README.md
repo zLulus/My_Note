@@ -454,6 +454,8 @@
 
 [WPF路由](https://github.com/zLulus/My_Note/wiki/WPF%E8%B7%AF%E7%94%B1)
 
+[x:key和x:name](https://github.com/zLulus/My_Note/wiki/x:key%E5%92%8Cx:name)
+
 ## Template
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
