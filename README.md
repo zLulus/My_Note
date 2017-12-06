@@ -460,7 +460,19 @@
 
 [DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
 
-[]
+[线程操纵UI问题](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E6%93%8D%E7%BA%B5UI%E9%97%AE%E9%A2%98)
+
+[x:](https://github.com/zLulus/My_Note/wiki/x:)
+
+[Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
+[样式style和模板template](https://github.com/zLulus/My_Note/wiki/%E6%A0%B7%E5%BC%8Fstyle%E5%92%8C%E6%A8%A1%E6%9D%BFtemplate)
+
+[VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
+
+[HierarchicalDataTemplate（层级模板）](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate%EF%BC%88%E5%B1%82%E7%BA%A7%E6%A8%A1%E6%9D%BF%EF%BC%89)
+
+[DataTemplate（数据模板）](https://github.com/zLulus/My_Note/wiki/DataTemplate%EF%BC%88%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%89)
 
 ## Template
 
