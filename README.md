@@ -442,7 +442,7 @@
 
 [App.xaml](https://github.com/zLulus/My_Note/wiki/App.xaml)
 
-[]
+[属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
 
 ## Template
 
