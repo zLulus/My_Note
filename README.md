@@ -448,6 +448,8 @@
 
 [WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
+[异常处理](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86)
+
 ## Template
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
