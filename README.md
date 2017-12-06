@@ -472,6 +472,26 @@
 
 [Convert](https://github.com/zLulus/My_Note/wiki/Convert)
 
+[窗口图标与背景](https://github.com/zLulus/My_Note/wiki/%E7%AA%97%E5%8F%A3%E5%9B%BE%E6%A0%87%E4%B8%8E%E8%83%8C%E6%99%AF)
+
+[livechart两个Bug](https://github.com/zLulus/My_Note/wiki/livechart%E4%B8%A4%E4%B8%AABug)
+
+[测试WPF绑定bug](https://github.com/zLulus/My_Note/wiki/%E6%B5%8B%E8%AF%95WPF%E7%BB%91%E5%AE%9Abug)
+
+[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
+
+[System.Windows.Documents.Run](https://github.com/zLulus/My_Note/wiki/System.Windows.Documents.Run)
+
+[分析布局](https://github.com/zLulus/My_Note/wiki/%E5%88%86%E6%9E%90%E5%B8%83%E5%B1%80)
+
+[Dispatcher（调度员）](https://github.com/zLulus/My_Note/wiki/Dispatcher%EF%BC%88%E8%B0%83%E5%BA%A6%E5%91%98%EF%BC%89)
+
+[WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
+
+[margin和padding](https://github.com/zLulus/My_Note/wiki/margin%E5%92%8Cpadding)
+
+[利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
+
 ## Template
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
