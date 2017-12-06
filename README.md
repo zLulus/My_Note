@@ -373,6 +373,18 @@
 
 # 数据结构
 
+[基本数据结构](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+
+[队列](https://github.com/zLulus/My_Note/wiki/%E9%98%9F%E5%88%97)
+
+[堆栈（栈）](https://github.com/zLulus/My_Note/wiki/%E5%A0%86%E6%A0%88%EF%BC%88%E6%A0%88%EF%BC%89)
+
+[堆](https://github.com/zLulus/My_Note/wiki/%E5%A0%86)
+
+[树](https://github.com/zLulus/My_Note/wiki/%E6%A0%91)
+
+[键值对Dictionary、Hashtable、KeyValuePair](https://github.com/zLulus/My_Note/wiki/%E9%94%AE%E5%80%BC%E5%AF%B9Dictionary%E3%80%81Hashtable%E3%80%81KeyValuePair)
+
 # 操作系统
 [windows server疑难杂症](https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
 
