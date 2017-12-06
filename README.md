@@ -456,6 +456,12 @@
 
 [x:key和x:name](https://github.com/zLulus/My_Note/wiki/x:key%E5%92%8Cx:name)
 
+[StaticResource和DynamicResource](https://github.com/zLulus/My_Note/wiki/StaticResource%E5%92%8CDynamicResource)
+
+[DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
+
+[]
+
 ## Template
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
