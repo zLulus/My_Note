@@ -434,6 +434,8 @@
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
 
+[数据绑定](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
+
 ## Template
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
