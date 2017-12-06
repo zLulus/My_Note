@@ -492,6 +492,16 @@
 
 [利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
 
+[action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
+
+[随时逻辑控制按钮可用不可用：没有修改时不可用](https://github.com/zLulus/My_Note/wiki/%E9%9A%8F%E6%97%B6%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E6%8C%89%E9%92%AE%E5%8F%AF%E7%94%A8%E4%B8%8D%E5%8F%AF%E7%94%A8%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%AE%E6%94%B9%E6%97%B6%E4%B8%8D%E5%8F%AF%E7%94%A8)
+
+[MVVM子窗体、主窗体传参](https://github.com/zLulus/My_Note/wiki/MVVM%E5%AD%90%E7%AA%97%E4%BD%93%E3%80%81%E4%B8%BB%E7%AA%97%E4%BD%93%E4%BC%A0%E5%8F%82)
+
+[写数据模板，需要重新指定数据上下文](https://github.com/zLulus/My_Note/wiki/%E5%86%99%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%8C%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E6%8C%87%E5%AE%9A%E6%95%B0%E6%8D%AE%E4%B8%8A%E4%B8%8B%E6%96%87)
+
+[DataGrid自定义复选框](https://github.com/zLulus/My_Note/wiki/DataGrid%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%8D%E9%80%89%E6%A1%86)
+
 ## Template
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
