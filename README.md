@@ -544,7 +544,7 @@
 
 [ToolTip](https://github.com/zLulus/My_Note/wiki/ToolTip)
 
-[用户控件(UserControl）](https://github.com/zLulus/My_Note/wiki/%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6(UserControl%EF%BC%89)
+[用户控件(UserControl)](https://github.com/zLulus/My_Note/wiki/%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6(UserControl))
 
 [RadioButton](https://github.com/zLulus/My_Note/wiki/RadioButton)
 
