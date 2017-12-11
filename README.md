@@ -650,6 +650,8 @@
 
 [企业级的高可用技术](https://github.com/zLulus/My_Note/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8%E6%8A%80%E6%9C%AF)
 
+[如何抄网站](https://github.com/zLulus/My_Note/wiki/%E5%A6%82%E4%BD%95%E6%8A%84%E7%BD%91%E7%AB%99)
+
 # 待完成
 
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
