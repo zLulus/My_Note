@@ -11,9 +11,9 @@
 
 [javascript && jQuery](#javascript--jquery)
 
-[AngularJS](#angularjs)
+[AngularJS (>ω<)](#angularjs)
 
-[ABP框架](#abp)
+[ABP框架 (・o・)](#abp)
 
 [html](#html)
 
@@ -29,13 +29,13 @@
 
 [github](#github)
 
-[WPF](#wpf)
+[WPF ٩(๑òωó๑)۶](#wpf)
 
 [计算机基本知识](#计算机基本知识)
 
-[机器学习](#机器学习)
+[机器学习 Ծ‸Ծ](#机器学习)
 
-[learning how to learn](#learning-how-to-learn)
+[learning how to learn (｡･ω･｡)ﾉ♡](#learning-how-to-learn)
 
 [拥有一颗产品心的程序媛 ψ(｀∇´)ψ](#拥有一颗产品心的程序媛)
 
