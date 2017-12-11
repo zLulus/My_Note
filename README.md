@@ -37,6 +37,8 @@
 
 [learning how to learn](#learning-how-to-learn)
 
+[拥有一颗产品心的程序媛](#拥有一颗产品心的程序媛)
+
 [其他](#其他)
 
 [待完成](#待完成)
@@ -628,6 +630,10 @@
 [过度识记(Overlearning)、刻意训练、交替练习](https://github.com/zLulus/My_Note/wiki/%E8%BF%87%E5%BA%A6%E8%AF%86%E8%AE%B0(Overlearning)%E3%80%81%E5%88%BB%E6%84%8F%E8%AE%AD%E7%BB%83%E3%80%81%E4%BA%A4%E6%9B%BF%E7%BB%83%E4%B9%A0)
 
 [记忆](https://github.com/zLulus/My_Note/wiki/%E8%AE%B0%E5%BF%86)
+
+#拥有一颗产品心的程序媛
+
+[针对bilibili与kanbilibili的分析](https://github.com/zLulus/My_Note/wiki/%E9%92%88%E5%AF%B9bilibili%E4%B8%8Ekanbilibili%E7%9A%84%E5%88%86%E6%9E%90)
 
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
