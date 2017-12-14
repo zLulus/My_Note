@@ -232,6 +232,8 @@
 
 [abp.message](https://github.com/zLulus/My_Note/wiki/abp.message)
 
+[ABP杂谈](https://github.com/zLulus/My_Note/wiki/ABP%E6%9D%82%E8%B0%88)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
@@ -660,4 +662,3 @@
 
 
 
-[ABP杂谈](https://github.com/zLulus/My_Note/wiki/ABP%E6%9D%82%E8%B0%88)
