@@ -332,11 +332,21 @@
 
 [事务](https://github.com/zLulus/My_Note/wiki/%E4%BA%8B%E5%8A%A1)
 
-[sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
-
 [Dapper简介](https://github.com/zLulus/My_Note/wiki/Dapper%E7%AE%80%E4%BB%8B)
 
+#### SQL Server
+
+[sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
+
 [SQL Server数据库碎片整理](https://github.com/zLulus/My_Note/wiki/SQL-Server%E6%95%B0%E6%8D%AE%E5%BA%93%E7%A2%8E%E7%89%87%E6%95%B4%E7%90%86)
+
+[SQL Server查询当前连接数](https://github.com/zLulus/My_Note/wiki/SQL-Server%E6%9F%A5%E8%AF%A2%E5%BD%93%E5%89%8D%E8%BF%9E%E6%8E%A5%E6%95%B0)
+
+[大量删除的表、查询卡顿的表，重建索引](https://github.com/zLulus/My_Note/wiki/%E5%A4%A7%E9%87%8F%E5%88%A0%E9%99%A4%E7%9A%84%E8%A1%A8%E3%80%81%E6%9F%A5%E8%AF%A2%E5%8D%A1%E9%A1%BF%E7%9A%84%E8%A1%A8%EF%BC%8C%E9%87%8D%E5%BB%BA%E7%B4%A2%E5%BC%95)
+
+[查询表情况](https://github.com/zLulus/My_Note/wiki/%E6%9F%A5%E8%AF%A2%E8%A1%A8%E6%83%85%E5%86%B5)
+
+[日志文件 清理or压缩](https://github.com/zLulus/My_Note/wiki/%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6--%E6%B8%85%E7%90%86or%E5%8E%8B%E7%BC%A9)
 
 ## 非关系型数据库
 ### NoSql
