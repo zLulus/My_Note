@@ -417,31 +417,21 @@
 
 ## 基本概念
 
+[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
+
+[WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
+
 [线程](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B)
 
 [App.xaml](https://github.com/zLulus/My_Note/wiki/App.xaml)
 
 [依赖属性](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E5%B1%9E%E6%80%A7)
 
-[WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
-
-[x:Static](https://github.com/zLulus/My_Note/wiki/x:Static)
-
-[x:ArrayExtension](https://github.com/zLulus/My_Note/wiki/x:ArrayExtension)
-
-[xmlns](https://github.com/zLulus/My_Note/wiki/xmlns)
-
 [WPF路由](https://github.com/zLulus/My_Note/wiki/WPF%E8%B7%AF%E7%94%B1)
-
-[x:key和x:name](https://github.com/zLulus/My_Note/wiki/x:key%E5%92%8Cx:name)
 
 [线程操纵UI问题](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E6%93%8D%E7%BA%B5UI%E9%97%AE%E9%A2%98)
 
 [Dispatcher（调度员）](https://github.com/zLulus/My_Note/wiki/Dispatcher%EF%BC%88%E8%B0%83%E5%BA%A6%E5%91%98%EF%BC%89)
-
-[x:](https://github.com/zLulus/My_Note/wiki/x:)
-
-[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
 
 [利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
 
@@ -449,7 +439,21 @@
 
 [写数据模板，需要重新指定数据上下文](https://github.com/zLulus/My_Note/wiki/%E5%86%99%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%8C%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E6%8C%87%E5%AE%9A%E6%95%B0%E6%8D%AE%E4%B8%8A%E4%B8%8B%E6%96%87)
 
-### 绑定
+[StaticResource和DynamicResource](https://github.com/zLulus/My_Note/wiki/StaticResource%E5%92%8CDynamicResource)
+
+[DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
+
+[x:](https://github.com/zLulus/My_Note/wiki/x:)
+
+[x:key和x:name](https://github.com/zLulus/My_Note/wiki/x:key%E5%92%8Cx:name)
+
+[x:Static](https://github.com/zLulus/My_Note/wiki/x:Static)
+
+[x:ArrayExtension](https://github.com/zLulus/My_Note/wiki/x:ArrayExtension)
+
+[xmlns](https://github.com/zLulus/My_Note/wiki/xmlns)
+
+### Binding
 
 [Binding](https://github.com/zLulus/My_Note/wiki/Binding)
 
@@ -461,15 +465,11 @@
 
 [数据绑定](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
 
-[DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
-
 ### 资源文件
 
 [资源文件的适用范围](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4)
 
 [资源文件加载（Pack URI 方案）](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD%EF%BC%88Pack-URI-%E6%96%B9%E6%A1%88%EF%BC%89)
-
-[StaticResource和DynamicResource](https://github.com/zLulus/My_Note/wiki/StaticResource%E5%92%8CDynamicResource)
 
 ## 控件
 
@@ -499,8 +499,6 @@
 
 [style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
 
-[Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
-
 [style的继承](https://github.com/zLulus/My_Note/wiki/style%E7%9A%84%E7%BB%A7%E6%89%BF)
 
 [style文件的指定](https://github.com/zLulus/My_Note/wiki/style%E6%96%87%E4%BB%B6%E7%9A%84%E6%8C%87%E5%AE%9A)
@@ -527,9 +525,9 @@
 
 [DataTemplate和ControlTemplate混用](https://github.com/zLulus/My_Note/wiki/DataTemplate%E5%92%8CControlTemplate%E6%B7%B7%E7%94%A8)
 
-## Trigger
+[Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
 
-[触发器](https://github.com/zLulus/My_Note/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8)
+## Trigger
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
 
