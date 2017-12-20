@@ -414,7 +414,8 @@
 [SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
 
 # WPF
-[列表嵌套列表](https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8)
+
+## 基本概念
 
 [Binding的TwoWay,PropertyChanged说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84TwoWay,PropertyChanged%E8%AF%B4%E6%98%8E)
 
@@ -422,29 +423,17 @@
 
 [Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
 
-[WPF DataGrid 触发器](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid-%E8%A7%A6%E5%8F%91%E5%99%A8)
-
 [MultiBinding](https://github.com/zLulus/My_Note/wiki/MultiBinding)
 
 [Tag](https://github.com/zLulus/My_Note/wiki/Tag)
 
 [CheckBox  IsHitTestVisible](https://github.com/zLulus/My_Note/wiki/CheckBox--IsHitTestVisible)
 
-[Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
-
-[Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts---ToolBar)
-
 [DataGrid DataGridTemplateColumn](https://github.com/zLulus/My_Note/wiki/DataGrid-DataGridTemplateColumn)
-
-[输入异常提示](https://github.com/zLulus/My_Note/wiki/%E8%BE%93%E5%85%A5%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA)
-
-[WPF DataGrid列头后台生成，列头重复解决方案](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E5%88%97%E5%A4%B4%E5%90%8E%E5%8F%B0%E7%94%9F%E6%88%90%EF%BC%8C%E5%88%97%E5%A4%B4%E9%87%8D%E5%A4%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
 [触发器](https://github.com/zLulus/My_Note/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8)
 
 [线程](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B)
-
-[command+传参,click](https://github.com/zLulus/My_Note/wiki/command-%E4%BC%A0%E5%8F%82,click)
 
 [资源文件的适用范围](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4)
 
@@ -468,17 +457,11 @@
 
 [style文件的指定](https://github.com/zLulus/My_Note/wiki/style%E6%96%87%E4%BB%B6%E7%9A%84%E6%8C%87%E5%AE%9A)
 
-[Mvvm 类click传参event agrs…](https://github.com/zLulus/My_Note/wiki/Mvvm-%E7%B1%BBclick%E4%BC%A0%E5%8F%82event-agrs%E2%80%A6)
-
 [App.xaml](https://github.com/zLulus/My_Note/wiki/App.xaml)
-
-[属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
 
 [依赖属性](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E5%B1%9E%E6%80%A7)
 
 [WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
-
-[异常处理](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86)
 
 [xmlns](https://github.com/zLulus/My_Note/wiki/xmlns)
 
@@ -496,6 +479,38 @@
 
 [Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
+[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
+
+[Dispatcher（调度员）](https://github.com/zLulus/My_Note/wiki/Dispatcher%EF%BC%88%E8%B0%83%E5%BA%A6%E5%91%98%EF%BC%89)
+
+[margin和padding](https://github.com/zLulus/My_Note/wiki/margin%E5%92%8Cpadding)
+
+[利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
+
+[分析布局](https://github.com/zLulus/My_Note/wiki/%E5%88%86%E6%9E%90%E5%B8%83%E5%B1%80)
+
+[action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
+
+[写数据模板，需要重新指定数据上下文](https://github.com/zLulus/My_Note/wiki/%E5%86%99%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%8C%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E6%8C%87%E5%AE%9A%E6%95%B0%E6%8D%AE%E4%B8%8A%E4%B8%8B%E6%96%87)
+
+## 一些效果的实现
+
+[列表嵌套列表](https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8)
+
+[WPF DataGrid 触发器](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid-%E8%A7%A6%E5%8F%91%E5%99%A8)
+
+[输入异常提示](https://github.com/zLulus/My_Note/wiki/%E8%BE%93%E5%85%A5%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA)
+
+[WPF DataGrid列头后台生成，列头重复解决方案](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E5%88%97%E5%A4%B4%E5%90%8E%E5%8F%B0%E7%94%9F%E6%88%90%EF%BC%8C%E5%88%97%E5%A4%B4%E9%87%8D%E5%A4%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+
+[command+传参,click](https://github.com/zLulus/My_Note/wiki/command-%E4%BC%A0%E5%8F%82,click)
+
+[Mvvm 类click传参event agrs…](https://github.com/zLulus/My_Note/wiki/Mvvm-%E7%B1%BBclick%E4%BC%A0%E5%8F%82event-agrs%E2%80%A6)
+
+[属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
+
+[异常处理](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86)
+
 [VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
 
 [RelativeSource](https://github.com/zLulus/My_Note/wiki/RelativeSource)
@@ -508,27 +523,11 @@
 
 [测试WPF绑定bug](https://github.com/zLulus/My_Note/wiki/%E6%B5%8B%E8%AF%95WPF%E7%BB%91%E5%AE%9Abug)
 
-[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
-
 [System.Windows.Documents.Run](https://github.com/zLulus/My_Note/wiki/System.Windows.Documents.Run)
-
-[分析布局](https://github.com/zLulus/My_Note/wiki/%E5%88%86%E6%9E%90%E5%B8%83%E5%B1%80)
-
-[Dispatcher（调度员）](https://github.com/zLulus/My_Note/wiki/Dispatcher%EF%BC%88%E8%B0%83%E5%BA%A6%E5%91%98%EF%BC%89)
-
-[WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
-
-[margin和padding](https://github.com/zLulus/My_Note/wiki/margin%E5%92%8Cpadding)
-
-[利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
-
-[action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
 
 [随时逻辑控制按钮可用不可用：没有修改时不可用](https://github.com/zLulus/My_Note/wiki/%E9%9A%8F%E6%97%B6%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E6%8C%89%E9%92%AE%E5%8F%AF%E7%94%A8%E4%B8%8D%E5%8F%AF%E7%94%A8%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%AE%E6%94%B9%E6%97%B6%E4%B8%8D%E5%8F%AF%E7%94%A8)
 
 [MVVM子窗体、主窗体传参](https://github.com/zLulus/My_Note/wiki/MVVM%E5%AD%90%E7%AA%97%E4%BD%93%E3%80%81%E4%B8%BB%E7%AA%97%E4%BD%93%E4%BC%A0%E5%8F%82)
-
-[写数据模板，需要重新指定数据上下文](https://github.com/zLulus/My_Note/wiki/%E5%86%99%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%8C%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E6%8C%87%E5%AE%9A%E6%95%B0%E6%8D%AE%E4%B8%8A%E4%B8%8B%E6%96%87)
 
 [DataGrid自定义复选框](https://github.com/zLulus/My_Note/wiki/DataGrid%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%8D%E9%80%89%E6%A1%86)
 
@@ -573,6 +572,16 @@
 [CefSharp For WPF自定义右键菜单栏](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%A0%8F)
 
 [CefSharp For WPF响应页面点击事件](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
+
+## Visifire
+
+[Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
+
+[Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts---ToolBar)
+
+## 其他
+
+[WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
 
 # Android
 
