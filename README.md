@@ -417,45 +417,7 @@
 
 ## 基本概念
 
-[Binding的TwoWay,PropertyChanged说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84TwoWay,PropertyChanged%E8%AF%B4%E6%98%8E)
-
-[ListView,ListBox,DataGrid](https://github.com/zLulus/My_Note/wiki/ListView,ListBox,DataGrid)
-
-[Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
-
-[MultiBinding](https://github.com/zLulus/My_Note/wiki/MultiBinding)
-
-[Tag](https://github.com/zLulus/My_Note/wiki/Tag)
-
-[CheckBox  IsHitTestVisible](https://github.com/zLulus/My_Note/wiki/CheckBox--IsHitTestVisible)
-
-[DataGrid DataGridTemplateColumn](https://github.com/zLulus/My_Note/wiki/DataGrid-DataGridTemplateColumn)
-
-[触发器](https://github.com/zLulus/My_Note/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8)
-
 [线程](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B)
-
-[资源文件的适用范围](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4)
-
-[资源文件加载（Pack URI 方案）](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD%EF%BC%88Pack-URI-%E6%96%B9%E6%A1%88%EF%BC%89)
-
-[style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
-
-[Tab切换顺序设置](https://github.com/zLulus/My_Note/wiki/Tab%E5%88%87%E6%8D%A2%E9%A1%BA%E5%BA%8F%E8%AE%BE%E7%BD%AE)
-
-[Binding](https://github.com/zLulus/My_Note/wiki/Binding)
-
-[x:Static](https://github.com/zLulus/My_Note/wiki/x:Static)
-
-[x:ArrayExtension](https://github.com/zLulus/My_Note/wiki/x:ArrayExtension)
-
-[style的继承](https://github.com/zLulus/My_Note/wiki/style%E7%9A%84%E7%BB%A7%E6%89%BF)
-
-[Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
-
-[数据绑定](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
-
-[style文件的指定](https://github.com/zLulus/My_Note/wiki/style%E6%96%87%E4%BB%B6%E7%9A%84%E6%8C%87%E5%AE%9A)
 
 [App.xaml](https://github.com/zLulus/My_Note/wiki/App.xaml)
 
@@ -463,35 +425,115 @@
 
 [WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
+[x:Static](https://github.com/zLulus/My_Note/wiki/x:Static)
+
+[x:ArrayExtension](https://github.com/zLulus/My_Note/wiki/x:ArrayExtension)
+
 [xmlns](https://github.com/zLulus/My_Note/wiki/xmlns)
 
 [WPF路由](https://github.com/zLulus/My_Note/wiki/WPF%E8%B7%AF%E7%94%B1)
 
 [x:key和x:name](https://github.com/zLulus/My_Note/wiki/x:key%E5%92%8Cx:name)
 
-[StaticResource和DynamicResource](https://github.com/zLulus/My_Note/wiki/StaticResource%E5%92%8CDynamicResource)
-
-[DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
-
 [线程操纵UI问题](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E6%93%8D%E7%BA%B5UI%E9%97%AE%E9%A2%98)
-
-[x:](https://github.com/zLulus/My_Note/wiki/x:)
-
-[Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
-
-[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
 
 [Dispatcher（调度员）](https://github.com/zLulus/My_Note/wiki/Dispatcher%EF%BC%88%E8%B0%83%E5%BA%A6%E5%91%98%EF%BC%89)
 
-[margin和padding](https://github.com/zLulus/My_Note/wiki/margin%E5%92%8Cpadding)
+[x:](https://github.com/zLulus/My_Note/wiki/x:)
+
+[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
 
 [利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
 
 [分析布局](https://github.com/zLulus/My_Note/wiki/%E5%88%86%E6%9E%90%E5%B8%83%E5%B1%80)
 
-[action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
-
 [写数据模板，需要重新指定数据上下文](https://github.com/zLulus/My_Note/wiki/%E5%86%99%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%8C%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E6%8C%87%E5%AE%9A%E6%95%B0%E6%8D%AE%E4%B8%8A%E4%B8%8B%E6%96%87)
+
+### 绑定
+
+[Binding](https://github.com/zLulus/My_Note/wiki/Binding)
+
+[Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
+[Binding的TwoWay,PropertyChanged说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84TwoWay,PropertyChanged%E8%AF%B4%E6%98%8E)
+
+[MultiBinding](https://github.com/zLulus/My_Note/wiki/MultiBinding)
+
+[数据绑定](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
+
+[DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
+
+### 资源文件
+
+[资源文件的适用范围](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4)
+
+[资源文件加载（Pack URI 方案）](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD%EF%BC%88Pack-URI-%E6%96%B9%E6%A1%88%EF%BC%89)
+
+[StaticResource和DynamicResource](https://github.com/zLulus/My_Note/wiki/StaticResource%E5%92%8CDynamicResource)
+
+## 控件
+
+[控件](https://github.com/zLulus/My_Note/wiki/%E6%8E%A7%E4%BB%B6)
+
+[Expander](https://github.com/zLulus/My_Note/wiki/Expander)
+
+[ToolTip](https://github.com/zLulus/My_Note/wiki/ToolTip)
+
+[用户控件(UserControl)](https://github.com/zLulus/My_Note/wiki/%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6(UserControl))
+
+[RadioButton](https://github.com/zLulus/My_Note/wiki/RadioButton)
+
+[ListView,ListBox,DataGrid](https://github.com/zLulus/My_Note/wiki/ListView,ListBox,DataGrid)
+
+[Tag](https://github.com/zLulus/My_Note/wiki/Tag)
+
+[CheckBox  IsHitTestVisible](https://github.com/zLulus/My_Note/wiki/CheckBox--IsHitTestVisible)
+
+[DataGrid DataGridTemplateColumn](https://github.com/zLulus/My_Note/wiki/DataGrid-DataGridTemplateColumn)
+
+[Tab切换顺序设置](https://github.com/zLulus/My_Note/wiki/Tab%E5%88%87%E6%8D%A2%E9%A1%BA%E5%BA%8F%E8%AE%BE%E7%BD%AE)
+
+[margin和padding](https://github.com/zLulus/My_Note/wiki/margin%E5%92%8Cpadding)
+
+## Style
+
+[style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
+
+[Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
+
+[style的继承](https://github.com/zLulus/My_Note/wiki/style%E7%9A%84%E7%BB%A7%E6%89%BF)
+
+[style文件的指定](https://github.com/zLulus/My_Note/wiki/style%E6%96%87%E4%BB%B6%E7%9A%84%E6%8C%87%E5%AE%9A)
+
+## Template
+
+[Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
+
+[样式style和模板template](https://github.com/zLulus/My_Note/wiki/%E6%A0%B7%E5%BC%8Fstyle%E5%92%8C%E6%A8%A1%E6%9D%BFtemplate)
+
+[ControlTemplate](https://github.com/zLulus/My_Note/wiki/ControlTemplate)
+
+[DataTemplate](https://github.com/zLulus/My_Note/wiki/DataTemplate)
+
+[ItemsPanelTemplate](https://github.com/zLulus/My_Note/wiki/ItemsPanelTemplate)
+
+[HierarchicalDataTemplate](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate)
+
+[HierarchicalDataTemplate（层级模板）](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate%EF%BC%88%E5%B1%82%E7%BA%A7%E6%A8%A1%E6%9D%BF%EF%BC%89)
+
+[DataTemplate（数据模板）](https://github.com/zLulus/My_Note/wiki/DataTemplate%EF%BC%88%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%89)
+
+[ControlTemplate（控件模板）](https://github.com/zLulus/My_Note/wiki/ControlTemplate%EF%BC%88%E6%8E%A7%E4%BB%B6%E6%A8%A1%E6%9D%BF%EF%BC%89)
+
+[DataTemplate和ControlTemplate混用](https://github.com/zLulus/My_Note/wiki/DataTemplate%E5%92%8CControlTemplate%E6%B7%B7%E7%94%A8)
+
+## Trigger
+
+[触发器](https://github.com/zLulus/My_Note/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8)
+
+[Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
+
+[action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
 
 ## 一些效果的实现
 
@@ -530,40 +572,6 @@
 [MVVM子窗体、主窗体传参](https://github.com/zLulus/My_Note/wiki/MVVM%E5%AD%90%E7%AA%97%E4%BD%93%E3%80%81%E4%B8%BB%E7%AA%97%E4%BD%93%E4%BC%A0%E5%8F%82)
 
 [DataGrid自定义复选框](https://github.com/zLulus/My_Note/wiki/DataGrid%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%8D%E9%80%89%E6%A1%86)
-
-## Template
-
-[Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
-
-[样式style和模板template](https://github.com/zLulus/My_Note/wiki/%E6%A0%B7%E5%BC%8Fstyle%E5%92%8C%E6%A8%A1%E6%9D%BFtemplate)
-
-[ControlTemplate](https://github.com/zLulus/My_Note/wiki/ControlTemplate)
-
-[DataTemplate](https://github.com/zLulus/My_Note/wiki/DataTemplate)
-
-[ItemsPanelTemplate](https://github.com/zLulus/My_Note/wiki/ItemsPanelTemplate)
-
-[HierarchicalDataTemplate](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate)
-
-[HierarchicalDataTemplate（层级模板）](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate%EF%BC%88%E5%B1%82%E7%BA%A7%E6%A8%A1%E6%9D%BF%EF%BC%89)
-
-[DataTemplate（数据模板）](https://github.com/zLulus/My_Note/wiki/DataTemplate%EF%BC%88%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%89)
-
-[ControlTemplate（控件模板）](https://github.com/zLulus/My_Note/wiki/ControlTemplate%EF%BC%88%E6%8E%A7%E4%BB%B6%E6%A8%A1%E6%9D%BF%EF%BC%89)
-
-[DataTemplate和ControlTemplate混用](https://github.com/zLulus/My_Note/wiki/DataTemplate%E5%92%8CControlTemplate%E6%B7%B7%E7%94%A8)
-
-## 控件
-
-[控件](https://github.com/zLulus/My_Note/wiki/%E6%8E%A7%E4%BB%B6)
-
-[Expander](https://github.com/zLulus/My_Note/wiki/Expander)
-
-[ToolTip](https://github.com/zLulus/My_Note/wiki/ToolTip)
-
-[用户控件(UserControl)](https://github.com/zLulus/My_Note/wiki/%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6(UserControl))
-
-[RadioButton](https://github.com/zLulus/My_Note/wiki/RadioButton)
 
 ## CefSharp
 
