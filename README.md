@@ -238,6 +238,8 @@
 
 [Angularjs 计数 $index](https://github.com/zLulus/My_Note/wiki/Angularjs-%E8%AE%A1%E6%95%B0-$index)
 
+[Angularjs html文本显示](https://github.com/zLulus/My_Note/wiki/Angularjs-html%E6%96%87%E6%9C%AC%E6%98%BE%E7%A4%BA)
+
 # ABP
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
 
