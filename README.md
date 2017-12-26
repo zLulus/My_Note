@@ -234,6 +234,8 @@
 
 [AngularJS 依赖注入](https://github.com/zLulus/My_Note/wiki/AngularJS-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
 
+[图片加载](https://github.com/zLulus/My_Note/wiki/%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD)
+
 # ABP
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
 
