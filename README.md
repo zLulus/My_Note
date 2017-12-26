@@ -147,6 +147,8 @@
 
 [ASP .NET Response类型](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Response%E7%B1%BB%E5%9E%8B)
 
+[js,css引用顺序设定](https://github.com/zLulus/My_Note/wiki/js,css%E5%BC%95%E7%94%A8%E9%A1%BA%E5%BA%8F%E8%AE%BE%E5%AE%9A)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
