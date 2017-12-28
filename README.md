@@ -31,7 +31,7 @@
 
 [WPF ٩(๑òωó๑)۶](#wpf)
 
-[Xamarin](#Xamarin)
+[Xamarin](#xamarin)
 
 [计算机基本知识](#计算机基本知识)
 
