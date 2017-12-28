@@ -31,6 +31,8 @@
 
 [WPF ٩(๑òωó๑)۶](#wpf)
 
+[Xamarin](#Xamarin)
+
 [计算机基本知识](#计算机基本知识)
 
 [机器学习 Ծ‸Ծ](#机器学习)
@@ -600,13 +602,17 @@
 
 [WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
 
-# Android
-
 # 设计模式
 
 # 网络
 
 # GIS
+
+# Xamarin
+## 移动端基本知识
+[掌上开发的局限性](https://github.com/zLulus/My_Note/wiki/%E6%8E%8C%E4%B8%8A%E5%BC%80%E5%8F%91%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7)
+
+## Xamarin相关知识
 
 # 计算机基本知识
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
