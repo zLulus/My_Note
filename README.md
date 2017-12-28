@@ -612,6 +612,8 @@
 ## 移动端基本知识
 [掌上开发的局限性](https://github.com/zLulus/My_Note/wiki/%E6%8E%8C%E4%B8%8A%E5%BC%80%E5%8F%91%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7)
 
+[Android开发四大件](https://github.com/zLulus/My_Note/wiki/Android%E5%BC%80%E5%8F%91%E5%9B%9B%E5%A4%A7%E4%BB%B6)
+
 ## Xamarin相关知识
 
 # 计算机基本知识
