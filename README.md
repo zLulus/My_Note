@@ -610,11 +610,20 @@
 
 # Xamarin
 ## 移动端基本知识
+
 [掌上开发的局限性](https://github.com/zLulus/My_Note/wiki/%E6%8E%8C%E4%B8%8A%E5%BC%80%E5%8F%91%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7)
 
 [Android开发四大件](https://github.com/zLulus/My_Note/wiki/Android%E5%BC%80%E5%8F%91%E5%9B%9B%E5%A4%A7%E4%BB%B6)
 
 ## Xamarin相关知识
+
+[Adapter的泛型](https://github.com/zLulus/My_Note/wiki/Adapter%E7%9A%84%E6%B3%9B%E5%9E%8B)
+
+[布局](https://github.com/zLulus/My_Note/wiki/%E5%B8%83%E5%B1%80)
+
+[ViewTree](https://github.com/zLulus/My_Note/wiki/ViewTree)
+
+[Button与ToggleButton](https://github.com/zLulus/My_Note/wiki/Button%E4%B8%8EToggleButton)
 
 # 计算机基本知识
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
