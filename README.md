@@ -434,8 +434,6 @@
 
 [WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
-[线程](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B)
-
 [App.xaml](https://github.com/zLulus/My_Note/wiki/App.xaml)
 
 [依赖属性](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E5%B1%9E%E6%80%A7)
