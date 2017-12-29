@@ -468,8 +468,6 @@
 
 ### Binding
 
-[Binding](https://github.com/zLulus/My_Note/wiki/Binding)
-
 [Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
 [Binding的TwoWay,PropertyChanged说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84TwoWay,PropertyChanged%E8%AF%B4%E6%98%8E)
@@ -547,6 +545,8 @@
 [action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
 
 ## 一些效果的实现
+
+[Binding控件某个属性](https://github.com/zLulus/My_Note/wiki/Binding%E6%8E%A7%E4%BB%B6%E6%9F%90%E4%B8%AA%E5%B1%9E%E6%80%A7)
 
 [列表嵌套列表](https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8)
 
