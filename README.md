@@ -442,8 +442,6 @@
 
 [线程操纵UI问题](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E6%93%8D%E7%BA%B5UI%E9%97%AE%E9%A2%98)
 
-[Dispatcher（调度员）](https://github.com/zLulus/My_Note/wiki/Dispatcher%EF%BC%88%E8%B0%83%E5%BA%A6%E5%91%98%EF%BC%89)
-
 [利用属性中设置、查看DataContext/Command等](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E5%B1%9E%E6%80%A7%E4%B8%AD%E8%AE%BE%E7%BD%AE%E3%80%81%E6%9F%A5%E7%9C%8BDataContext-Command%E7%AD%89)
 
 [分析布局](https://github.com/zLulus/My_Note/wiki/%E5%88%86%E6%9E%90%E5%B8%83%E5%B1%80)
