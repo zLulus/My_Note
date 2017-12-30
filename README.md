@@ -452,8 +452,6 @@
 
 [DataContext和ItemSource](https://github.com/zLulus/My_Note/wiki/DataContext%E5%92%8CItemSource)
 
-[x:](https://github.com/zLulus/My_Note/wiki/x:)
-
 [x:key和x:name](https://github.com/zLulus/My_Note/wiki/x:key%E5%92%8Cx:name)
 
 [x:Static](https://github.com/zLulus/My_Note/wiki/x:Static)
