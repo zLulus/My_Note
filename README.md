@@ -496,7 +496,7 @@
 
 [Tab切换顺序设置](https://github.com/zLulus/My_Note/wiki/Tab%E5%88%87%E6%8D%A2%E9%A1%BA%E5%BA%8F%E8%AE%BE%E7%BD%AE)
 
-[margin和padding](https://github.com/zLulus/My_Note/wiki/margin%E5%92%8Cpadding)
+[Margin和Padding](https://github.com/zLulus/My_Note/wiki/Margin%E5%92%8CPadding)
 
 ## Style
 
