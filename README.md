@@ -529,7 +529,7 @@
 
 [Binding控件某个属性](https://github.com/zLulus/My_Note/wiki/Binding%E6%8E%A7%E4%BB%B6%E6%9F%90%E4%B8%AA%E5%B1%9E%E6%80%A7)
 
-[列表嵌套列表](https://github.com/zLulus/My_Note/wiki/%E5%88%97%E8%A1%A8%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8)
+[DataGridTemplateColumn](https://github.com/zLulus/My_Note/wiki/DataGridTemplateColumn)
 
 [WPF DataGrid 触发器](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid-%E8%A7%A6%E5%8F%91%E5%99%A8)
 
