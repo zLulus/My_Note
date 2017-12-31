@@ -518,8 +518,6 @@
 
 [HierarchicalDataTemplate](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate)
 
-[HierarchicalDataTemplate（层级模板）](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate%EF%BC%88%E5%B1%82%E7%BA%A7%E6%A8%A1%E6%9D%BF%EF%BC%89)
-
 ## Trigger
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
