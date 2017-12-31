@@ -498,6 +498,8 @@
 
 [Margin和Padding](https://github.com/zLulus/My_Note/wiki/Margin%E5%92%8CPadding)
 
+[VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
+
 ## Style
 
 [style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
@@ -544,8 +546,6 @@
 [Mvvm 类click传参event agrs…](https://github.com/zLulus/My_Note/wiki/Mvvm-%E7%B1%BBclick%E4%BC%A0%E5%8F%82event-agrs%E2%80%A6)
 
 [属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
-
-[VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
 
 [RelativeSource](https://github.com/zLulus/My_Note/wiki/RelativeSource)
 
