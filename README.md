@@ -557,7 +557,7 @@
 
 [随时逻辑控制按钮可用不可用：没有修改时不可用](https://github.com/zLulus/My_Note/wiki/%E9%9A%8F%E6%97%B6%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E6%8C%89%E9%92%AE%E5%8F%AF%E7%94%A8%E4%B8%8D%E5%8F%AF%E7%94%A8%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%AE%E6%94%B9%E6%97%B6%E4%B8%8D%E5%8F%AF%E7%94%A8)
 
-[MVVM子窗体、主窗体传参](https://github.com/zLulus/My_Note/wiki/MVVM%E5%AD%90%E7%AA%97%E4%BD%93%E3%80%81%E4%B8%BB%E7%AA%97%E4%BD%93%E4%BC%A0%E5%8F%82)
+[子窗体、主窗体传参](https://github.com/zLulus/My_Note/wiki/%E5%AD%90%E7%AA%97%E4%BD%93%E3%80%81%E4%B8%BB%E7%AA%97%E4%BD%93%E4%BC%A0%E5%8F%82)
 
 [DataGrid自定义复选框](https://github.com/zLulus/My_Note/wiki/DataGrid%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%8D%E9%80%89%E6%A1%86)
 
