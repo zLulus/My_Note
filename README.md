@@ -573,7 +573,7 @@
 
 [Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
 
-[Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts---ToolBar)
+[Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts-ToolBar)
 
 ## 其他
 
