@@ -522,7 +522,8 @@
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
 
-[action && trigger](https://github.com/zLulus/My_Note/wiki/action-&&-trigger)
+## Action
+[Action](https://github.com/zLulus/My_Note/wiki/Action)
 
 ## 一些效果的实现
 
