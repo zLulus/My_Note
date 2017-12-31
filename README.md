@@ -520,10 +520,6 @@
 
 [HierarchicalDataTemplate（层级模板）](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate%EF%BC%88%E5%B1%82%E7%BA%A7%E6%A8%A1%E6%9D%BF%EF%BC%89)
 
-[DataTemplate（数据模板）](https://github.com/zLulus/My_Note/wiki/DataTemplate%EF%BC%88%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF%EF%BC%89)
-
-[DataTemplate和ControlTemplate混用](https://github.com/zLulus/My_Note/wiki/DataTemplate%E5%92%8CControlTemplate%E6%B7%B7%E7%94%A8)
-
 ## Trigger
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
