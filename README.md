@@ -561,6 +561,8 @@
 
 [DataGrid自定义复选框](https://github.com/zLulus/My_Note/wiki/DataGrid%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%8D%E9%80%89%E6%A1%86)
 
+[ObjectDataProvider](https://github.com/zLulus/My_Note/wiki/ObjectDataProvider)
+
 ## CefSharp
 
 [CefSharp For WPF隐藏滚动条](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E9%9A%90%E8%97%8F%E6%BB%9A%E5%8A%A8%E6%9D%A1)
@@ -578,8 +580,6 @@
 ## 其他
 
 [WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
-
-[ObjectDataProvider](https://github.com/zLulus/My_Note/wiki/ObjectDataProvider)
 
 # 设计模式
 
