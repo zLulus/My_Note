@@ -584,6 +584,8 @@
 
 [WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
 
+[ObjectDataProvider](https://github.com/zLulus/My_Note/wiki/DataTemplate)
+
 # 设计模式
 
 # 网络
