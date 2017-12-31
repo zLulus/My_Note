@@ -547,13 +547,9 @@
 
 [属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
 
-[RelativeSource](https://github.com/zLulus/My_Note/wiki/RelativeSource)
-
-[Convert](https://github.com/zLulus/My_Note/wiki/Convert)
+[Convert和RelativeSource](https://github.com/zLulus/My_Note/wiki/Convert%E5%92%8CRelativeSource)
 
 [窗口图标与背景](https://github.com/zLulus/My_Note/wiki/%E7%AA%97%E5%8F%A3%E5%9B%BE%E6%A0%87%E4%B8%8E%E8%83%8C%E6%99%AF)
-
-[livechart两个Bug](https://github.com/zLulus/My_Note/wiki/livechart%E4%B8%A4%E4%B8%AABug)
 
 [测试WPF绑定bug](https://github.com/zLulus/My_Note/wiki/%E6%B5%8B%E8%AF%95WPF%E7%BB%91%E5%AE%9Abug)
 
