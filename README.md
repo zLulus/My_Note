@@ -510,8 +510,6 @@
 
 [Template简介](https://github.com/zLulus/My_Note/wiki/Template%E7%AE%80%E4%BB%8B)
 
-[样式style和模板template](https://github.com/zLulus/My_Note/wiki/%E6%A0%B7%E5%BC%8Fstyle%E5%92%8C%E6%A8%A1%E6%9D%BFtemplate)
-
 [ControlTemplate](https://github.com/zLulus/My_Note/wiki/ControlTemplate)
 
 [DataTemplate](https://github.com/zLulus/My_Note/wiki/DataTemplate)
@@ -527,8 +525,6 @@
 [ControlTemplate（控件模板）](https://github.com/zLulus/My_Note/wiki/ControlTemplate%EF%BC%88%E6%8E%A7%E4%BB%B6%E6%A8%A1%E6%9D%BF%EF%BC%89)
 
 [DataTemplate和ControlTemplate混用](https://github.com/zLulus/My_Note/wiki/DataTemplate%E5%92%8CControlTemplate%E6%B7%B7%E7%94%A8)
-
-[Style,Template](https://github.com/zLulus/My_Note/wiki/Style,Template)
 
 ## Trigger
 
