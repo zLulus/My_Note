@@ -525,6 +525,8 @@
 ## Action
 [Action](https://github.com/zLulus/My_Note/wiki/Action)
 
+[command+传参,click](https://github.com/zLulus/My_Note/wiki/command-%E4%BC%A0%E5%8F%82,click)
+
 ## 一些效果的实现
 
 [Binding控件某个属性](https://github.com/zLulus/My_Note/wiki/Binding%E6%8E%A7%E4%BB%B6%E6%9F%90%E4%B8%AA%E5%B1%9E%E6%80%A7)
@@ -533,17 +535,15 @@
 
 [WPF DataGrid 触发器](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid-%E8%A7%A6%E5%8F%91%E5%99%A8)
 
+[异常处理](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86)
+
 [输入异常提示](https://github.com/zLulus/My_Note/wiki/%E8%BE%93%E5%85%A5%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA)
 
 [WPF DataGrid列头后台生成，列头重复解决方案](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E5%88%97%E5%A4%B4%E5%90%8E%E5%8F%B0%E7%94%9F%E6%88%90%EF%BC%8C%E5%88%97%E5%A4%B4%E9%87%8D%E5%A4%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
-[command+传参,click](https://github.com/zLulus/My_Note/wiki/command-%E4%BC%A0%E5%8F%82,click)
-
 [Mvvm 类click传参event agrs…](https://github.com/zLulus/My_Note/wiki/Mvvm-%E7%B1%BBclick%E4%BC%A0%E5%8F%82event-agrs%E2%80%A6)
 
 [属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
-
-[异常处理](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86)
 
 [VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
 
