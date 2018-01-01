@@ -608,6 +608,8 @@
 
 [数据绑定](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
 
+[自定义单元格](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8D%95%E5%85%83%E6%A0%BC)
+
 #### Xamarin.Android
 
 [Adapter的泛型](https://github.com/zLulus/My_Note/wiki/Adapter%E7%9A%84%E6%B3%9B%E5%9E%8B)
