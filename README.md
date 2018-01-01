@@ -602,6 +602,10 @@
 
 [视图和布局](https://github.com/zLulus/My_Note/wiki/%E8%A7%86%E5%9B%BE%E5%92%8C%E5%B8%83%E5%B1%80)
 
+[App.xaml介绍](https://github.com/zLulus/My_Note/wiki/App.xaml%E4%BB%8B%E7%BB%8D)
+
+[StackLayout](https://github.com/zLulus/My_Note/wiki/StackLayout)
+
 #### Xamarin.Android
 
 [Adapter的泛型](https://github.com/zLulus/My_Note/wiki/Adapter%E7%9A%84%E6%B3%9B%E5%9E%8B)
@@ -613,6 +617,7 @@
 [Button与ToggleButton](https://github.com/zLulus/My_Note/wiki/Button%E4%B8%8EToggleButton)
 
 # 计算机基本知识
+
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
 
 [内存泄漏](https://github.com/zLulus/My_Note/wiki/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
