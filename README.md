@@ -598,6 +598,12 @@
 
 [Xamarin简介](https://github.com/zLulus/My_Note/wiki/Xamarin%E7%AE%80%E4%BB%8B)
 
+#### Xamarin.Forms
+
+[视图和布局](https://github.com/zLulus/My_Note/wiki/%E8%A7%86%E5%9B%BE%E5%92%8C%E5%B8%83%E5%B1%80)
+
+#### Xamarin.Android
+
 [Adapter的泛型](https://github.com/zLulus/My_Note/wiki/Adapter%E7%9A%84%E6%B3%9B%E5%9E%8B)
 
 [布局](https://github.com/zLulus/My_Note/wiki/%E5%B8%83%E5%B1%80)
