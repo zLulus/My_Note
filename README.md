@@ -612,6 +612,8 @@
 
 [页面跳转](https://github.com/zLulus/My_Note/wiki/%E9%A1%B5%E9%9D%A2%E8%B7%B3%E8%BD%AC)
 
+[InitializeComponent无法识别的问题](https://github.com/zLulus/My_Note/wiki/InitializeComponent%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E7%9A%84%E9%97%AE%E9%A2%98)
+
 #### Xamarin.Android
 
 [Adapter的泛型](https://github.com/zLulus/My_Note/wiki/Adapter%E7%9A%84%E6%B3%9B%E5%9E%8B)
