@@ -120,6 +120,8 @@
 
 [服务没有权限访问某目录](https://github.com/zLulus/My_Note/wiki/%E6%9C%8D%E5%8A%A1%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%AE%BF%E9%97%AE%E6%9F%90%E7%9B%AE%E5%BD%95)
 
+[VS中发布并调试IIS程序（非附加进程！！！）](https://github.com/zLulus/My_Note/wiki/VS%E4%B8%AD%E5%8F%91%E5%B8%83%E5%B9%B6%E8%B0%83%E8%AF%95IIS%E7%A8%8B%E5%BA%8F%EF%BC%88%E9%9D%9E%E9%99%84%E5%8A%A0%E8%BF%9B%E7%A8%8B%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%89)
+
 # ASP .NET
 [Route data（转载）](https://github.com/zLulus/My_Note/wiki/Route-data%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
