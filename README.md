@@ -122,6 +122,8 @@
 
 [VS中发布并调试IIS程序（非附加进程！！！）](https://github.com/zLulus/My_Note/wiki/VS%E4%B8%AD%E5%8F%91%E5%B8%83%E5%B9%B6%E8%B0%83%E8%AF%95IIS%E7%A8%8B%E5%BA%8F%EF%BC%88%E9%9D%9E%E9%99%84%E5%8A%A0%E8%BF%9B%E7%A8%8B%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%89)
 
+[微信调试的几种方式](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
 # ASP .NET
 [Route data（转载）](https://github.com/zLulus/My_Note/wiki/Route-data%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
