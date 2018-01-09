@@ -268,6 +268,8 @@
 
 [html 自制属性](https://github.com/zLulus/My_Note/wiki/html-%E8%87%AA%E5%88%B6%E5%B1%9E%E6%80%A7)
 
+[图片居中](https://github.com/zLulus/My_Note/wiki/%E5%9B%BE%E7%89%87%E5%B1%85%E4%B8%AD)
+
 # sql
 [sql like N'%...%' 在C#里的写法](https://github.com/zLulus/My_Note/wiki/sql-like-N'%25...%25'-%E5%9C%A8C%23%E9%87%8C%E7%9A%84%E5%86%99%E6%B3%95)
 
