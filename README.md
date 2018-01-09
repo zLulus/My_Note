@@ -170,6 +170,8 @@
 
 [asp .net core 读取读取Views文件夹下的js和css](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E8%AF%BB%E5%8F%96%E8%AF%BB%E5%8F%96Views%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84js%E5%92%8Ccss)
 
+[.net core config读取](https://github.com/zLulus/My_Note/wiki/.net-core-config%E8%AF%BB%E5%8F%96)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
