@@ -59,6 +59,8 @@
 
 [DataTable转换为Entity(反射&&泛型)](https://github.com/zLulus/My_Note/wiki/DataTable%E8%BD%AC%E6%8D%A2%E4%B8%BAEntity(%E5%8F%8D%E5%B0%84&&%E6%B3%9B%E5%9E%8B))
 
+[linq to entity GroupBy多个字段](https://github.com/zLulus/My_Note/wiki/linq-to-entity-GroupBy%E5%A4%9A%E4%B8%AA%E5%AD%97%E6%AE%B5)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
