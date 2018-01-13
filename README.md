@@ -13,6 +13,8 @@
 
 [AngularJS (>ω<)](#angularjs)
 
+[TypeScript](#typeScript)
+
 [ABP框架 (・o・)](#abp)
 
 [html](#html)
@@ -161,6 +163,8 @@
 
 [js,css引用顺序设定](https://github.com/zLulus/My_Note/wiki/js,css%E5%BC%95%E7%94%A8%E9%A1%BA%E5%BA%8F%E8%AE%BE%E5%AE%9A)
 
+[缓存问题](https://github.com/zLulus/My_Note/wiki/%E7%BC%93%E5%AD%98%E9%97%AE%E9%A2%98)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
@@ -253,6 +257,10 @@
 [Angularjs 计数 $index](https://github.com/zLulus/My_Note/wiki/Angularjs-%E8%AE%A1%E6%95%B0-$index)
 
 [Angularjs html文本显示](https://github.com/zLulus/My_Note/wiki/Angularjs-html%E6%96%87%E6%9C%AC%E6%98%BE%E7%A4%BA)
+
+# TypeScript
+
+[待定 ~o( =∩ω∩= )m]()
 
 # ABP
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
