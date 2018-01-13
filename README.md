@@ -13,7 +13,7 @@
 
 [AngularJS (>ω<)](#angularjs)
 
-[TypeScript](#typeScript)
+[TypeScript](#typescript)
 
 [ABP框架 (・o・)](#abp)
 
