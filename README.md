@@ -738,6 +738,8 @@
 
 [如何抄网站](https://github.com/zLulus/My_Note/wiki/%E5%A6%82%E4%BD%95%E6%8A%84%E7%BD%91%E7%AB%99)
 
+[提交项目避免提交敏感内容](https://github.com/zLulus/My_Note/wiki/%E6%8F%90%E4%BA%A4%E9%A1%B9%E7%9B%AE%E9%81%BF%E5%85%8D%E6%8F%90%E4%BA%A4%E6%95%8F%E6%84%9F%E5%86%85%E5%AE%B9)
+
 # 待完成
 
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
