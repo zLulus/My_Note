@@ -1,5 +1,5 @@
 # My Note
-[C#](#csharp)
+[.net](#.net)
 
 [WCF](#wcf)
 
