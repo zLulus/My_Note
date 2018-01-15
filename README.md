@@ -67,6 +67,8 @@
 
 [nuget包发布](https://github.com/zLulus/My_Note/wiki/nuget%E5%8C%85%E5%8F%91%E5%B8%83)
 
+[Stream转Byte数组](https://github.com/zLulus/My_Note/wiki/Stream%E8%BD%ACByte%E6%95%B0%E7%BB%84)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
