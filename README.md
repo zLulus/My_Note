@@ -1,5 +1,5 @@
 # My Note
-[.net](#.net)
+[.net](#net)
 
 [WCF](#wcf)
 
