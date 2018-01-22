@@ -651,6 +651,8 @@
 
 # 微信
 
+[微信登录](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E7%99%BB%E5%BD%95)
+
 [微信获得用户信息](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E8%8E%B7%E5%BE%97%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF)
 
 # 计算机基本知识
