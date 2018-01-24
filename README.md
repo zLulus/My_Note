@@ -271,6 +271,8 @@
 
 [ABP杂谈](https://github.com/zLulus/My_Note/wiki/ABP%E6%9D%82%E8%B0%88)
 
+[ABP缓存示例](https://github.com/zLulus/My_Note/wiki/ABP%E7%BC%93%E5%AD%98%E7%A4%BA%E4%BE%8B)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
