@@ -661,6 +661,8 @@
 
 [微信网页跳转一直弹提示的问题](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E7%BD%91%E9%A1%B5%E8%B7%B3%E8%BD%AC%E4%B8%80%E7%9B%B4%E5%BC%B9%E6%8F%90%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98)
 
+[微信超时补发的处理思路](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E8%B6%85%E6%97%B6%E8%A1%A5%E5%8F%91%E7%9A%84%E5%A4%84%E7%90%86%E6%80%9D%E8%B7%AF)
+
 # 计算机基本知识
 
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
