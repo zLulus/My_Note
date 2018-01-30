@@ -264,6 +264,10 @@
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
 
+[TypeScript环境搭建](https://github.com/zLulus/My_Note/wiki/TypeScript%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
+
+[TypeScript数据结构](https://github.com/zLulus/My_Note/wiki/TypeScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+
 # ABP
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
 
