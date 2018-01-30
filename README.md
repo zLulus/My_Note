@@ -134,6 +134,8 @@
 
 [微信调试的几种方式](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
+[分析器错误消息: 未能加载类型](https://github.com/zLulus/My_Note/wiki/%E5%88%86%E6%9E%90%E5%99%A8%E9%94%99%E8%AF%AF%E6%B6%88%E6%81%AF:%C2%A0%E6%9C%AA%E8%83%BD%E5%8A%A0%E8%BD%BD%E7%B1%BB%E5%9E%8B)
+
 # ASP .NET
 [Route data（转载）](https://github.com/zLulus/My_Note/wiki/Route-data%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
