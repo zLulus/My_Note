@@ -171,6 +171,8 @@
 
 [缓存问题](https://github.com/zLulus/My_Note/wiki/%E7%BC%93%E5%AD%98%E9%97%AE%E9%A2%98)
 
+[session和cookie](https://github.com/zLulus/My_Note/wiki/session%E5%92%8Ccookie)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
