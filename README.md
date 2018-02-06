@@ -230,6 +230,8 @@
 
 [js的一些写法问题](https://github.com/zLulus/My_Note/wiki/js%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%99%E6%B3%95%E9%97%AE%E9%A2%98)
 
+[js css加时间戳](https://github.com/zLulus/My_Note/wiki/js-css%E5%8A%A0%E6%97%B6%E9%97%B4%E6%88%B3)
+
 # AngularJS
 
 ## AngularJS 1.x
