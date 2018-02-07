@@ -679,6 +679,8 @@
 
 [微信红包功能](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%8A%9F%E8%83%BD)
 
+[微信报错10003](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E6%8A%A5%E9%94%9910003)
+
 # 计算机基本知识
 
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
