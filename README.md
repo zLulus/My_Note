@@ -624,6 +624,8 @@
 
 [WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
 
+[ubuntu常识&vpn搭建](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86&vpn%E6%90%AD%E5%BB%BA)
+
 # 设计模式
 
 # 网络
