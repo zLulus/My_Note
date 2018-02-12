@@ -409,6 +409,8 @@
 
 [Redis](https://github.com/zLulus/My_Note/wiki/Redis)
 
+[windows下启动redis](https://github.com/zLulus/My_Note/wiki/windows%E4%B8%8B%E5%90%AF%E5%8A%A8redis)
+
 # EF
 [EF性能优化](https://github.com/zLulus/My_Note/wiki/EF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
