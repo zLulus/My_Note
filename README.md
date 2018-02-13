@@ -759,6 +759,8 @@
 
 [针对bilibili与kanbilibili的分析](https://github.com/zLulus/My_Note/wiki/%E9%92%88%E5%AF%B9bilibili%E4%B8%8Ekanbilibili%E7%9A%84%E5%88%86%E6%9E%90)
 
+[需求分析杂记](https://github.com/zLulus/My_Note/wiki/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%9D%82%E8%AE%B0)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
