@@ -280,6 +280,8 @@
 
 [Angular语法（二）——模板语法](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95)
 
+[Angular语法（三）——数据绑定](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
