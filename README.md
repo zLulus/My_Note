@@ -13,6 +13,8 @@
 
 [AngularJS (>ω<)](#angularjs)
 
+[Angular](#angular)
+
 [TypeScript](#typescript)
 
 [ABP框架 (・o・)](#abp)
@@ -269,6 +271,9 @@
 [Angularjs 计数 $index](https://github.com/zLulus/My_Note/wiki/Angularjs-%E8%AE%A1%E6%95%B0-$index)
 
 [Angularjs html文本显示](https://github.com/zLulus/My_Note/wiki/Angularjs-html%E6%96%87%E6%9C%AC%E6%98%BE%E7%A4%BA)
+
+# Angular
+
 
 # TypeScript
 
