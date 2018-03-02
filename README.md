@@ -194,6 +194,8 @@
 
 [.net core config读取](https://github.com/zLulus/My_Note/wiki/.net-core-config%E8%AF%BB%E5%8F%96)
 
+[.net core 允许跨域](https://github.com/zLulus/My_Note/wiki/.net-core-%E5%85%81%E8%AE%B8%E8%B7%A8%E5%9F%9F)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
