@@ -57,6 +57,8 @@
 
 [C#调用python](https://github.com/zLulus/My_Note/wiki/C%23%E8%B0%83%E7%94%A8python)
 
+[从Header中获得信息](https://github.com/zLulus/My_Note/wiki/%E4%BB%8EHeader%E4%B8%AD%E8%8E%B7%E5%BE%97%E4%BF%A1%E6%81%AF)
+
 [模拟请求(模拟header/gzip解压/泛型)](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E6%8B%9F%E8%AF%B7%E6%B1%82(%E6%A8%A1%E6%8B%9Fheader-gzip%E8%A7%A3%E5%8E%8B-%E6%B3%9B%E5%9E%8B))
 
 [C#控制台关闭之前做一些操作](https://github.com/zLulus/My_Note/wiki/C%23%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%85%B3%E9%97%AD%E4%B9%8B%E5%89%8D%E5%81%9A%E4%B8%80%E4%BA%9B%E6%93%8D%E4%BD%9C)
