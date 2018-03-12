@@ -294,6 +294,8 @@
 
 [TypeScript数据结构](https://github.com/zLulus/My_Note/wiki/TypeScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
+[typescript调用javascript && URI.js](https://github.com/zLulus/My_Note/wiki/typescript%E8%B0%83%E7%94%A8javascript-&&-URI.js)
+
 # ABP
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
 
