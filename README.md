@@ -290,6 +290,8 @@
 
 [Angular语法（三）——数据绑定](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
 
+[Angular常见问题](https://github.com/zLulus/My_Note/wiki/Angular%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
