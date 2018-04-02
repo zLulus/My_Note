@@ -79,7 +79,7 @@
 
 [C#调用JS](https://github.com/zLulus/My_Note/wiki/C%23%E8%B0%83%E7%94%A8JS)
 
-[扩展方法、类方法、静态方法、单实例方法](https://github.com/zLulus/My_Note/wiki/%E6%89%A9%E5%B1%95%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%96%B9%E6%B3%95%E3%80%81%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95%E3%80%81%E5%8D%95%E5%AE%9E%E4%BE%8B%E6%96%B9%E6%B3%95)
+[静态方法 && 非静态方法](https://github.com/zLulus/My_Note/wiki/%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95-&&-%E9%9D%9E%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95)
 
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
