@@ -185,7 +185,7 @@
 
 [Debug工具——事件查看器](https://github.com/zLulus/My_Note/wiki/Debug%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8)
 
-[IIS绑定域名](https://github.com/zLulus/My_Note/wiki/IIS%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D)
+[IIS发布的网站绑定域名](https://github.com/zLulus/My_Note/wiki/IIS%E5%8F%91%E5%B8%83%E7%9A%84%E7%BD%91%E7%AB%99%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D)
 
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
