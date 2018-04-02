@@ -183,6 +183,8 @@
 
 [WebAPI Delete方法报错405 Method Not Allowed](https://github.com/zLulus/My_Note/wiki/WebAPI-Delete%E6%96%B9%E6%B3%95%E6%8A%A5%E9%94%99405-Method-Not-Allowed)
 
+[Debug工具——事件查看器](https://github.com/zLulus/My_Note/wiki/Debug%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
