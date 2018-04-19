@@ -814,6 +814,8 @@
 
 [提交项目避免提交敏感内容](https://github.com/zLulus/My_Note/wiki/%E6%8F%90%E4%BA%A4%E9%A1%B9%E7%9B%AE%E9%81%BF%E5%85%8D%E6%8F%90%E4%BA%A4%E6%95%8F%E6%84%9F%E5%86%85%E5%AE%B9)
 
+[自动化集成解决方案——appveyor](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%8A%A8%E5%8C%96%E9%9B%86%E6%88%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E2%80%94%E2%80%94appveyor)
+
 # 待完成
 
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
