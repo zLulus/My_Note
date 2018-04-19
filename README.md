@@ -31,7 +31,7 @@
 
 [操作系统](#操作系统)
 
-[github](#github)
+[git](#git)
 
 [WPF ٩(๑òωó๑)۶](#wpf)
 
@@ -493,10 +493,12 @@
 
 [利用花生壳对windows server进行远程桌面](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E8%8A%B1%E7%94%9F%E5%A3%B3%E5%AF%B9windows-server%E8%BF%9B%E8%A1%8C%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2)
 
-# github
+# git
 [github基本使用](https://github.com/zLulus/My_Note/wiki/github%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 [SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
+
+[git cherry pick](https://github.com/zLulus/My_Note/wiki/git-cherry-pick)
 
 # WPF
 
