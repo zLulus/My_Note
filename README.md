@@ -723,6 +723,10 @@
 
 [暴露接口授权的问题](https://github.com/zLulus/My_Note/wiki/%E6%9A%B4%E9%9C%B2%E6%8E%A5%E5%8F%A3%E6%8E%88%E6%9D%83%E7%9A%84%E9%97%AE%E9%A2%98)
 
+## 小程序
+
+[小程序开发资料](https://github.com/zLulus/My_Note/wiki/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%B5%84%E6%96%99)
+
 # 计算机基本知识
 
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
