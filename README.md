@@ -729,6 +729,8 @@
 
 [小程序开发——统一请求方法](https://github.com/zLulus/My_Note/wiki/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E2%80%94%E2%80%94%E7%BB%9F%E4%B8%80%E8%AF%B7%E6%B1%82%E6%96%B9%E6%B3%95)
 
+[作用域浅析](https://github.com/zLulus/My_Note/wiki/%E4%BD%9C%E7%94%A8%E5%9F%9F%E6%B5%85%E6%9E%90)
+
 # 计算机基本知识
 
 [字符集编码和排列规则](https://github.com/zLulus/My_Note/wiki/%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81%E5%92%8C%E6%8E%92%E5%88%97%E8%A7%84%E5%88%99)
