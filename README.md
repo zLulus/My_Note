@@ -820,6 +820,8 @@
 
 [自动化集成解决方案——appveyor](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%8A%A8%E5%8C%96%E9%9B%86%E6%88%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E2%80%94%E2%80%94appveyor)
 
+[Geohash(转载)](https://github.com/zLulus/My_Note/wiki/Geohash(%E8%BD%AC%E8%BD%BD))
+
 # 待完成
 
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
