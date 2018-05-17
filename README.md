@@ -462,6 +462,8 @@
 
 [Entity States](https://github.com/zLulus/My_Note/wiki/Entity-States)
 
+[连接数据库报错：句柄无效](https://github.com/zLulus/My_Note/wiki/%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%A5%E9%94%99%EF%BC%9A%E5%8F%A5%E6%9F%84%E6%97%A0%E6%95%88)
+
 ## Code First
 [Code First 连接已有数据库](https://github.com/zLulus/My_Note/wiki/Code-First-%E8%BF%9E%E6%8E%A5%E5%B7%B2%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
 
