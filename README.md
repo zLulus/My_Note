@@ -759,6 +759,8 @@
 
 [前端代码分析方法](https://github.com/zLulus/My_Note/wiki/%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95)
 
+[url里面的数据解码](https://github.com/zLulus/My_Note/wiki/url%E9%87%8C%E9%9D%A2%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E7%A0%81)
+
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
