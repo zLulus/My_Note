@@ -713,6 +713,8 @@
 
 # 微信
 
+[微信开发相关资料](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
+
 [微信用户授权登录](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E7%94%A8%E6%88%B7%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95)
 
 [微信白名单配置与检验](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E4%BF%A1%E7%99%BD%E5%90%8D%E5%8D%95%E9%85%8D%E7%BD%AE%E4%B8%8E%E6%A3%80%E9%AA%8C)
