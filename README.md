@@ -315,6 +315,8 @@
 [typescript调用javascript && URI.js](https://github.com/zLulus/My_Note/wiki/typescript%E8%B0%83%E7%94%A8javascript-&&-URI.js)
 
 # ABP
+[领域驱动设计（DDD）与代码规范](https://github.com/zLulus/My_Note/wiki/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%EF%BC%88DDD%EF%BC%89%E4%B8%8E%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
+
 [ABP框架——单表实体流程](https://github.com/zLulus/My_Note/wiki/ABP%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E5%8D%95%E8%A1%A8%E5%AE%9E%E4%BD%93%E6%B5%81%E7%A8%8B)
 
 [abp.message](https://github.com/zLulus/My_Note/wiki/abp.message)
