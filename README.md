@@ -85,6 +85,8 @@
 
 [System.Reflection.Emit](https://github.com/zLulus/My_Note/wiki/System.Reflection.Emit)
 
+[.net加壳脱壳](https://github.com/zLulus/My_Note/wiki/.net%E5%8A%A0%E5%A3%B3%E8%84%B1%E5%A3%B3)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
