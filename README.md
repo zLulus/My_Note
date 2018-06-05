@@ -508,6 +508,8 @@
 # git
 [github基本使用](https://github.com/zLulus/My_Note/wiki/github%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
+[git常用指令](https://github.com/zLulus/My_Note/wiki/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
+
 [SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
 
 [git cherry pick](https://github.com/zLulus/My_Note/wiki/git-cherry-pick)
