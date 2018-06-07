@@ -443,6 +443,8 @@
 
 [日志文件 清理or压缩](https://github.com/zLulus/My_Note/wiki/%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6--%E6%B8%85%E7%90%86or%E5%8E%8B%E7%BC%A9)
 
+[数据库新增用户(限定访问数据库)](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%B0%E5%A2%9E%E7%94%A8%E6%88%B7(%E9%99%90%E5%AE%9A%E8%AE%BF%E9%97%AE%E6%95%B0%E6%8D%AE%E5%BA%93))
+
 ## 非关系型数据库
 ### NoSql
 [Nosql](https://github.com/zLulus/My_Note/wiki/Nosql)
