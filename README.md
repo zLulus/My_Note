@@ -264,6 +264,8 @@
 
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
 
+[AngularJS 调试技巧](https://github.com/zLulus/My_Note/wiki/AngularJS-%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7)
+
 [AngularJS Scope(作用域)](https://github.com/zLulus/My_Note/wiki/AngularJS-Scope(%E4%BD%9C%E7%94%A8%E5%9F%9F))
 
 [AngularJS 过滤器](https://github.com/zLulus/My_Note/wiki/AngularJS-%E8%BF%87%E6%BB%A4%E5%99%A8)
