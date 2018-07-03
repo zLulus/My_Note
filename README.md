@@ -189,6 +189,8 @@
 
 [session和cookie](https://github.com/zLulus/My_Note/wiki/session%E5%92%8Ccookie)
 
+[身份认证的几种方式](https://github.com/zLulus/My_Note/wiki/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
 [WebAPI Delete方法报错405 Method Not Allowed](https://github.com/zLulus/My_Note/wiki/WebAPI-Delete%E6%96%B9%E6%B3%95%E6%8A%A5%E9%94%99405-Method-Not-Allowed)
 
 [Debug工具——事件查看器](https://github.com/zLulus/My_Note/wiki/Debug%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8)
