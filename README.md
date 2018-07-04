@@ -312,6 +312,8 @@
 
 [Angular登录示例](https://github.com/zLulus/My_Note/wiki/Angular%E7%99%BB%E5%BD%95%E7%A4%BA%E4%BE%8B)
 
+[Angular 请求另一服务的api（请求代理）](https://github.com/zLulus/My_Note/wiki/Angular-%E8%AF%B7%E6%B1%82%E5%8F%A6%E4%B8%80%E6%9C%8D%E5%8A%A1%E7%9A%84api%EF%BC%88%E8%AF%B7%E6%B1%82%E4%BB%A3%E7%90%86%EF%BC%89)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
