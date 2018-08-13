@@ -268,8 +268,6 @@
 
 # AngularJS
 
-## AngularJS 1.x
-
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
 
 [AngularJS 调试技巧](https://github.com/zLulus/My_Note/wiki/AngularJS-%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7)
@@ -325,6 +323,8 @@
 [ng-alian](https://github.com/zLulus/My_Note/wiki/ng-alian)
 
 [ng-zorro](https://github.com/zLulus/My_Note/wiki/ng-zorro)
+
+[angular对IE 6的支持问题](https://github.com/zLulus/My_Note/wiki/angular%E5%AF%B9IE-6%E7%9A%84%E6%94%AF%E6%8C%81%E9%97%AE%E9%A2%98)
 
 # TypeScript
 
