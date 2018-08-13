@@ -489,8 +489,6 @@
 ## Code First
 [Code First 连接已有数据库](https://github.com/zLulus/My_Note/wiki/Code-First-%E8%BF%9E%E6%8E%A5%E5%B7%B2%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
 
-[ef core code first from exist db](https://github.com/zLulus/My_Note/wiki/ef-core-code-first-from-exist-db)
-
 ## DB First
 [生成EF后修改最大长度限制等](https://github.com/zLulus/My_Note/wiki/%E7%94%9F%E6%88%90EF%E5%90%8E%E4%BF%AE%E6%94%B9%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E9%99%90%E5%88%B6%E7%AD%89)
 
@@ -500,7 +498,10 @@
 
 [DB First-EF中的存储过程、函数、视图](https://github.com/zLulus/My_Note/wiki/DB-First-EF%E4%B8%AD%E7%9A%84%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E3%80%81%E5%87%BD%E6%95%B0%E3%80%81%E8%A7%86%E5%9B%BE)
 
+## EF Core
+[ef core code first from exist db](https://github.com/zLulus/My_Note/wiki/ef-core-code-first-from-exist-db)
 
+[ef core 数据类型 && 表字段名设置](https://github.com/zLulus/My_Note/wiki/ef-core-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B-&&-%E8%A1%A8%E5%AD%97%E6%AE%B5%E5%90%8D%E8%AE%BE%E7%BD%AE)
 
 # 数据结构
 
