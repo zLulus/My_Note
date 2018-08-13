@@ -205,6 +205,8 @@
 
 [asp .net 大文件传输配置](https://github.com/zLulus/My_Note/wiki/asp-.net-%E5%A4%A7%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E9%85%8D%E7%BD%AE)
 
+[asp .net 允许跨域](https://github.com/zLulus/My_Note/wiki/asp-.net-%E5%85%81%E8%AE%B8%E8%B7%A8%E5%9F%9F)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
