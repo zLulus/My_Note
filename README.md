@@ -318,6 +318,8 @@
 
 [Angular 请求另一服务的api（请求代理）](https://github.com/zLulus/My_Note/wiki/Angular-%E8%AF%B7%E6%B1%82%E5%8F%A6%E4%B8%80%E6%9C%8D%E5%8A%A1%E7%9A%84api%EF%BC%88%E8%AF%B7%E6%B1%82%E4%BB%A3%E7%90%86%EF%BC%89)
 
+[angular form set dynamic control(form动态设置control)](https://github.com/zLulus/My_Note/wiki/angular-form-set-dynamic-control(form%E5%8A%A8%E6%80%81%E8%AE%BE%E7%BD%AEcontrol))
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
