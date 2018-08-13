@@ -201,6 +201,8 @@
 
 [二维码生成与返回客户端](https://github.com/zLulus/My_Note/wiki/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E4%B8%8E%E8%BF%94%E5%9B%9E%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
+[两个同名controller导致调用崩溃](https://github.com/zLulus/My_Note/wiki/%E4%B8%A4%E4%B8%AA%E5%90%8C%E5%90%8Dcontroller%E5%AF%BC%E8%87%B4%E8%B0%83%E7%94%A8%E5%B4%A9%E6%BA%83)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
