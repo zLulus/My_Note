@@ -334,6 +334,8 @@
 
 [angular对IE 6的支持问题](https://github.com/zLulus/My_Note/wiki/angular%E5%AF%B9IE-6%E7%9A%84%E6%94%AF%E6%8C%81%E9%97%AE%E9%A2%98)
 
+[Angular升级流程](https://github.com/zLulus/My_Note/wiki/Angular%E5%8D%87%E7%BA%A7%E6%B5%81%E7%A8%8B)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
