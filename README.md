@@ -328,6 +328,8 @@
 
 [ng-alian](https://github.com/zLulus/My_Note/wiki/ng-alian)
 
+[ng-alian 复用标签相关设置](https://github.com/zLulus/My_Note/wiki/ng-alian-%E5%A4%8D%E7%94%A8%E6%A0%87%E7%AD%BE%E7%9B%B8%E5%85%B3%E8%AE%BE%E7%BD%AE)
+
 [ng-zorro](https://github.com/zLulus/My_Note/wiki/ng-zorro)
 
 [angular对IE 6的支持问题](https://github.com/zLulus/My_Note/wiki/angular%E5%AF%B9IE-6%E7%9A%84%E6%94%AF%E6%8C%81%E9%97%AE%E9%A2%98)
