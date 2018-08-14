@@ -342,6 +342,8 @@
 
 [typescript调用javascript && URI.js](https://github.com/zLulus/My_Note/wiki/typescript%E8%B0%83%E7%94%A8javascript-&&-URI.js)
 
+[合并 && 还原属性链](https://github.com/zLulus/My_Note/wiki/%E5%90%88%E5%B9%B6-&&-%E8%BF%98%E5%8E%9F%E5%B1%9E%E6%80%A7%E9%93%BE)
+
 # ABP
 [领域驱动设计（DDD）与代码规范](https://github.com/zLulus/My_Note/wiki/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%EF%BC%88DDD%EF%BC%89%E4%B8%8E%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 
