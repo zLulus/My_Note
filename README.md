@@ -479,6 +479,8 @@
 
 [数据库新增用户(限定访问数据库)](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%B0%E5%A2%9E%E7%94%A8%E6%88%B7(%E9%99%90%E5%AE%9A%E8%AE%BF%E9%97%AE%E6%95%B0%E6%8D%AE%E5%BA%93))
 
+[sql server使用正则表达式](https://github.com/zLulus/My_Note/wiki/sql-server%E4%BD%BF%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+
 ## 非关系型数据库
 ### NoSql
 [Nosql](https://github.com/zLulus/My_Note/wiki/Nosql)
