@@ -382,6 +382,8 @@
 
 [图片居中](https://github.com/zLulus/My_Note/wiki/%E5%9B%BE%E7%89%87%E5%B1%85%E4%B8%AD)
 
+[html5 前端存储数据的方式](https://github.com/zLulus/My_Note/wiki/html5-%E5%89%8D%E7%AB%AF%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E7%9A%84%E6%96%B9%E5%BC%8F)
+
 # sql
 [sql like N'%...%' 在C#里的写法](https://github.com/zLulus/My_Note/wiki/sql-like-N'%25...%25'-%E5%9C%A8C%23%E9%87%8C%E7%9A%84%E5%86%99%E6%B3%95)
 
