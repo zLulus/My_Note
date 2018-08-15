@@ -312,6 +312,8 @@
 
 [Angular常用指令](https://github.com/zLulus/My_Note/wiki/Angular%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
 
+[Angular基本概念理解](https://github.com/zLulus/My_Note/wiki/Angular%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E7%90%86%E8%A7%A3)
+
 [Angular语法（一）——展示数据](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE)
 
 [Angular语法（二）——模板语法](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95)
