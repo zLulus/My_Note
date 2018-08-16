@@ -535,6 +535,8 @@
 
 [EntityFrameworkCore 一对一 && 一对多 && 多对多配置](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E4%B8%80%E5%AF%B9%E4%B8%80-&&-%E4%B8%80%E5%AF%B9%E5%A4%9A-&&-%E5%A4%9A%E5%AF%B9%E5%A4%9A%E9%85%8D%E7%BD%AE)
 
+[EntityFrameworkCore 单表树状结构配置](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E5%8D%95%E8%A1%A8%E6%A0%91%E7%8A%B6%E7%BB%93%E6%9E%84%E9%85%8D%E7%BD%AE)
+
 # 数据结构
 
 [基本数据结构](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
