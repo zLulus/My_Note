@@ -533,6 +533,8 @@
 
 [ef core 数据类型 && 表字段名设置](https://github.com/zLulus/My_Note/wiki/ef-core-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B-&&-%E8%A1%A8%E5%AD%97%E6%AE%B5%E5%90%8D%E8%AE%BE%E7%BD%AE)
 
+[EntityFrameworkCore 一对一 && 一对多 && 多对多配置](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E4%B8%80%E5%AF%B9%E4%B8%80-&&-%E4%B8%80%E5%AF%B9%E5%A4%9A-&&-%E5%A4%9A%E5%AF%B9%E5%A4%9A%E9%85%8D%E7%BD%AE)
+
 # 数据结构
 
 [基本数据结构](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
