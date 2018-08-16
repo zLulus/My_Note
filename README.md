@@ -913,6 +913,8 @@
 
 [Geohash(转载)](https://github.com/zLulus/My_Note/wiki/Geohash(%E8%BD%AC%E8%BD%BD))
 
+[VS Code插件管理](https://github.com/zLulus/My_Note/wiki/VS-Code%E6%8F%92%E4%BB%B6%E7%AE%A1%E7%90%86)
+
 # 待完成
 
 [WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
