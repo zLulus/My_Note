@@ -230,6 +230,8 @@
 
 [.net core使用ef 6](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8ef-6)
 
+[.net core响应缓存](https://github.com/zLulus/My_Note/wiki/.net-core%E5%93%8D%E5%BA%94%E7%BC%93%E5%AD%98)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
