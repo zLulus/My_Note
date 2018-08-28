@@ -491,6 +491,10 @@
 
 [sql server使用正则表达式](https://github.com/zLulus/My_Note/wiki/sql-server%E4%BD%BF%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
+#### Mysql
+
+[MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
+
 ## 非关系型数据库
 ### NoSql
 [Nosql](https://github.com/zLulus/My_Note/wiki/Nosql)
