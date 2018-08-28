@@ -367,6 +367,8 @@
 
 [nswag](https://github.com/zLulus/My_Note/wiki/nswag)
 
+[abp项目 从sql server迁移至mysql](https://github.com/zLulus/My_Note/wiki/abp%E9%A1%B9%E7%9B%AE-%E4%BB%8Esql-server%E8%BF%81%E7%A7%BB%E8%87%B3mysql)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
