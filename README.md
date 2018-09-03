@@ -342,6 +342,8 @@
 
 [Angular升级流程](https://github.com/zLulus/My_Note/wiki/Angular%E5%8D%87%E7%BA%A7%E6%B5%81%E7%A8%8B)
 
+[yarn](https://github.com/zLulus/My_Note/wiki/yarn)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
