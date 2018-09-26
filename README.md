@@ -680,7 +680,7 @@
 ## Action
 [Action](https://github.com/zLulus/My_Note/wiki/Action)
 
-[command+传参,click](https://github.com/zLulus/My_Note/wiki/command-%E4%BC%A0%E5%8F%82,click)
+[Command 传参的几种方式](https://github.com/zLulus/My_Note/wiki/Command-%E4%BC%A0%E5%8F%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
 ## 一些效果的实现
 
