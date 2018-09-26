@@ -694,8 +694,6 @@
 
 [输入异常提示](https://github.com/zLulus/My_Note/wiki/%E8%BE%93%E5%85%A5%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA)
 
-[WPF DataGrid列头后台生成，列头重复解决方案](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E5%88%97%E5%A4%B4%E5%90%8E%E5%8F%B0%E7%94%9F%E6%88%90%EF%BC%8C%E5%88%97%E5%A4%B4%E9%87%8D%E5%A4%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-
 [Mvvm 类click传参event agrs…](https://github.com/zLulus/My_Note/wiki/Mvvm-%E7%B1%BBclick%E4%BC%A0%E5%8F%82event-agrs%E2%80%A6)
 
 [属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
@@ -719,6 +717,8 @@
 [WPF无边框实现拖动效果](https://github.com/zLulus/My_Note/wiki/WPF%E6%97%A0%E8%BE%B9%E6%A1%86%E5%AE%9E%E7%8E%B0%E6%8B%96%E5%8A%A8%E6%95%88%E6%9E%9C)
 
 [WPF实现弹幕](https://github.com/zLulus/My_Note/wiki/WPF%E5%AE%9E%E7%8E%B0%E5%BC%B9%E5%B9%95)
+
+[DataGrid数据绑定](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
 
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
