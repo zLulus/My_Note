@@ -718,7 +718,7 @@
 
 [WPF实现弹幕](https://github.com/zLulus/My_Note/wiki/WPF%E5%AE%9E%E7%8E%B0%E5%BC%B9%E5%B9%95)
 
-[DataGrid数据绑定](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
+[DataGrid数据绑定](https://github.com/zLulus/My_Note/wiki/DataGrid%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
 
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
