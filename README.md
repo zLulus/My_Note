@@ -694,8 +694,6 @@
 
 [输入异常提示](https://github.com/zLulus/My_Note/wiki/%E8%BE%93%E5%85%A5%E5%BC%82%E5%B8%B8%E6%8F%90%E7%A4%BA)
 
-[Mvvm 类click传参event agrs…](https://github.com/zLulus/My_Note/wiki/Mvvm-%E7%B1%BBclick%E4%BC%A0%E5%8F%82event-agrs%E2%80%A6)
-
 [属性更改通知（INotifyPropertyChanged）——针对ObservableCollection](https://github.com/zLulus/My_Note/wiki/%E5%B1%9E%E6%80%A7%E6%9B%B4%E6%94%B9%E9%80%9A%E7%9F%A5%EF%BC%88INotifyPropertyChanged%EF%BC%89%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9ObservableCollection)
 
 [Convert和RelativeSource](https://github.com/zLulus/My_Note/wiki/Convert%E5%92%8CRelativeSource)
