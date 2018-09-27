@@ -501,6 +501,10 @@
 
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
 
+#### Postgresql
+
+[Postgresql入门](https://github.com/zLulus/My_Note/wiki/Postgresql%E5%85%A5%E9%97%A8)
+
 ## 非关系型数据库
 ### NoSql
 [Nosql](https://github.com/zLulus/My_Note/wiki/Nosql)
