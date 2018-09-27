@@ -51,8 +51,6 @@
 
 [其他](#其他)
 
-[待完成](#待完成)
-
 # .net
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
@@ -934,10 +932,6 @@
 [AOP Aspect oriented programming(面向方面编程)](https://github.com/zLulus/My_Note/wiki/AOP-Aspect-oriented-programming(%E9%9D%A2%E5%90%91%E6%96%B9%E9%9D%A2%E7%BC%96%E7%A8%8B))
 
 [Windows PowerShell 集成脚本环境 (ISE)](https://github.com/zLulus/My_Note/wiki/Windows-PowerShell-%E9%9B%86%E6%88%90%E8%84%9A%E6%9C%AC%E7%8E%AF%E5%A2%83-(ISE))
-
-# 待完成
-
-[WCF服务的单元测试](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
 
 
