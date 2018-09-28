@@ -848,6 +848,8 @@
 
 [代码管理](https://github.com/zLulus/My_Note/wiki/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86)
 
+[OAuth 2.0](https://github.com/zLulus/My_Note/wiki/OAuth-2.0)
+
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
