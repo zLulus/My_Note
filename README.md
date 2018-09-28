@@ -211,6 +211,8 @@
 
 [部分站点发布报错   编译器失败，错误代码为  2146232576。](https://github.com/zLulus/My_Note/wiki/%E9%83%A8%E5%88%86%E7%AB%99%E7%82%B9%E5%8F%91%E5%B8%83%E6%8A%A5%E9%94%99---%E7%BC%96%E8%AF%91%E5%99%A8%E5%A4%B1%E8%B4%A5%EF%BC%8C%E9%94%99%E8%AF%AF%E4%BB%A3%E7%A0%81%E4%B8%BA--2146232576%E3%80%82)
 
+[asp .net identity相关概念](https://github.com/zLulus/My_Note/wiki/asp-.net-identity%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
