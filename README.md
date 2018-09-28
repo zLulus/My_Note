@@ -89,6 +89,8 @@
 
 [linq to entity DistinctBy && DefaultIfEmpty](https://github.com/zLulus/My_Note/wiki/linq-to-entity-DistinctBy-&&-DefaultIfEmpty)
 
+[.net 单元测试](https://github.com/zLulus/My_Note/wiki/.net-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
