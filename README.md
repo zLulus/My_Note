@@ -240,6 +240,8 @@
 
 [asp .net core 视图组件——Html.Action的替代](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E8%A7%86%E5%9B%BE%E7%BB%84%E4%BB%B6%E2%80%94%E2%80%94Html.Action%E7%9A%84%E6%9B%BF%E4%BB%A3)
 
+[asp .net core 使用spa](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E4%BD%BF%E7%94%A8spa)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
