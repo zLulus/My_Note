@@ -215,6 +215,8 @@
 
 [asp .net identity相关概念](https://github.com/zLulus/My_Note/wiki/asp-.net-identity%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5)
 
+[OData](https://github.com/zLulus/My_Note/wiki/OData)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
