@@ -547,6 +547,8 @@
 ## Code First
 [Code First 连接已有数据库](https://github.com/zLulus/My_Note/wiki/Code-First-%E8%BF%9E%E6%8E%A5%E5%B7%B2%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
 
+[ef code first 在不同分支之间的管理](https://github.com/zLulus/My_Note/wiki/ef-code-first-%E5%9C%A8%E4%B8%8D%E5%90%8C%E5%88%86%E6%94%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E7%AE%A1%E7%90%86)
+
 ## DB First
 [生成EF后修改最大长度限制等](https://github.com/zLulus/My_Note/wiki/%E7%94%9F%E6%88%90EF%E5%90%8E%E4%BF%AE%E6%94%B9%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6%E9%99%90%E5%88%B6%E7%AD%89)
 
