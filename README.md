@@ -217,6 +217,8 @@
 
 [OData](https://github.com/zLulus/My_Note/wiki/OData)
 
+[asp .net mvc 获得用户IP](https://github.com/zLulus/My_Note/wiki/asp-.net-mvc-%E8%8E%B7%E5%BE%97%E7%94%A8%E6%88%B7IP)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
