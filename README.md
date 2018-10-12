@@ -862,6 +862,8 @@
 
 [OAuth 2.0](https://github.com/zLulus/My_Note/wiki/OAuth-2.0)
 
+[本机多域名配置](https://github.com/zLulus/My_Note/wiki/%E6%9C%AC%E6%9C%BA%E5%A4%9A%E5%9F%9F%E5%90%8D%E9%85%8D%E7%BD%AE)
+
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
