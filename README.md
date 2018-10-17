@@ -864,6 +864,8 @@
 
 [本机多域名配置](https://github.com/zLulus/My_Note/wiki/%E6%9C%AC%E6%9C%BA%E5%A4%9A%E5%9F%9F%E5%90%8D%E9%85%8D%E7%BD%AE)
 
+[灰度发布](https://github.com/zLulus/My_Note/wiki/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83)
+
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
