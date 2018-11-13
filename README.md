@@ -961,5 +961,5 @@
 
 [Windows PowerShell 集成脚本环境 (ISE)](https://github.com/zLulus/My_Note/wiki/Windows-PowerShell-%E9%9B%86%E6%88%90%E8%84%9A%E6%9C%AC%E7%8E%AF%E5%A2%83-(ISE))
 
-
+[前端门户加载优化思路](https://github.com/zLulus/My_Note/wiki/%E5%89%8D%E7%AB%AF%E9%97%A8%E6%88%B7%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF)
 
