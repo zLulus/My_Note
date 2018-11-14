@@ -963,3 +963,4 @@
 
 [前端门户加载优化思路](https://github.com/zLulus/My_Note/wiki/%E5%89%8D%E7%AB%AF%E9%97%A8%E6%88%B7%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF)
 
+[本机桌面程序和web程序的通讯](https://github.com/zLulus/My_Note/wiki/%E6%9C%AC%E6%9C%BA%E6%A1%8C%E9%9D%A2%E7%A8%8B%E5%BA%8F%E5%92%8Cweb%E7%A8%8B%E5%BA%8F%E7%9A%84%E9%80%9A%E8%AE%AF)
