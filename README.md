@@ -227,6 +227,8 @@
 
 [asp .net Cookies](https://github.com/zLulus/My_Note/wiki/asp-.net-Cookies)
 
+[带参跳转其他controller](https://github.com/zLulus/My_Note/wiki/%E5%B8%A6%E5%8F%82%E8%B7%B3%E8%BD%AC%E5%85%B6%E4%BB%96controller)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
