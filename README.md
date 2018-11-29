@@ -368,6 +368,8 @@
 
 [yarn](https://github.com/zLulus/My_Note/wiki/yarn)
 
+[Angular自定义表单验证](https://github.com/zLulus/My_Note/wiki/Angular%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
