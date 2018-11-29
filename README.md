@@ -370,6 +370,8 @@
 
 [Angular自定义表单验证](https://github.com/zLulus/My_Note/wiki/Angular%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81)
 
+[Angular组件间的数据传输](https://github.com/zLulus/My_Note/wiki/Angular%E7%BB%84%E4%BB%B6%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
