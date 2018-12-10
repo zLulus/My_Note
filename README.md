@@ -372,6 +372,8 @@
 
 [Angular组件间的数据传输](https://github.com/zLulus/My_Note/wiki/Angular%E7%BB%84%E4%BB%B6%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93)
 
+[Angular语法（四）——html循环](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94html%E5%BE%AA%E7%8E%AF)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
