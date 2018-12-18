@@ -376,6 +376,8 @@
 
 [Angular语法（四）——html循环](https://github.com/zLulus/My_Note/wiki/Angular%E8%AF%AD%E6%B3%95%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94html%E5%BE%AA%E7%8E%AF)
 
+[Angular替换服务](https://github.com/zLulus/My_Note/wiki/Angular%E6%9B%BF%E6%8D%A2%E6%9C%8D%E5%8A%A1)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
