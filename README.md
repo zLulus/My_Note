@@ -511,6 +511,8 @@
 
 [Dapper简介](https://github.com/zLulus/My_Note/wiki/Dapper%E7%AE%80%E4%BB%8B)
 
+[数据库分库分表思路](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%80%9D%E8%B7%AF)
+
 #### SQL Server
 
 [sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
