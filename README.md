@@ -426,6 +426,8 @@
 
 [html5 前端存储数据的方式](https://github.com/zLulus/My_Note/wiki/html5-%E5%89%8D%E7%AB%AF%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E7%9A%84%E6%96%B9%E5%BC%8F)
 
+[网页调用本地程序——url protocol](https://github.com/zLulus/My_Note/wiki/%E7%BD%91%E9%A1%B5%E8%B0%83%E7%94%A8%E6%9C%AC%E5%9C%B0%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94url-protocol)
+
 # sql
 [sql like N'%...%' 在C#里的写法](https://github.com/zLulus/My_Note/wiki/sql-like-N'%25...%25'-%E5%9C%A8C%23%E9%87%8C%E7%9A%84%E5%86%99%E6%B3%95)
 
