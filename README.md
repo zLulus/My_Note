@@ -998,3 +998,5 @@
 [本机桌面程序和web程序的通讯](https://github.com/zLulus/My_Note/wiki/%E6%9C%AC%E6%9C%BA%E6%A1%8C%E9%9D%A2%E7%A8%8B%E5%BA%8F%E5%92%8Cweb%E7%A8%8B%E5%BA%8F%E7%9A%84%E9%80%9A%E8%AE%AF)
 
 [ubuntu常识&vpn搭建](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86&vpn%E6%90%AD%E5%BB%BA)
+
+[伪造IP思路](https://github.com/zLulus/My_Note/wiki/%E4%BC%AA%E9%80%A0IP%E6%80%9D%E8%B7%AF)
