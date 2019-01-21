@@ -1000,3 +1000,5 @@
 [ubuntu常识&vpn搭建](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86&vpn%E6%90%AD%E5%BB%BA)
 
 [伪造IP思路](https://github.com/zLulus/My_Note/wiki/%E4%BC%AA%E9%80%A0IP%E6%80%9D%E8%B7%AF)
+
+[爬虫 && 数据分析](https://github.com/zLulus/My_Note/wiki/%E7%88%AC%E8%99%AB-&&-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
