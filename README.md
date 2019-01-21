@@ -819,6 +819,10 @@
 
 [Android开发四大件](https://github.com/zLulus/My_Note/wiki/Android%E5%BC%80%E5%8F%91%E5%9B%9B%E5%A4%A7%E4%BB%B6)
 
+[NinePatch](https://github.com/zLulus/My_Note/wiki/NinePatch)
+
+[android应用发布](https://github.com/zLulus/My_Note/wiki/android%E5%BA%94%E7%94%A8%E5%8F%91%E5%B8%83)
+
 ## Xamarin相关知识
 
 [Xamarin简介](https://github.com/zLulus/My_Note/wiki/Xamarin%E7%AE%80%E4%BB%8B)
