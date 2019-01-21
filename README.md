@@ -515,6 +515,12 @@
 
 [数据库分库分表思路](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%80%9D%E8%B7%AF)
 
+[数据库操纵基本思路](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E7%BA%B5%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF)
+
+[数据库引擎](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E6%93%8E)
+
+[java数据库连接(JDBC)](https://github.com/zLulus/My_Note/wiki/java%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5)
+
 #### SQL Server
 
 [sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
@@ -536,6 +542,10 @@
 #### Mysql
 
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
+
+#### SQLite
+
+[SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
 
 #### Postgresql
 
