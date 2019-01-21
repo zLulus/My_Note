@@ -793,7 +793,9 @@
 
 [IPv6](https://github.com/zLulus/My_Note/wiki/IPv6)
 
-[搜索引擎优化](https://github.com/zLulus/My_Note/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96)
+[搜索引擎优化(SEO)](https://github.com/zLulus/My_Note/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96)
+
+[文件传输协议(FTP)](https://github.com/zLulus/My_Note/wiki/%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
 
 # GIS
 
