@@ -803,6 +803,8 @@
 
 [安全超文本传输协议(HTTPS)](https://github.com/zLulus/My_Note/wiki/%E5%AE%89%E5%85%A8%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
 
+[端口映射](https://github.com/zLulus/My_Note/wiki/%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84)
+
 # GIS
 
 # Xamarin
