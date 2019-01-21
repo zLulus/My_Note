@@ -803,6 +803,8 @@
 
 [端口映射](https://github.com/zLulus/My_Note/wiki/%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84)
 
+[安全套接层(SSL) && 继任者传输层安全(TLS)](https://github.com/zLulus/My_Note/wiki/%E5%AE%89%E5%85%A8%E5%A5%97%E6%8E%A5%E5%B1%82-&&-%E7%BB%A7%E4%BB%BB%E8%80%85%E4%BC%A0%E8%BE%93%E5%B1%82%E5%AE%89%E5%85%A8)
+
 # GIS
 
 # Xamarin
@@ -921,6 +923,8 @@
 [Uri ? & =](https://github.com/zLulus/My_Note/wiki/Uri--%3F-&-=)
 
 [URI && URL && URN](https://github.com/zLulus/My_Note/wiki/URI-&&-URL-&&-URN)
+
+[公共网关接口(CGI)](https://github.com/zLulus/My_Note/wiki/%E5%85%AC%E5%85%B1%E7%BD%91%E5%85%B3%E6%8E%A5%E5%8F%A3)
 
 ## Fiddler
 [Fiddler基础](https://github.com/zLulus/My_Note/wiki/Fiddler%E5%9F%BA%E7%A1%80)
