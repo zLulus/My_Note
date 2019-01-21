@@ -817,11 +817,18 @@
 
 [掌上开发的局限性](https://github.com/zLulus/My_Note/wiki/%E6%8E%8C%E4%B8%8A%E5%BC%80%E5%8F%91%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7)
 
+### Android基本知识
 [Android开发四大件](https://github.com/zLulus/My_Note/wiki/Android%E5%BC%80%E5%8F%91%E5%9B%9B%E5%A4%A7%E4%BB%B6)
 
 [NinePatch](https://github.com/zLulus/My_Note/wiki/NinePatch)
 
 [android应用发布](https://github.com/zLulus/My_Note/wiki/android%E5%BA%94%E7%94%A8%E5%8F%91%E5%B8%83)
+
+[适配不同的语言——区域修饰词](https://github.com/zLulus/My_Note/wiki/%E9%80%82%E9%85%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E8%AF%AD%E8%A8%80%E2%80%94%E2%80%94%E5%8C%BA%E5%9F%9F%E4%BF%AE%E9%A5%B0%E8%AF%8D)
+
+[适配不同的屏幕](https://github.com/zLulus/My_Note/wiki/%E9%80%82%E9%85%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E5%B1%8F%E5%B9%95)
+
+[适配不同的系统版本](https://github.com/zLulus/My_Note/wiki/%E9%80%82%E9%85%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E7%B3%BB%E7%BB%9F%E7%89%88%E6%9C%AC)
 
 ## Xamarin相关知识
 
