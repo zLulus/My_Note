@@ -928,6 +928,8 @@
 
 [无线通信](https://github.com/zLulus/My_Note/wiki/%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1)
 
+[网络超时处理方法](https://github.com/zLulus/My_Note/wiki/%E7%BD%91%E7%BB%9C%E8%B6%85%E6%97%B6%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95)
+
 ## Fiddler
 [Fiddler基础](https://github.com/zLulus/My_Note/wiki/Fiddler%E5%9F%BA%E7%A1%80)
 
