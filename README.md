@@ -948,7 +948,7 @@
 
 [丰富互联网程序(RIA)](https://github.com/zLulus/My_Note/wiki/%E4%B8%B0%E5%AF%8C%E4%BA%92%E8%81%94%E7%BD%91%E7%A8%8B%E5%BA%8F)
 
-[常用cmd指令](https://github.com/zLulus/My_Note/wiki/%E5%B8%B8%E7%94%A8cmd%E6%8C%87%E4%BB%A4)
+[windows常用cmd指令](https://github.com/zLulus/My_Note/wiki/windows%E5%B8%B8%E7%94%A8cmd%E6%8C%87%E4%BB%A4)
 
 [Uri ? & =](https://github.com/zLulus/My_Note/wiki/Uri--%3F-&-=)
 
