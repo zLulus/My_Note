@@ -797,6 +797,12 @@
 
 [文件传输协议(FTP)](https://github.com/zLulus/My_Note/wiki/%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
 
+[简单邮件传输协议(SMTP)](https://github.com/zLulus/My_Note/wiki/%E7%AE%80%E5%8D%95%E9%82%AE%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
+
+[超文本传输协议(HTTP)](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
+
+[安全超文本传输协议(HTTPS)](https://github.com/zLulus/My_Note/wiki/%E5%AE%89%E5%85%A8%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
+
 # GIS
 
 # Xamarin
