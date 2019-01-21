@@ -801,11 +801,14 @@
 
 [安全超文本传输协议(HTTPS)](https://github.com/zLulus/My_Note/wiki/%E5%AE%89%E5%85%A8%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
 
+[安全套接层(SSL) && 继任者传输层安全(TLS)](https://github.com/zLulus/My_Note/wiki/%E5%AE%89%E5%85%A8%E5%A5%97%E6%8E%A5%E5%B1%82-&&-%E7%BB%A7%E4%BB%BB%E8%80%85%E4%BC%A0%E8%BE%93%E5%B1%82%E5%AE%89%E5%85%A8)
+
+## 内网IP-外网IP-域名流程
 [端口映射与主机映射](https://github.com/zLulus/My_Note/wiki/%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E4%B8%8E%E4%B8%BB%E6%9C%BA%E6%98%A0%E5%B0%84)
 
 [域名解析](https://github.com/zLulus/My_Note/wiki/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90)
 
-[安全套接层(SSL) && 继任者传输层安全(TLS)](https://github.com/zLulus/My_Note/wiki/%E5%AE%89%E5%85%A8%E5%A5%97%E6%8E%A5%E5%B1%82-&&-%E7%BB%A7%E4%BB%BB%E8%80%85%E4%BC%A0%E8%BE%93%E5%B1%82%E5%AE%89%E5%85%A8)
+[内网IP-外网IP-域名流程解析](https://github.com/zLulus/My_Note/wiki/%E5%86%85%E7%BD%91IP-%E5%A4%96%E7%BD%91IP-%E5%9F%9F%E5%90%8D%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90)
 
 # GIS
 
