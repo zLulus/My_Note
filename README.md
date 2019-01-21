@@ -916,6 +916,10 @@
 
 [性能优化](https://github.com/zLulus/My_Note/wiki/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
+[Ajax](https://github.com/zLulus/My_Note/wiki/Ajax)
+
+[丰富互联网程序(RIA)](https://github.com/zLulus/My_Note/wiki/%E4%B8%B0%E5%AF%8C%E4%BA%92%E8%81%94%E7%BD%91%E7%A8%8B%E5%BA%8F)
+
 # 机器学习
 [机器学习概述](https://github.com/zLulus/My_Note/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0)
 
