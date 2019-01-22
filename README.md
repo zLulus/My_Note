@@ -861,11 +861,16 @@
 
 [CityEngine流程](https://github.com/zLulus/My_Note/wiki/CityEngine%E6%B5%81%E7%A8%8B)
 
-## ArcMap
+## 桌面GIS软件
+### ArcMap
 
 [设置ArcGIS Runtime](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AEArcGIS-Runtime)
 
 [打包离线地图包](https://github.com/zLulus/My_Note/wiki/%E6%89%93%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%8C%85)
+
+## QGIS
+
+[QGIS](https://github.com/zLulus/My_Note/wiki/QGIS)
 
 # Xamarin
 ## 移动端基本知识
