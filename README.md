@@ -852,6 +852,8 @@
 
 [Xamarin简介](https://github.com/zLulus/My_Note/wiki/Xamarin%E7%AE%80%E4%BB%8B)
 
+[设置可接受的版本](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AE%E5%8F%AF%E6%8E%A5%E5%8F%97%E7%9A%84%E7%89%88%E6%9C%AC)
+
 #### Xamarin.Forms
 
 [视图和布局](https://github.com/zLulus/My_Note/wiki/%E8%A7%86%E5%9B%BE%E5%92%8C%E5%B8%83%E5%B1%80)
