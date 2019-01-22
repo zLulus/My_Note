@@ -844,6 +844,8 @@
 
 [Android数据存储的四种方式](https://github.com/zLulus/My_Note/wiki/Android%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
+[手机开启开发者模式](https://github.com/zLulus/My_Note/wiki/%E6%89%8B%E6%9C%BA%E5%BC%80%E5%90%AF%E5%BC%80%E5%8F%91%E8%80%85%E6%A8%A1%E5%BC%8F)
+
 ## Xamarin相关知识
 
 [Xamarin简介](https://github.com/zLulus/My_Note/wiki/Xamarin%E7%AE%80%E4%BB%8B)
