@@ -880,6 +880,10 @@
 
 [Button与ToggleButton](https://github.com/zLulus/My_Note/wiki/Button%E4%B8%8EToggleButton)
 
+## 虚拟机
+
+[Genymotion使用注意](https://github.com/zLulus/My_Note/wiki/Genymotion%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F)
+
 # Unity
 
 [unity mod制作](https://github.com/zLulus/My_Note/wiki/unity-mod%E5%88%B6%E4%BD%9C)
