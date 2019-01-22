@@ -836,6 +836,8 @@
 
 [android应用发布](https://github.com/zLulus/My_Note/wiki/android%E5%BA%94%E7%94%A8%E5%8F%91%E5%B8%83)
 
+[app部署与发布](https://github.com/zLulus/My_Note/wiki/app%E9%83%A8%E7%BD%B2%E4%B8%8E%E5%8F%91%E5%B8%83)
+
 [适配不同的语言——区域修饰词](https://github.com/zLulus/My_Note/wiki/%E9%80%82%E9%85%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E8%AF%AD%E8%A8%80%E2%80%94%E2%80%94%E5%8C%BA%E5%9F%9F%E4%BF%AE%E9%A5%B0%E8%AF%8D)
 
 [适配不同的屏幕](https://github.com/zLulus/My_Note/wiki/%E9%80%82%E9%85%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E5%B1%8F%E5%B9%95)
