@@ -865,8 +865,13 @@
 
 [CityEngine流程](https://github.com/zLulus/My_Note/wiki/CityEngine%E6%B5%81%E7%A8%8B)
 
-## 桌面GIS软件
-### ArcMap
+## ArcGIS Server
+
+[ArcGIS Server的管理](https://github.com/zLulus/My_Note/wiki/ArcGIS-Server%E7%9A%84%E7%AE%A1%E7%90%86)
+
+[利用ArcMap发布、访问ArcGIS Server服务](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8ArcMap%E5%8F%91%E5%B8%83%E3%80%81%E8%AE%BF%E9%97%AEArcGIS-Server%E6%9C%8D%E5%8A%A1)
+
+## ArcMap
 
 [设置ArcGIS Runtime](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AEArcGIS-Runtime)
 
