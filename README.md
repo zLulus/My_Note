@@ -859,9 +859,11 @@
 
 [ArcGIS Runtime SDK 相关资料](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
 
-[飞行功能](https://github.com/zLulus/My_Note/wiki/%E9%A3%9E%E8%A1%8C%E5%8A%9F%E8%83%BD)
+[ArcGIS Runtime SDK for WPF 初始化](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E5%88%9D%E5%A7%8B%E5%8C%96)
 
-[鹰眼](https://github.com/zLulus/My_Note/wiki/%E9%B9%B0%E7%9C%BC)
+[ArcGIS Runtime SDK for WPF 飞行功能](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E9%A3%9E%E8%A1%8C%E5%8A%9F%E8%83%BD)
+
+[ArcGIS Runtime SDK for WPF 鹰眼](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E9%B9%B0%E7%9C%BC)
 
 ## CityEngine
 
