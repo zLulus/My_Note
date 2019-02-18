@@ -411,6 +411,8 @@
 
 [abp项目 从sql server迁移至mysql](https://github.com/zLulus/My_Note/wiki/abp%E9%A1%B9%E7%9B%AE-%E4%BB%8Esql-server%E8%BF%81%E7%A7%BB%E8%87%B3mysql)
 
+[abp框架扩展系统表](https://github.com/zLulus/My_Note/wiki/abp%E6%A1%86%E6%9E%B6%E6%89%A9%E5%B1%95%E7%B3%BB%E7%BB%9F%E8%A1%A8)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
