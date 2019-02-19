@@ -11,6 +11,8 @@
 
 [javascript && jQuery](#javascript--jquery)
 
+[包管理](#包管理)
+
 [AngularJS (>ω<)](#angularjs)
 
 [Angular](#angular)
@@ -306,6 +308,12 @@
 
 [js css加时间戳](https://github.com/zLulus/My_Note/wiki/js-css%E5%8A%A0%E6%97%B6%E9%97%B4%E6%88%B3)
 
+# 包管理
+
+[yarn](https://github.com/zLulus/My_Note/wiki/yarn)
+
+[npm源管理器——nrm](https://github.com/zLulus/My_Note/wiki/npm%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E2%80%94%E2%80%94nrm)
+
 # AngularJS
 
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
@@ -371,8 +379,6 @@
 [angular对IE 6的支持问题](https://github.com/zLulus/My_Note/wiki/angular%E5%AF%B9IE-6%E7%9A%84%E6%94%AF%E6%8C%81%E9%97%AE%E9%A2%98)
 
 [Angular升级流程](https://github.com/zLulus/My_Note/wiki/Angular%E5%8D%87%E7%BA%A7%E6%B5%81%E7%A8%8B)
-
-[yarn](https://github.com/zLulus/My_Note/wiki/yarn)
 
 [Angular自定义表单验证](https://github.com/zLulus/My_Note/wiki/Angular%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81)
 
