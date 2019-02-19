@@ -617,6 +617,8 @@
 
 [EF && EF Core 重置迁移历史](https://github.com/zLulus/My_Note/wiki/EF-&&-EF-Core-%E9%87%8D%E7%BD%AE%E8%BF%81%E7%A7%BB%E5%8E%86%E5%8F%B2)
 
+[EF Core 多个DbContext迁移命令](https://github.com/zLulus/My_Note/wiki/EF-Core-%E5%A4%9A%E4%B8%AADbContext%E8%BF%81%E7%A7%BB%E5%91%BD%E4%BB%A4)
+
 # 数据结构
 
 [基本数据结构](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
