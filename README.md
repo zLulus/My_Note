@@ -615,6 +615,8 @@
 
 [EntityFrameworkCore 单表树状结构配置](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E5%8D%95%E8%A1%A8%E6%A0%91%E7%8A%B6%E7%BB%93%E6%9E%84%E9%85%8D%E7%BD%AE)
 
+[EF && EF Core 重置迁移历史](https://github.com/zLulus/My_Note/wiki/EF-&&-EF-Core-%E9%87%8D%E7%BD%AE%E8%BF%81%E7%A7%BB%E5%8E%86%E5%8F%B2)
+
 # 数据结构
 
 [基本数据结构](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
