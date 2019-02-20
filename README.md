@@ -266,6 +266,8 @@
 
 [理解ASP.NET Core验证模型](https://github.com/zLulus/My_Note/wiki/%E7%90%86%E8%A7%A3ASP.NET-Core%E9%AA%8C%E8%AF%81%E6%A8%A1%E5%9E%8B)
 
+[sql server & .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/sql-server-&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
