@@ -374,9 +374,9 @@
 
 [angular form set dynamic control(form动态设置control)](https://github.com/zLulus/My_Note/wiki/angular-form-set-dynamic-control(form%E5%8A%A8%E6%80%81%E8%AE%BE%E7%BD%AEcontrol))
 
-[ng-alian](https://github.com/zLulus/My_Note/wiki/ng-alian)
+[ng-alain](https://github.com/zLulus/My_Note/wiki/ng-alain)
 
-[ng-alian 复用标签相关设置](https://github.com/zLulus/My_Note/wiki/ng-alian-%E5%A4%8D%E7%94%A8%E6%A0%87%E7%AD%BE%E7%9B%B8%E5%85%B3%E8%AE%BE%E7%BD%AE)
+[ng-alain 复用标签相关设置](https://github.com/zLulus/My_Note/wiki/ng-alain-%E5%A4%8D%E7%94%A8%E6%A0%87%E7%AD%BE%E7%9B%B8%E5%85%B3%E8%AE%BE%E7%BD%AE)
 
 [ng-zorro](https://github.com/zLulus/My_Note/wiki/ng-zorro)
 
