@@ -270,6 +270,8 @@
 
 [postgresql && .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/postgresql-&&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
 
+[.net core service && angular项目 iis发布](https://github.com/zLulus/My_Note/wiki/.net-core-service-&&-angular%E9%A1%B9%E7%9B%AE-iis%E5%8F%91%E5%B8%83)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
