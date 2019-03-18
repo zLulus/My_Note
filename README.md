@@ -425,6 +425,8 @@
 
 [abp框架扩展系统表](https://github.com/zLulus/My_Note/wiki/abp%E6%A1%86%E6%9E%B6%E6%89%A9%E5%B1%95%E7%B3%BB%E7%BB%9F%E8%A1%A8)
 
+[abp框架(aspnetboilerplate)设置前端报错显示](https://github.com/zLulus/My_Note/wiki/abp%E6%A1%86%E6%9E%B6(aspnetboilerplate)%E8%AE%BE%E7%BD%AE%E5%89%8D%E7%AB%AF%E6%8A%A5%E9%94%99%E6%98%BE%E7%A4%BA)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
