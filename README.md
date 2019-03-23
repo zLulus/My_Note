@@ -431,6 +431,8 @@
 
 [abp框架(aspnetboilerplate)设置前端报错显示](https://github.com/zLulus/My_Note/wiki/abp%E6%A1%86%E6%9E%B6(aspnetboilerplate)%E8%AE%BE%E7%BD%AE%E5%89%8D%E7%AB%AF%E6%8A%A5%E9%94%99%E6%98%BE%E7%A4%BA)
 
+[aspnetboilerplate && .net core 使用原生sql](https://github.com/zLulus/My_Note/wiki/aspnetboilerplate--&&--.net-core-%E4%BD%BF%E7%94%A8%E5%8E%9F%E7%94%9Fsql)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
