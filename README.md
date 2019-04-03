@@ -406,6 +406,8 @@
 
 [Angular路由守卫 canDeactivate](https://github.com/zLulus/My_Note/wiki/Angular%E8%B7%AF%E7%94%B1%E5%AE%88%E5%8D%AB-canDeactivate)
 
+[Angular路由守卫 canActivate](https://github.com/zLulus/My_Note/wiki/Angular%E8%B7%AF%E7%94%B1%E5%AE%88%E5%8D%AB-canActivate)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
