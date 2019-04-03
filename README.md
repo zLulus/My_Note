@@ -404,6 +404,8 @@
 
 [ng-zorro 抽屉drawer回调](https://github.com/zLulus/My_Note/wiki/ng-zorro-%E6%8A%BD%E5%B1%89drawer%E5%9B%9E%E8%B0%83)
 
+[Angular路由守卫 canDeactivate](https://github.com/zLulus/My_Note/wiki/Angular%E8%B7%AF%E7%94%B1%E5%AE%88%E5%8D%AB-canDeactivate)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
