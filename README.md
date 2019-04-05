@@ -364,7 +364,7 @@
 
 # Angular
 
-[Node.js && Angular环境安装与更新](https://github.com/zLulus/My_Note/wiki/Node.js-&&-Angular%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B8%8E%E6%9B%B4%E6%96%B0)
+[Node.js && Angular && TypeScript 环境安装与更新](https://github.com/zLulus/My_Note/wiki/Node.js-&&-Angular-&&-TypeScript-%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B8%8E%E6%9B%B4%E6%96%B0)
 
 [Angular常用指令](https://github.com/zLulus/My_Note/wiki/Angular%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
 
