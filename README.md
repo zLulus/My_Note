@@ -364,6 +364,8 @@
 
 # Angular
 
+[Node.js && Angular环境安装与更新](https://github.com/zLulus/My_Note/wiki/Node.js-&&-Angular%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B8%8E%E6%9B%B4%E6%96%B0)
+
 [Angular常用指令](https://github.com/zLulus/My_Note/wiki/Angular%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
 
 [Angular基本概念理解](https://github.com/zLulus/My_Note/wiki/Angular%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E7%90%86%E8%A7%A3)
