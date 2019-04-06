@@ -681,6 +681,8 @@
 
 [git cherry pick](https://github.com/zLulus/My_Note/wiki/git-cherry-pick)
 
+[git hook](https://github.com/zLulus/My_Note/wiki/git-hook)
+
 # WPF
 
 ## 基本概念
