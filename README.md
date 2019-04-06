@@ -410,6 +410,8 @@
 
 [Angular路由守卫 canActivate](https://github.com/zLulus/My_Note/wiki/Angular%E8%B7%AF%E7%94%B1%E5%AE%88%E5%8D%AB-canActivate)
 
+[Angular使用echarts](https://github.com/zLulus/My_Note/wiki/Angular%E4%BD%BF%E7%94%A8echarts)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
