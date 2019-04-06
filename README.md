@@ -412,6 +412,8 @@
 
 [Angular使用echarts](https://github.com/zLulus/My_Note/wiki/Angular%E4%BD%BF%E7%94%A8echarts)
 
+[Angular route传参](https://github.com/zLulus/My_Note/wiki/Angular-route%E4%BC%A0%E5%8F%82)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
