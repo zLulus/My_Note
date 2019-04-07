@@ -105,7 +105,7 @@
 
 [协程](https://github.com/zLulus/My_Note/wiki/%E5%8D%8F%E7%A8%8B)
 
-[swagger ui设置注释](https://github.com/zLulus/My_Note/wiki/swagger-ui%E8%AE%BE%E7%BD%AE%E6%B3%A8%E9%87%8A)
+[swagger ui](https://github.com/zLulus/My_Note/wiki/swagger-ui)
 
 [.net group by 时间段（年月日）](https://github.com/zLulus/My_Note/wiki/.net-group-by-%E6%97%B6%E9%97%B4%E6%AE%B5%EF%BC%88%E5%B9%B4%E6%9C%88%E6%97%A5%EF%BC%89)
 
