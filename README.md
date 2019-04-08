@@ -111,6 +111,8 @@
 
 [nswag](https://github.com/zLulus/My_Note/wiki/nswag)
 
+[10个小技巧助您写出高性能的ASP.NET Core代码(转载记录)](https://mp.weixin.qq.com/s?__biz=MzU4Mjc4NzgyOQ==&mid=2247484315&idx=1&sn=ec3ea2509a8a00082ca855d844edcefe&chksm=fdb3b401cac43d17037dbfa73e79a872631a6f5f019414d93dd9453d1e876d724cb4dd9dcfb4&mpshare=1&scene=1&srcid=&from=groupmessage&ascene=1&devicetype=android-25&version=2700033b&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAMeZHgDWmR4AAAA%3D&lang=en&pass_ticket=az03wi9RpPpTojNsyN93GGiElrBeqiL3lHbcMRwKzGPJvdMOqZeB3CAfoNTBAYh%2F&wx_header=1)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
