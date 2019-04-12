@@ -418,6 +418,8 @@
 
 [Angular route传参](https://github.com/zLulus/My_Note/wiki/Angular-route%E4%BC%A0%E5%8F%82)
 
+[ngFor && index 用法](https://github.com/zLulus/My_Note/wiki/ngFor-&&-index-%E7%94%A8%E6%B3%95)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
