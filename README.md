@@ -152,7 +152,7 @@
 
 [WCF服务托管方式（转载）](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E6%89%98%E7%AE%A1%E6%96%B9%E5%BC%8F%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
-## WCF && IIS
+## WCF与IIS的相关内容
 
 [WCF服务的IIS托管（网站托管）](https://github.com/zLulus/My_Note/wiki/WCF%E6%9C%8D%E5%8A%A1%E7%9A%84IIS%E6%89%98%E7%AE%A1%EF%BC%88%E7%BD%91%E7%AB%99%E6%89%98%E7%AE%A1%EF%BC%89)
 
