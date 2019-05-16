@@ -113,6 +113,10 @@
 
 [Coding优化技巧](https://github.com/zLulus/My_Note/wiki/Coding%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7)
 
+[C#中数组、ArrayList和List三者的区别](https://github.com/zLulus/My_Note/wiki/C%23%E4%B8%AD%E6%95%B0%E7%BB%84%E3%80%81ArrayList%E5%92%8CList%E4%B8%89%E8%80%85%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+[byte[] && 二进制 && 十进制 && 十六进制](https://github.com/zLulus/My_Note/wiki/byte%5B%5D-&&-%E4%BA%8C%E8%BF%9B%E5%88%B6-&&-%E5%8D%81%E8%BF%9B%E5%88%B6-&&-%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
