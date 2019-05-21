@@ -291,6 +291,8 @@
 
 [.net core图片相关操作](https://github.com/zLulus/My_Note/wiki/.net-core%E5%9B%BE%E7%89%87%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C)
 
+[.net core调用C++库](https://github.com/zLulus/My_Note/wiki/.net-core%E8%B0%83%E7%94%A8C-plus-plus%E5%BA%93)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
