@@ -1,4 +1,6 @@
 # My Note
+[技术路线](#技术路线)
+
 [.net](#net)
 
 [WCF](#wcf)
@@ -58,6 +60,10 @@
 [拥有一颗产品心的程序媛 ψ(｀∇´)ψ](#拥有一颗产品心的程序媛)
 
 [其他](#其他)
+
+# 技术路线
+
+[后端开发技术路线图](https://github.com/zLulus/My_Note/wiki/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E5%9B%BE)
 
 # .net
 
