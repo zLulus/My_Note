@@ -67,6 +67,8 @@
 
 [DevOps技术路线图](https://github.com/zLulus/My_Note/wiki/DevOps%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E5%9B%BE)
 
+[《软件开发者路线图：从学徒到高手》模式总结](https://github.com/zLulus/My_Note/wiki/%E3%80%8A%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%80%85%E8%B7%AF%E7%BA%BF%E5%9B%BE%EF%BC%9A%E4%BB%8E%E5%AD%A6%E5%BE%92%E5%88%B0%E9%AB%98%E6%89%8B%E3%80%8B%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93)
+
 # .net
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
