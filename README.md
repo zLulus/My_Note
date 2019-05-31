@@ -351,6 +351,8 @@
 
 [npm源管理器——nrm](https://github.com/zLulus/My_Note/wiki/npm%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E2%80%94%E2%80%94nrm)
 
+[choco(chocolatey)](https://github.com/zLulus/My_Note/wiki/choco(chocolatey))
+
 # AngularJS
 
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
