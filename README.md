@@ -15,6 +15,8 @@
 
 [包管理](#包管理)
 
+[项目管理工具](#项目管理工具)
+
 [AngularJS (>ω<)](#angularjs)
 
 [Angular](#angular)
@@ -36,8 +38,6 @@
 [数据结构](#数据结构)
 
 [操作系统](#操作系统)
-
-[git](#git)
 
 [WPF ٩(๑òωó๑)۶](#wpf)
 
@@ -352,6 +352,19 @@
 [npm源管理器——nrm](https://github.com/zLulus/My_Note/wiki/npm%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%E2%80%94%E2%80%94nrm)
 
 [choco(chocolatey)](https://github.com/zLulus/My_Note/wiki/choco(chocolatey))
+
+# 项目管理工具
+
+## git
+[github基本使用](https://github.com/zLulus/My_Note/wiki/github%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+
+[git常用指令](https://github.com/zLulus/My_Note/wiki/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
+
+[SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
+
+[git cherry pick](https://github.com/zLulus/My_Note/wiki/git-cherry-pick)
+
+[git hook](https://github.com/zLulus/My_Note/wiki/git-hook)
 
 # AngularJS
 
@@ -698,17 +711,6 @@
 [windows server疑难杂症](https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
 
 [利用花生壳对windows server进行远程桌面](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E8%8A%B1%E7%94%9F%E5%A3%B3%E5%AF%B9windows-server%E8%BF%9B%E8%A1%8C%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2)
-
-# git
-[github基本使用](https://github.com/zLulus/My_Note/wiki/github%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
-
-[git常用指令](https://github.com/zLulus/My_Note/wiki/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
-
-[SVN如何迁徙到Git](https://github.com/zLulus/My_Note/wiki/SVN%E5%A6%82%E4%BD%95%E8%BF%81%E5%BE%99%E5%88%B0Git)
-
-[git cherry pick](https://github.com/zLulus/My_Note/wiki/git-cherry-pick)
-
-[git hook](https://github.com/zLulus/My_Note/wiki/git-hook)
 
 # WPF
 
