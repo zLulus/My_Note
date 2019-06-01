@@ -1120,6 +1120,10 @@
 
 [Makefile(.mk)](https://github.com/zLulus/My_Note/wiki/Makefile(.mk))
 
+[系统的硬件组成](https://github.com/zLulus/My_Note/wiki/%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%A1%AC%E4%BB%B6%E7%BB%84%E6%88%90)
+
+[操作系统 && 虚拟机](https://github.com/zLulus/My_Note/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-&&-%E8%99%9A%E6%8B%9F%E6%9C%BA)
+
 ## Fiddler
 [Fiddler基础](https://github.com/zLulus/My_Note/wiki/Fiddler%E5%9F%BA%E7%A1%80)
 
