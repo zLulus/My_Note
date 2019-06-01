@@ -1166,12 +1166,6 @@
 
 ## 神经网络
 
-[为什么需要神经网络](https://github.com/zLulus/My_Note/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
-
-[神经网络的基本概念与公式](https://github.com/zLulus/My_Note/wiki/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%85%AC%E5%BC%8F)
-
-[神经网络运用举例](https://github.com/zLulus/My_Note/wiki/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%BF%90%E7%94%A8%E4%B8%BE%E4%BE%8B)
-
 [神经网络作业归纳(作业3)](https://github.com/zLulus/My_Note/wiki/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BD%9C%E4%B8%9A%E5%BD%92%E7%BA%B3(%E4%BD%9C%E4%B8%9A3))
 
 # learning how to learn
