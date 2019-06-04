@@ -45,6 +45,8 @@
 
 [Docker](#Docker)
 
+[IDE](#IDE)
+
 [GIS](#gis)
 
 [Xamarin](#xamarin)
@@ -910,6 +912,10 @@
 [Docker](https://github.com/zLulus/My_Note/wiki/Docker)
 
 [在Docker中创建Mongo容器的后续设置](https://github.com/zLulus/My_Note/wiki/%E5%9C%A8Docker%E4%B8%AD%E5%88%9B%E5%BB%BAMongo%E5%AE%B9%E5%99%A8%E7%9A%84%E5%90%8E%E7%BB%AD%E8%AE%BE%E7%BD%AE)
+
+# IDE
+
+[Visual Studio 常用快捷键](https://github.com/zLulus/My_Note/wiki/Visual-Studio-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
 # GIS
 ## 基础知识
