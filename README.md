@@ -370,6 +370,8 @@
 
 [git hook](https://github.com/zLulus/My_Note/wiki/git-hook)
 
+[git stash](https://github.com/zLulus/My_Note/wiki/git-stash)
+
 # AngularJS
 
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
