@@ -917,6 +917,8 @@
 
 [Visual Studio 常用快捷键](https://github.com/zLulus/My_Note/wiki/Visual-Studio-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
+[Visual Studio Code 常用快捷键](https://github.com/zLulus/My_Note/wiki/Visual-Studio--Code-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
+
 # GIS
 ## 基础知识
 
