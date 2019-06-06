@@ -139,6 +139,11 @@
 
 [线程安全ConcurrentBag](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8ConcurrentBag)
 
+## 消息队列
+### RabbitMQ
+
+[RabbitMQ](https://github.com/zLulus/My_Note/wiki/RabbitMQ)
+
 # WCF
 ## 基本
 
