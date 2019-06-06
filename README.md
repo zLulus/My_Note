@@ -146,6 +146,8 @@
 
 [RabbitMQ Work Queues](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Work-Queues)
 
+[RabbitMQ Publish && Subscribe](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Publish-&&-Subscribe)
+
 # WCF
 ## 基本
 
