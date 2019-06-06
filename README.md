@@ -1138,6 +1138,12 @@
 
 [操作系统 && 虚拟机](https://github.com/zLulus/My_Note/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-&&-%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
+## 持续集成
+
+[持续集成](https://github.com/zLulus/My_Note/wiki/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90)
+
+[Jenkins](https://github.com/zLulus/My_Note/wiki/Jenkins)
+
 ## Fiddler
 [Fiddler基础](https://github.com/zLulus/My_Note/wiki/Fiddler%E5%9F%BA%E7%A1%80)
 
