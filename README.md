@@ -144,6 +144,8 @@
 
 [RabbitMQ](https://github.com/zLulus/My_Note/wiki/RabbitMQ)
 
+[RabbitMQ Work Queues](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Work-Queues)
+
 # WCF
 ## 基本
 
