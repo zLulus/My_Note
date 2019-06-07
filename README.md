@@ -742,6 +742,8 @@
 # 缓存
 ## Memcached
 
+[Memcached](https://github.com/zLulus/My_Note/wiki/Memcached)
+
 ## Redis
 
 [Redis](https://github.com/zLulus/My_Note/wiki/Redis)
