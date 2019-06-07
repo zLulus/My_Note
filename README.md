@@ -662,13 +662,12 @@
 
 ## 非关系型数据库
 ### NoSql
+
 [Nosql](https://github.com/zLulus/My_Note/wiki/Nosql)
 
-[搜索服务器Elasticsearch](https://github.com/zLulus/My_Note/wiki/%E6%90%9C%E7%B4%A2%E6%9C%8D%E5%8A%A1%E5%99%A8Elasticsearch)
+#### MongoDB
 
-[Redis](https://github.com/zLulus/My_Note/wiki/Redis)
-
-[windows下启动redis](https://github.com/zLulus/My_Note/wiki/windows%E4%B8%8B%E5%90%AF%E5%8A%A8redis)
+[MongoDB](https://github.com/zLulus/My_Note/wiki/MongoDB)
 
 # EF
 [EF性能优化](https://github.com/zLulus/My_Note/wiki/EF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
@@ -730,7 +729,22 @@
 
 [键值对Dictionary、Hashtable、KeyValuePair](https://github.com/zLulus/My_Note/wiki/%E9%94%AE%E5%80%BC%E5%AF%B9Dictionary%E3%80%81Hashtable%E3%80%81KeyValuePair)
 
+# 缓存
+## Memcached
+
+## Redis
+
+[Redis](https://github.com/zLulus/My_Note/wiki/Redis)
+
+[windows下启动redis](https://github.com/zLulus/My_Note/wiki/windows%E4%B8%8B%E5%90%AF%E5%8A%A8redis)
+
+# 搜索引擎
+## Elastic Search
+
+[搜索服务器Elasticsearch](https://github.com/zLulus/My_Note/wiki/%E6%90%9C%E7%B4%A2%E6%9C%8D%E5%8A%A1%E5%99%A8Elasticsearch)
+
 # 操作系统
+
 [windows server疑难杂症](https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
 
 [利用花生壳对windows server进行远程桌面](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E8%8A%B1%E7%94%9F%E5%A3%B3%E5%AF%B9windows-server%E8%BF%9B%E8%A1%8C%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2)
