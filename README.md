@@ -148,6 +148,12 @@
 
 [RabbitMQ Publish && Subscribe](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Publish-&&-Subscribe)
 
+[RabbitMQ Routing](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Routing)
+
+[RabbitMQ Topics](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Topics)
+
+[RabbitMQ Remote procedure call (RPC)](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Remote-procedure-call-(RPC))
+
 # WCF
 ## 基本
 
