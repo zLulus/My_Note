@@ -750,6 +750,8 @@
 
 [windows下启动redis](https://github.com/zLulus/My_Note/wiki/windows%E4%B8%8B%E5%90%AF%E5%8A%A8redis)
 
+[Redis 与 Memcached](https://github.com/zLulus/My_Note/wiki/Redis-%E4%B8%8E-Memcached)
+
 # 搜索引擎
 ## Elastic Search
 
