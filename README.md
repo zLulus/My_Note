@@ -655,6 +655,8 @@
 
 [sql server使用正则表达式](https://github.com/zLulus/My_Note/wiki/sql-server%E4%BD%BF%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
+[sql server 开启远程访问](https://github.com/zLulus/My_Note/wiki/sql-server-%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE)
+
 #### Mysql
 
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
