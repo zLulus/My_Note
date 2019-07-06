@@ -701,6 +701,8 @@
 [连接数据库报错：句柄无效](https://github.com/zLulus/My_Note/wiki/%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%A5%E9%94%99%EF%BC%9A%E5%8F%A5%E6%9F%84%E6%97%A0%E6%95%88)
 
 ## Code First
+[EF Code First 快速创建](https://github.com/zLulus/My_Note/wiki/EF-Code-First-%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA)
+
 [Code First 连接已有数据库](https://github.com/zLulus/My_Note/wiki/Code-First-%E8%BF%9E%E6%8E%A5%E5%B7%B2%E6%9C%89%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 [ef code first 在不同分支之间的管理](https://github.com/zLulus/My_Note/wiki/ef-code-first-%E5%9C%A8%E4%B8%8D%E5%90%8C%E5%88%86%E6%94%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E7%AE%A1%E7%90%86)
