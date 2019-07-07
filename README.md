@@ -43,6 +43,8 @@
 
 [操作系统](#操作系统)
 
+[CI/CD工具](#CI/CD工具)
+
 [WPF ٩(๑òωó๑)۶](#wpf)
 
 [Windows Service](#windows-service)
@@ -768,6 +770,9 @@
 [windows server疑难杂症](https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
 
 [利用花生壳对windows server进行远程桌面](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E8%8A%B1%E7%94%9F%E5%A3%B3%E5%AF%B9windows-server%E8%BF%9B%E8%A1%8C%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2)
+
+# CI/CD工具
+[Azure Pipeline使用](https://github.com/zLulus/My_Note/wiki/Azure-Pipeline%E4%BD%BF%E7%94%A8)
 
 # WPF
 
