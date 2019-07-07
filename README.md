@@ -43,8 +43,6 @@
 
 [操作系统](#操作系统)
 
-[CI/CD工具](#CI/CD工具)
-
 [WPF ٩(๑òωó๑)۶](#wpf)
 
 [Windows Service](#windows-service)
@@ -771,9 +769,6 @@
 
 [利用花生壳对windows server进行远程桌面](https://github.com/zLulus/My_Note/wiki/%E5%88%A9%E7%94%A8%E8%8A%B1%E7%94%9F%E5%A3%B3%E5%AF%B9windows-server%E8%BF%9B%E8%A1%8C%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2)
 
-# CI/CD工具
-[Azure Pipeline使用](https://github.com/zLulus/My_Note/wiki/Azure-Pipeline%E4%BD%BF%E7%94%A8)
-
 # WPF
 
 ## 基本概念
@@ -1198,11 +1193,13 @@
 
 [操作系统 && 虚拟机](https://github.com/zLulus/My_Note/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-&&-%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
-## 持续集成
+## CI/CD工具(持续集成/持续部署工具)
 
 [持续集成](https://github.com/zLulus/My_Note/wiki/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90)
 
 [Jenkins](https://github.com/zLulus/My_Note/wiki/Jenkins)
+
+[Azure Pipeline使用](https://github.com/zLulus/My_Note/wiki/Azure-Pipeline%E4%BD%BF%E7%94%A8)
 
 ## Fiddler
 [Fiddler基础](https://github.com/zLulus/My_Note/wiki/Fiddler%E5%9F%BA%E7%A1%80)
