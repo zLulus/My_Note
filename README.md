@@ -1199,7 +1199,7 @@
 
 [Jenkins](https://github.com/zLulus/My_Note/wiki/Jenkins)
 
-[Azure Pipeline使用](https://github.com/zLulus/My_Note/wiki/Azure-Pipeline%E4%BD%BF%E7%94%A8)
+[Azure Pipelines使用](https://github.com/zLulus/My_Note/wiki/Azure-Pipelines%E4%BD%BF%E7%94%A8)
 
 ## Fiddler
 [Fiddler基础](https://github.com/zLulus/My_Note/wiki/Fiddler%E5%9F%BA%E7%A1%80)
