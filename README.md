@@ -45,6 +45,8 @@
 
 [WPF ٩(๑òωó๑)۶](#wpf)
 
+[Windows Service](#windows-service)
+
 [网络](#网络)
 
 [Docker](#Docker)
@@ -922,6 +924,10 @@
 [Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
 
 [Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts-ToolBar)
+
+# Windows Service
+
+[创建Windows Service](https://github.com/zLulus/My_Note/wiki/%E5%88%9B%E5%BB%BAWindows-Service)
 
 # 设计模式
 
