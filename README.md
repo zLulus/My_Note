@@ -1107,6 +1107,8 @@
 
 [Unity相关资源](https://github.com/zLulus/My_Note/wiki/Unity%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90)
 
+[Unity 2D入门](https://github.com/zLulus/My_Note/wiki/Unity-2D%E5%85%A5%E9%97%A8)
+
 [unity mod制作](https://github.com/zLulus/My_Note/wiki/unity-mod%E5%88%B6%E4%BD%9C)
 
 
