@@ -1113,6 +1113,10 @@
 
 [Unity基础概念](https://github.com/zLulus/My_Note/wiki/Unity%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 
+[Unity脚本](https://github.com/zLulus/My_Note/wiki/Unity%E8%84%9A%E6%9C%AC)
+
+[Unity API](https://github.com/zLulus/My_Note/wiki/Unity-API)
+
 [Unity 2D入门](https://github.com/zLulus/My_Note/wiki/Unity-2D%E5%85%A5%E9%97%A8)
 
 [unity mod制作](https://github.com/zLulus/My_Note/wiki/unity-mod%E5%88%B6%E4%BD%9C)
