@@ -1105,7 +1105,13 @@
 
 # Unity
 
+[游戏基础](https://github.com/zLulus/My_Note/wiki/%E6%B8%B8%E6%88%8F%E5%9F%BA%E7%A1%80)
+
 [Unity相关资源](https://github.com/zLulus/My_Note/wiki/Unity%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90)
+
+[Unity IDE介绍](https://github.com/zLulus/My_Note/wiki/Unity-IDE%E4%BB%8B%E7%BB%8D)
+
+[Unity基础概念](https://github.com/zLulus/My_Note/wiki/Unity%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 
 [Unity 2D入门](https://github.com/zLulus/My_Note/wiki/Unity-2D%E5%85%A5%E9%97%A8)
 
