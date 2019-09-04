@@ -1117,6 +1117,8 @@
 
 [Unity常用API](https://github.com/zLulus/My_Note/wiki/Unity%E5%B8%B8%E7%94%A8API)
 
+[Update()定时执行某方法](https://github.com/zLulus/My_Note/wiki/Update()%E5%AE%9A%E6%97%B6%E6%89%A7%E8%A1%8C%E6%9F%90%E6%96%B9%E6%B3%95)
+
 [Unity 2D入门](https://github.com/zLulus/My_Note/wiki/Unity-2D%E5%85%A5%E9%97%A8)
 
 [unity mod制作](https://github.com/zLulus/My_Note/wiki/unity-mod%E5%88%B6%E4%BD%9C)
