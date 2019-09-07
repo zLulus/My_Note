@@ -1123,6 +1123,8 @@
 
 [Unity 2D入门](https://github.com/zLulus/My_Note/wiki/Unity-2D%E5%85%A5%E9%97%A8)
 
+[Unity 3D入门](https://github.com/zLulus/My_Note/wiki/Unity-3D%E5%85%A5%E9%97%A8)
+
 [unity mod制作](https://github.com/zLulus/My_Note/wiki/unity-mod%E5%88%B6%E4%BD%9C)
 
 
