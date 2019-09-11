@@ -79,6 +79,8 @@
 
 [《软件开发者路线图：从学徒到高手》模式总结](https://github.com/zLulus/My_Note/wiki/%E3%80%8A%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%80%85%E8%B7%AF%E7%BA%BF%E5%9B%BE%EF%BC%9A%E4%BB%8E%E5%AD%A6%E5%BE%92%E5%88%B0%E9%AB%98%E6%89%8B%E3%80%8B%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93)
 
+[解决问题的思路](https://github.com/zLulus/My_Note/wiki/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%B7%AF)
+
 # .net
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
