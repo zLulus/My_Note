@@ -524,6 +524,8 @@
 
 [aspnetboilerplate && .net core 使用原生sql](https://github.com/zLulus/My_Note/wiki/aspnetboilerplate--&&--.net-core-%E4%BD%BF%E7%94%A8%E5%8E%9F%E7%94%9Fsql)
 
+[abp框架(aspnetboilerplate)client请求webapi](https://github.com/zLulus/My_Note/wiki/abp%E6%A1%86%E6%9E%B6(aspnetboilerplate)client%E8%AF%B7%E6%B1%82webapi)
+
 # html
 [html常用](https://github.com/zLulus/My_Note/wiki/html%E5%B8%B8%E7%94%A8)
 
