@@ -708,6 +708,8 @@
 
 [连接数据库报错：句柄无效](https://github.com/zLulus/My_Note/wiki/%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%A5%E9%94%99%EF%BC%9A%E5%8F%A5%E6%9F%84%E6%97%A0%E6%95%88)
 
+[linq to entity group by 时间](https://github.com/zLulus/My_Note/wiki/linq-to-entity-group-by-%E6%97%B6%E9%97%B4)
+
 ## Code First
 [EF Code First 快速创建](https://github.com/zLulus/My_Note/wiki/EF-Code-First-%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA)
 
