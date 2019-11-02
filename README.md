@@ -1340,4 +1340,6 @@
 
 [代理服务器](https://github.com/zLulus/My_Note/wiki/%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
+[模拟浏览器访问](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E6%8B%9F%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BF%E9%97%AE)
+
 [爬虫 && 数据分析](https://github.com/zLulus/My_Note/wiki/%E7%88%AC%E8%99%AB-&&-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
