@@ -1226,6 +1226,8 @@
 
 [操作系统 && 虚拟机](https://github.com/zLulus/My_Note/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-&&-%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
+[清理system32文件夹](https://github.com/zLulus/My_Note/wiki/%E6%B8%85%E7%90%86system32%E6%96%87%E4%BB%B6%E5%A4%B9)
+
 ## CI/CD工具(持续集成/持续部署工具)
 
 [持续集成](https://github.com/zLulus/My_Note/wiki/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90)
