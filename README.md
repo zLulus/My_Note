@@ -1099,6 +1099,8 @@
 
 #### Xamarin.Android
 
+[将应用改为系统应用](https://github.com/zLulus/My_Note/wiki/%E5%B0%86%E5%BA%94%E7%94%A8%E6%94%B9%E4%B8%BA%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8)
+
 [Adapter的泛型](https://github.com/zLulus/My_Note/wiki/Adapter%E7%9A%84%E6%B3%9B%E5%9E%8B)
 
 [布局](https://github.com/zLulus/My_Note/wiki/%E5%B8%83%E5%B1%80)
