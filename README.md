@@ -1111,6 +1111,8 @@
 
 [UnauthorizedAccessException: Access to the path is denied](https://github.com/zLulus/My_Note/wiki/UnauthorizedAccessException:-Access-to-the-path-is-denied)
 
+[Xamarin Assets文件读取](https://github.com/zLulus/My_Note/wiki/Xamarin-Assets%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96)
+
 ## 虚拟机
 
 [Genymotion使用注意](https://github.com/zLulus/My_Note/wiki/Genymotion%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F)
