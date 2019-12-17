@@ -665,7 +665,7 @@
 
 [sql server 开启远程访问](https://github.com/zLulus/My_Note/wiki/sql-server-%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE)
 
-[MSSQL PARTITION FUNCTION(分区)](https://github.com/zLulus/My_Note/wiki/MSSQL-PARTITION-FUNCTION(%E5%88%86%E5%8C%BA))
+[SQL Server PARTITION FUNCTION(分区)](https://github.com/zLulus/My_Note/wiki/SQL-Server-PARTITION-FUNCTION(%E5%88%86%E5%8C%BA))
 
 #### Mysql
 
