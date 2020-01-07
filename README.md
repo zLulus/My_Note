@@ -735,6 +735,8 @@
 
 [EntityFrameworkCore 一对一 && 一对多 && 多对多配置](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E4%B8%80%E5%AF%B9%E4%B8%80-&&-%E4%B8%80%E5%AF%B9%E5%A4%9A-&&-%E5%A4%9A%E5%AF%B9%E5%A4%9A%E9%85%8D%E7%BD%AE)
 
+[EntityFrameworkCore 一表对多表存在外键的设计](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E4%B8%80%E8%A1%A8%E5%AF%B9%E5%A4%9A%E8%A1%A8%E5%AD%98%E5%9C%A8%E5%A4%96%E9%94%AE%E7%9A%84%E8%AE%BE%E8%AE%A1)
+
 [EntityFrameworkCore 单表树状结构配置](https://github.com/zLulus/My_Note/wiki/EntityFrameworkCore-%E5%8D%95%E8%A1%A8%E6%A0%91%E7%8A%B6%E7%BB%93%E6%9E%84%E9%85%8D%E7%BD%AE)
 
 [EF && EF Core 重置迁移历史](https://github.com/zLulus/My_Note/wiki/EF-&&-EF-Core-%E9%87%8D%E7%BD%AE%E8%BF%81%E7%A7%BB%E5%8E%86%E5%8F%B2)
