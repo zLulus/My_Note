@@ -1117,6 +1117,8 @@
 
 [Xamarin Assets文件读取](https://github.com/zLulus/My_Note/wiki/Xamarin-Assets%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96)
 
+[Xamarin.Amndroid全局截图](https://github.com/zLulus/My_Note/wiki/Xamarin.Amndroid%E5%85%A8%E5%B1%80%E6%88%AA%E5%9B%BE)
+
 ## 虚拟机
 
 [Genymotion使用注意](https://github.com/zLulus/My_Note/wiki/Genymotion%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F)
