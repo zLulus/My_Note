@@ -1348,6 +1348,10 @@
 
 [ubuntu常识&vpn搭建](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86&vpn%E6%90%AD%E5%BB%BA)
 
+[ubuntu常识](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86)
+
+[vpn搭建(Shadowsocks)](https://github.com/zLulus/My_Note/wiki/vpn%E6%90%AD%E5%BB%BA(Shadowsocks))
+
 [伪造IP思路](https://github.com/zLulus/My_Note/wiki/%E4%BC%AA%E9%80%A0IP%E6%80%9D%E8%B7%AF)
 
 [代理服务器](https://github.com/zLulus/My_Note/wiki/%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)
