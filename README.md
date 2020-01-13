@@ -141,6 +141,8 @@
 
 [.net for TCP服务端 && 客户端](https://github.com/zLulus/My_Note/wiki/.net-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
+[设置HttpClient的授权Header](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AEHttpClient%E7%9A%84%E6%8E%88%E6%9D%83Header)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
