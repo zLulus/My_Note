@@ -1127,6 +1127,10 @@
 
 [Xamarin Android Activity全屏](https://github.com/zLulus/My_Note/wiki/Xamarin-Android-Activity%E5%85%A8%E5%B1%8F)
 
+[Xamarin Android 新建Activity](https://github.com/zLulus/My_Note/wiki/Xamarin-Android-%E6%96%B0%E5%BB%BAActivity)
+
+[Xamarin Android 跳转页面并传值](https://github.com/zLulus/My_Note/wiki/Xamarin-Android-%E8%B7%B3%E8%BD%AC%E9%A1%B5%E9%9D%A2%E5%B9%B6%E4%BC%A0%E5%80%BC)
+
 ## 虚拟机
 
 [Genymotion使用注意](https://github.com/zLulus/My_Note/wiki/Genymotion%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F)
