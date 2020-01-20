@@ -1123,13 +1123,15 @@
 
 [Xamarin Assets文件读取](https://github.com/zLulus/My_Note/wiki/Xamarin-Assets%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96)
 
-[Xamarin.Amndroid全局截图](https://github.com/zLulus/My_Note/wiki/Xamarin.Amndroid%E5%85%A8%E5%B1%80%E6%88%AA%E5%9B%BE)
+[Xamarin.Amndroid 全局截图](https://github.com/zLulus/My_Note/wiki/Xamarin.Amndroid-%E5%85%A8%E5%B1%80%E6%88%AA%E5%9B%BE)
 
 [Xamarin Android Activity全屏](https://github.com/zLulus/My_Note/wiki/Xamarin-Android-Activity%E5%85%A8%E5%B1%8F)
 
 [Xamarin Android 新建Activity](https://github.com/zLulus/My_Note/wiki/Xamarin-Android-%E6%96%B0%E5%BB%BAActivity)
 
 [Xamarin Android 跳转页面并传值](https://github.com/zLulus/My_Note/wiki/Xamarin-Android-%E8%B7%B3%E8%BD%AC%E9%A1%B5%E9%9D%A2%E5%B9%B6%E4%BC%A0%E5%80%BC)
+
+[获得屏幕坐标](https://github.com/zLulus/My_Note/wiki/%E8%8E%B7%E5%BE%97%E5%B1%8F%E5%B9%95%E5%9D%90%E6%A0%87)
 
 ## 虚拟机
 
