@@ -145,8 +145,6 @@
 
 [递归和迭代](https://github.com/zLulus/My_Note/wiki/%E9%80%92%E5%BD%92%E5%92%8C%E8%BF%AD%E4%BB%A3)
 
-[Socket](https://github.com/zLulus/My_Note/wiki/Socket)
-
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
