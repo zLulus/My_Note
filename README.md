@@ -139,7 +139,7 @@
 
 [byte[] && 二进制 && 十进制 && 十六进制](https://github.com/zLulus/My_Note/wiki/byte%5B%5D-&&-%E4%BA%8C%E8%BF%9B%E5%88%B6-&&-%E5%8D%81%E8%BF%9B%E5%88%B6-&&-%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6)
 
-[.net for TCP服务端 && 客户端](https://github.com/zLulus/My_Note/wiki/.net-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF)
+[.net for TCP服务端 && 客户端(Socket)](https://github.com/zLulus/My_Note/wiki/.net-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF(Socket))
 
 [设置HttpClient的授权Header](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AEHttpClient%E7%9A%84%E6%8E%88%E6%9D%83Header)
 
