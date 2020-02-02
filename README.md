@@ -145,6 +145,8 @@
 
 [递归和迭代](https://github.com/zLulus/My_Note/wiki/%E9%80%92%E5%BD%92%E5%92%8C%E8%BF%AD%E4%BB%A3)
 
+[使用Dotfuscator混淆保护应用程序](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8Dotfuscator%E6%B7%B7%E6%B7%86%E4%BF%9D%E6%8A%A4%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
