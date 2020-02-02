@@ -190,6 +190,9 @@
 [WCF的几个注意事项](https://github.com/zLulus/My_Note/wiki/WCF%E7%9A%84%E5%87%A0%E4%B8%AA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
 ## Rest
+
+[RESTful API](https://github.com/zLulus/My_Note/wiki/RESTful-API)
+
 [WCF Rest用法](https://github.com/zLulus/My_Note/wiki/WCF-Rest%E7%94%A8%E6%B3%95)
 
 [Xml格式的Bared和Warpped](https://github.com/zLulus/My_Note/wiki/Xml%E6%A0%BC%E5%BC%8F%E7%9A%84Bared%E5%92%8CWarpped)
