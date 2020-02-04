@@ -1134,6 +1134,8 @@
 
 [获得屏幕坐标](https://github.com/zLulus/My_Note/wiki/%E8%8E%B7%E5%BE%97%E5%B1%8F%E5%B9%95%E5%9D%90%E6%A0%87)
 
+[Xamarin.Android转换&引用Java库](https://github.com/zLulus/My_Note/wiki/Xamarin.Android%E8%BD%AC%E6%8D%A2&%E5%BC%95%E7%94%A8Java%E5%BA%93)
+
 ## 虚拟机
 
 [Genymotion使用注意](https://github.com/zLulus/My_Note/wiki/Genymotion%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F)
