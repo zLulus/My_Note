@@ -1,3 +1,5 @@
+If you have any questions about My_Note, you can create issues.
+
 # My Note
 [CSharpLearn](https://github.com/zLulus/CSharpLearn)
 
