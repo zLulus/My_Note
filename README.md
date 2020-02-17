@@ -606,7 +606,7 @@ If you have any questions about My_Note, you can create issues.
 
 [ACID规则](https://github.com/zLulus/My_Note/wiki/ACID%E8%A7%84%E5%88%99)
 
-[有了VARCHAR，为什么还要有CHAR？](https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E4%BA%86VARCHAR%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E6%9C%89CHAR%EF%BC%9F)
+[varchar和char](https://github.com/zLulus/My_Note/wiki/varchar%E5%92%8Cchar)
 
 [sql server 查询存储过程指令](https://github.com/zLulus/My_Note/wiki/sql-server-%E6%9F%A5%E8%AF%A2%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E6%8C%87%E4%BB%A4)
 
