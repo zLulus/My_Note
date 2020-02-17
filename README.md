@@ -658,6 +658,8 @@ If you have any questions about My_Note, you can create issues.
 
 [java数据库连接(JDBC)](https://github.com/zLulus/My_Note/wiki/java%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5)
 
+[死锁](https://github.com/zLulus/My_Note/wiki/%E6%AD%BB%E9%94%81)
+
 #### SQL Server
 
 [sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
