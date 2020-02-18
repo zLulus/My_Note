@@ -159,6 +159,8 @@ If you have any questions about My_Note, you can create issues.
 
 [浅拷贝和深拷贝(Clone)](https://github.com/zLulus/My_Note/wiki/%E6%B5%85%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B7%B1%E6%8B%B7%E8%B4%9D(Clone))
 
+[readonly与const](https://github.com/zLulus/My_Note/wiki/readonly%E4%B8%8Econst)
+
 ## 托管代码/非托管代码
 
 [托管代码和非托管代码](https://github.com/zLulus/My_Note/wiki/%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81%E5%92%8C%E9%9D%9E%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81)
