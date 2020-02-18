@@ -153,6 +153,8 @@ If you have any questions about My_Note, you can create issues.
 
 [值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
 
+[C# using语句](https://github.com/zLulus/My_Note/wiki/C%23-using%E8%AF%AD%E5%8F%A5)
+
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
 
