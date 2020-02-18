@@ -155,6 +155,8 @@ If you have any questions about My_Note, you can create issues.
 
 [string 特殊的引用类型](https://github.com/zLulus/My_Note/wiki/string-%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
 
+[String与StringBuilder](https://github.com/zLulus/My_Note/wiki/String%E4%B8%8EStringBuilder)
+
 [浅拷贝和深拷贝(Clone)](https://github.com/zLulus/My_Note/wiki/%E6%B5%85%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B7%B1%E6%8B%B7%E8%B4%9D(Clone))
 
 ## 托管代码/非托管代码
