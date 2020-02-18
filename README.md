@@ -155,6 +155,8 @@ If you have any questions about My_Note, you can create issues.
 
 [浅拷贝和深拷贝(Clone)](https://github.com/zLulus/My_Note/wiki/%E6%B5%85%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B7%B1%E6%8B%B7%E8%B4%9D(Clone))
 
+[线程安全集合](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E9%9B%86%E5%90%88)
+
 ## 托管代码/非托管代码
 
 [托管代码和非托管代码](https://github.com/zLulus/My_Note/wiki/%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81%E5%92%8C%E9%9D%9E%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81)
