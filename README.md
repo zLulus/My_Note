@@ -357,6 +357,8 @@ If you have any questions about My_Note, you can create issues.
 
 [.net core调用C++库](https://github.com/zLulus/My_Note/wiki/.net-core%E8%B0%83%E7%94%A8C-plus-plus%E5%BA%93)
 
+[ASP.NET Core 中间件(pipeline)](https://github.com/zLulus/My_Note/wiki/ASP.NET-Core-%E4%B8%AD%E9%97%B4%E4%BB%B6(pipeline))
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
