@@ -153,6 +153,12 @@ If you have any questions about My_Note, you can create issues.
 
 [值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
 
+## 托管代码/非托管代码
+
+[托管代码和非托管代码](https://github.com/zLulus/My_Note/wiki/%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81%E5%92%8C%E9%9D%9E%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81)
+
+[垃圾回收机制(GC)](https://github.com/zLulus/My_Note/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6(GC))
+
 [C# using语句](https://github.com/zLulus/My_Note/wiki/C%23-using%E8%AF%AD%E5%8F%A5)
 
 ## 异步
