@@ -617,6 +617,8 @@ If you have any questions about My_Note, you can create issues.
 
 [查询SQL Server执行过的SQL语句（转载）](https://github.com/zLulus/My_Note/wiki/%E6%9F%A5%E8%AF%A2SQL-Server%E6%89%A7%E8%A1%8C%E8%BF%87%E7%9A%84SQL%E8%AF%AD%E5%8F%A5%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
+[防止SQL注入](https://github.com/zLulus/My_Note/wiki/%E9%98%B2%E6%AD%A2SQL%E6%B3%A8%E5%85%A5)
+
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
