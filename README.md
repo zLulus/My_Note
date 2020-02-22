@@ -1261,8 +1261,6 @@ If you have any questions about My_Note, you can create issues.
 
 [灰度发布](https://github.com/zLulus/My_Note/wiki/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83)
 
-[依赖注入（控制反转）](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%EF%BC%88%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC%EF%BC%89)
-
 [性能优化](https://github.com/zLulus/My_Note/wiki/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
 [Ajax](https://github.com/zLulus/My_Note/wiki/Ajax)
