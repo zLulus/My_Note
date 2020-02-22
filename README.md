@@ -621,6 +621,8 @@ If you have any questions about My_Note, you can create issues.
 
 [防止SQL注入](https://github.com/zLulus/My_Note/wiki/%E9%98%B2%E6%AD%A2SQL%E6%B3%A8%E5%85%A5)
 
+[union和union all的区别](https://github.com/zLulus/My_Note/wiki/union%E5%92%8Cunion-all%E7%9A%84%E5%8C%BA%E5%88%AB)
+
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
