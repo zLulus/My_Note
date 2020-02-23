@@ -1393,7 +1393,7 @@ If you have any questions about My_Note, you can create issues.
 
 [VS Code插件管理](https://github.com/zLulus/My_Note/wiki/VS-Code%E6%8F%92%E4%BB%B6%E7%AE%A1%E7%90%86)
 
-[AOP Aspect oriented programming(面向方面编程)](https://github.com/zLulus/My_Note/wiki/AOP-Aspect-oriented-programming(%E9%9D%A2%E5%90%91%E6%96%B9%E9%9D%A2%E7%BC%96%E7%A8%8B))
+[AOP Aspect oriented programming(面向切面编程)](https://github.com/zLulus/My_Note/wiki/AOP-Aspect-oriented-programming(%E9%9D%A2%E5%90%91%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B))
 
 [Windows PowerShell 集成脚本环境 (ISE)](https://github.com/zLulus/My_Note/wiki/Windows-PowerShell-%E9%9B%86%E6%88%90%E8%84%9A%E6%9C%AC%E7%8E%AF%E5%A2%83-(ISE))
 
