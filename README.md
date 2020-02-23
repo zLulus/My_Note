@@ -690,6 +690,10 @@ If you have any questions about My_Note, you can create issues.
 
 [死锁](https://github.com/zLulus/My_Note/wiki/%E6%AD%BB%E9%94%81)
 
+[回滚rollback](https://github.com/zLulus/My_Note/wiki/%E5%9B%9E%E6%BB%9Arollback)
+
+[数据库日志](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%97%A5%E5%BF%97)
+
 #### SQL Server
 
 [sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
