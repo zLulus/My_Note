@@ -371,6 +371,11 @@ If you have any questions about My_Note, you can create issues.
 
 [ASP.NET Core 管道和中间件(pipeline)](https://github.com/zLulus/My_Note/wiki/ASP.NET-Core-%E7%AE%A1%E9%81%93%E5%92%8C%E4%B8%AD%E9%97%B4%E4%BB%B6(pipeline))
 
+## 依赖注入
+[依赖注入(DI)](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5(DI))
+
+[ASP.NET Core 依赖注入](https://github.com/zLulus/My_Note/wiki/ASP.NET-Core-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
