@@ -424,6 +424,8 @@ If you have any questions about My_Note, you can create issues.
 
 [js css加时间戳](https://github.com/zLulus/My_Note/wiki/js-css%E5%8A%A0%E6%97%B6%E9%97%B4%E6%88%B3)
 
+[JavaScript 继承与原型链](https://github.com/zLulus/My_Note/wiki/JavaScript-%E7%BB%A7%E6%89%BF%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE)
+
 # 包管理
 
 [yarn](https://github.com/zLulus/My_Note/wiki/yarn)
