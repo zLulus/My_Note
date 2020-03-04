@@ -1313,6 +1313,8 @@ If you have any questions about My_Note, you can create issues.
 
 [清理system32文件夹](https://github.com/zLulus/My_Note/wiki/%E6%B8%85%E7%90%86system32%E6%96%87%E4%BB%B6%E5%A4%B9)
 
+[线程与进程](https://github.com/zLulus/My_Note/wiki/%E7%BA%BF%E7%A8%8B%E4%B8%8E%E8%BF%9B%E7%A8%8B)
+
 ## CI/CD工具(持续集成/持续部署工具)
 
 [持续集成](https://github.com/zLulus/My_Note/wiki/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90)
