@@ -650,6 +650,8 @@ If you have any questions about My_Note, you can create issues.
 
 [数据库系统体系结构](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)
 
+[数据库连接池](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0)
+
 ## 关系型数据库
 
 [ACID规则](https://github.com/zLulus/My_Note/wiki/ACID%E8%A7%84%E5%88%99)
