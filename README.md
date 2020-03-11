@@ -633,8 +633,6 @@ If you have any questions about My_Note, you can create issues.
 
 [sql count(1)不要和查询数据混用 非常耗时](https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
 
-[sql Left/right join 多表 注意表的连接顺序](https://github.com/zLulus/My_Note/wiki/sql-Left-right-join-%E5%A4%9A%E8%A1%A8-%E6%B3%A8%E6%84%8F%E8%A1%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E9%A1%BA%E5%BA%8F)
-
 [查询SQL Server执行过的SQL语句（转载）](https://github.com/zLulus/My_Note/wiki/%E6%9F%A5%E8%AF%A2SQL-Server%E6%89%A7%E8%A1%8C%E8%BF%87%E7%9A%84SQL%E8%AF%AD%E5%8F%A5%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
 [防止SQL注入](https://github.com/zLulus/My_Note/wiki/%E9%98%B2%E6%AD%A2SQL%E6%B3%A8%E5%85%A5)
@@ -642,6 +640,8 @@ If you have any questions about My_Note, you can create issues.
 [union和union all的区别](https://github.com/zLulus/My_Note/wiki/union%E5%92%8Cunion-all%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 [in和exsist](https://github.com/zLulus/My_Note/wiki/in%E5%92%8Cexsist)
+
+[sql join详解](https://github.com/zLulus/My_Note/wiki/sql%20join%E8%AF%A6%E8%A7%A3)
 
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
