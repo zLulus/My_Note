@@ -822,9 +822,7 @@ If you have any questions about My_Note, you can create issues.
 
 [队列](https://github.com/zLulus/My_Note/wiki/%E9%98%9F%E5%88%97)
 
-[堆栈（栈）](https://github.com/zLulus/My_Note/wiki/%E5%A0%86%E6%A0%88%EF%BC%88%E6%A0%88%EF%BC%89)
-
-[堆](https://github.com/zLulus/My_Note/wiki/%E5%A0%86)
+[堆栈（栈）和堆](https://github.com/zLulus/My_Note/wiki/%E5%A0%86%E6%A0%88%EF%BC%88%E6%A0%88%EF%BC%89%E5%92%8C%E5%A0%86)
 
 [树](https://github.com/zLulus/My_Note/wiki/%E6%A0%91)
 
