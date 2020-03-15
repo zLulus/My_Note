@@ -856,7 +856,9 @@ If you have any questions about My_Note, you can create issues.
 
 ## 基本概念
 
-[数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
+[WPF特性](https://github.com/zLulus/My_Note/wiki/WPF%E7%89%B9%E6%80%A7)
+
+[数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
 
 [WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
