@@ -890,6 +890,8 @@ If you have any questions about My_Note, you can create issues.
 
 [WPF神器：Blend for Visual Studio](https://github.com/zLulus/My_Note/wiki/WPF%E7%A5%9E%E5%99%A8%EF%BC%9ABlend-for-Visual-Studio)
 
+[逻辑树和视觉树](https://github.com/zLulus/My_Note/wiki/%E9%80%BB%E8%BE%91%E6%A0%91%E5%92%8C%E8%A7%86%E8%A7%89%E6%A0%91)
+
 ### Binding
 
 [Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
