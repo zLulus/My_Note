@@ -892,6 +892,8 @@ If you have any questions about My_Note, you can create issues.
 
 [依赖属性DependencyProperty](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E5%B1%9E%E6%80%A7DependencyProperty)
 
+[WPF性能优化](https://github.com/zLulus/My_Note/wiki/WPF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+
 ### Binding
 
 [数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
