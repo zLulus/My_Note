@@ -858,13 +858,9 @@ If you have any questions about My_Note, you can create issues.
 
 [WPF特性](https://github.com/zLulus/My_Note/wiki/WPF%E7%89%B9%E6%80%A7)
 
-[数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
-
 [WPF生命周期](https://github.com/zLulus/My_Note/wiki/WPF%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
 [App.xaml](https://github.com/zLulus/My_Note/wiki/App.xaml)
-
-[依赖属性](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E5%B1%9E%E6%80%A7)
 
 [WPF路由](https://github.com/zLulus/My_Note/wiki/WPF%E8%B7%AF%E7%94%B1)
 
@@ -892,13 +888,19 @@ If you have any questions about My_Note, you can create issues.
 
 [逻辑树和视觉树](https://github.com/zLulus/My_Note/wiki/%E9%80%BB%E8%BE%91%E6%A0%91%E5%92%8C%E8%A7%86%E8%A7%89%E6%A0%91)
 
+[依赖属性DependencyProperty](https://github.com/zLulus/My_Note/wiki/%E4%BE%9D%E8%B5%96%E5%B1%9E%E6%80%A7DependencyProperty)
+
 ### Binding
+
+[数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
 
 [Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
 [Binding的详细说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E)
 
 [MultiBinding](https://github.com/zLulus/My_Note/wiki/MultiBinding)
+
+[DependencyProperty和INotifyPropertyChanged](https://github.com/zLulus/My_Note/wiki/DependencyProperty%E5%92%8CINotifyPropertyChanged)
 
 ### 资源文件
 
