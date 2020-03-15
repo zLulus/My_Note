@@ -894,8 +894,6 @@ If you have any questions about My_Note, you can create issues.
 
 [数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
 
-[Binding的三种方式](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)
-
 [Binding的详细说明](https://github.com/zLulus/My_Note/wiki/Binding%E7%9A%84%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E)
 
 [MultiBinding](https://github.com/zLulus/My_Note/wiki/MultiBinding)
