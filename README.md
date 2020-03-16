@@ -832,6 +832,8 @@ If you have any questions about My_Note, you can create issues.
 
 [键值对Dictionary、Hashtable、KeyValuePair](https://github.com/zLulus/My_Note/wiki/%E9%94%AE%E5%80%BC%E5%AF%B9Dictionary%E3%80%81Hashtable%E3%80%81KeyValuePair)
 
+[哈希表(Hash Table)](https://github.com/zLulus/My_Note/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8(Hash-Table))
+
 # 缓存
 ## Memcached
 
