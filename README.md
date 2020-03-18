@@ -177,6 +177,8 @@ If you have any questions about My_Note, you can create issues.
 
 [IFormattable和IFormatProvider](https://github.com/zLulus/My_Note/wiki/IFormattable%E5%92%8CIFormatProvider)
 
+[枚举获得Description扩展方法](https://github.com/zLulus/My_Note/wiki/%E6%9E%9A%E4%B8%BE%E8%8E%B7%E5%BE%97Description%E6%89%A9%E5%B1%95%E6%96%B9%E6%B3%95)
+
 ## 托管代码/非托管代码
 
 [托管代码和非托管代码](https://github.com/zLulus/My_Note/wiki/%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81%E5%92%8C%E9%9D%9E%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81)
