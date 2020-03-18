@@ -1007,6 +1007,8 @@ If you have any questions about My_Note, you can create issues.
 
 [WPF DataGrid下滑动态加载数据](https://github.com/zLulus/My_Note/wiki/WPF-DataGrid%E4%B8%8B%E6%BB%91%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE)
 
+[UI虚拟化和数据虚拟化](https://github.com/zLulus/My_Note/wiki/UI%E8%99%9A%E6%8B%9F%E5%8C%96%E5%92%8C%E6%95%B0%E6%8D%AE%E8%99%9A%E6%8B%9F%E5%8C%96)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
