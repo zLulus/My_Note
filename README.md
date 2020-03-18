@@ -179,6 +179,8 @@ If you have any questions about My_Note, you can create issues.
 
 [枚举获得Description扩展方法](https://github.com/zLulus/My_Note/wiki/%E6%9E%9A%E4%B8%BE%E8%8E%B7%E5%BE%97Description%E6%89%A9%E5%B1%95%E6%96%B9%E6%B3%95)
 
+[自定义显隐式类型转换](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%98%BE%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
+
 ## 托管代码/非托管代码
 
 [托管代码和非托管代码](https://github.com/zLulus/My_Note/wiki/%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81%E5%92%8C%E9%9D%9E%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81)
