@@ -153,17 +153,11 @@ If you have any questions about My_Note, you can create issues.
 
 [使用Dotfuscator混淆保护应用程序](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8Dotfuscator%E6%B7%B7%E6%B7%86%E4%BF%9D%E6%8A%A4%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
 
-[值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
-
-[string 特殊的引用类型](https://github.com/zLulus/My_Note/wiki/string-%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
-
 [String与StringBuilder](https://github.com/zLulus/My_Note/wiki/String%E4%B8%8EStringBuilder)
 
 [浅拷贝和深拷贝(Clone)](https://github.com/zLulus/My_Note/wiki/%E6%B5%85%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B7%B1%E6%8B%B7%E8%B4%9D(Clone))
 
 [readonly与const](https://github.com/zLulus/My_Note/wiki/readonly%E4%B8%8Econst)
-
-[委托和事件](https://github.com/zLulus/My_Note/wiki/%E5%A7%94%E6%89%98%E5%92%8C%E4%BA%8B%E4%BB%B6)
 
 [层与层之间解耦思路](https://github.com/zLulus/My_Note/wiki/%E5%B1%82%E4%B8%8E%E5%B1%82%E4%B9%8B%E9%97%B4%E8%A7%A3%E8%80%A6%E6%80%9D%E8%B7%AF)
 
@@ -183,6 +177,11 @@ If you have any questions about My_Note, you can create issues.
 
 [序列化与反序列化](https://github.com/zLulus/My_Note/wiki/%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96)
 
+## 值类型和引用类型
+[值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
+
+[string 特殊的引用类型](https://github.com/zLulus/My_Note/wiki/string-%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
+
 ## 托管代码/非托管代码
 
 [托管代码和非托管代码](https://github.com/zLulus/My_Note/wiki/%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81%E5%92%8C%E9%9D%9E%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81)
@@ -190,6 +189,11 @@ If you have any questions about My_Note, you can create issues.
 [垃圾回收机制(GC)](https://github.com/zLulus/My_Note/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6(GC))
 
 [C# using语句](https://github.com/zLulus/My_Note/wiki/C%23-using%E8%AF%AD%E5%8F%A5)
+
+## 委托
+[委托和事件](https://github.com/zLulus/My_Note/wiki/%E5%A7%94%E6%89%98%E5%92%8C%E4%BA%8B%E4%BB%B6)
+
+[C# 匿名方法](https://github.com/zLulus/My_Note/wiki/C%23-%E5%8C%BF%E5%90%8D%E6%96%B9%E6%B3%95)
 
 ## 异步
 [异步的几种方法](https://github.com/zLulus/My_Note/wiki/%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95)
