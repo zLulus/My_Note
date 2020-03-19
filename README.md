@@ -177,6 +177,8 @@ If you have any questions about My_Note, you can create issues.
 
 [序列化与反序列化](https://github.com/zLulus/My_Note/wiki/%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96)
 
+[C# 索引器](https://github.com/zLulus/My_Note/wiki/C%23-%E7%B4%A2%E5%BC%95%E5%99%A8)
+
 ## 值类型和引用类型
 [值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
 
