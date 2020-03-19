@@ -169,8 +169,6 @@ If you have any questions about My_Note, you can create issues.
 
 [枚举获得Description扩展方法](https://github.com/zLulus/My_Note/wiki/%E6%9E%9A%E4%B8%BE%E8%8E%B7%E5%BE%97Description%E6%89%A9%E5%B1%95%E6%96%B9%E6%B3%95)
 
-[自定义显隐式类型转换](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%98%BE%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
-
 [装箱和拆箱](https://github.com/zLulus/My_Note/wiki/%E8%A3%85%E7%AE%B1%E5%92%8C%E6%8B%86%E7%AE%B1)
 
 [序列化与反序列化](https://github.com/zLulus/My_Note/wiki/%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96)
@@ -221,6 +219,11 @@ If you have any questions about My_Note, you can create issues.
 [C# 反射](https://github.com/zLulus/My_Note/wiki/C%23-%E5%8F%8D%E5%B0%84)
 
 [DataTable转换为Entity(反射&&泛型)](https://github.com/zLulus/My_Note/wiki/DataTable%E8%BD%AC%E6%8D%A2%E4%B8%BAEntity(%E5%8F%8D%E5%B0%84&&%E6%B3%9B%E5%9E%8B))
+
+## 类型转换
+[基类、子类之间的类型转换](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E7%B1%BB%E3%80%81%E5%AD%90%E7%B1%BB%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
+
+[自定义显隐式类型转换](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%98%BE%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
 
 ## 消息队列
 ### RabbitMQ
