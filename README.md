@@ -177,6 +177,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# dynamic & var](https://github.com/zLulus/My_Note/wiki/C%23-dynamic-&-var)
 
+[读取mdb文件](https://github.com/zLulus/My_Note/wiki/%E8%AF%BB%E5%8F%96mdb%E6%96%87%E4%BB%B6)
+
 ## 值类型和引用类型
 [值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
 
