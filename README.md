@@ -407,10 +407,6 @@ If you have any questions about My_Note, you can create issues.
 
 [理解ASP.NET Core验证模型](https://github.com/zLulus/My_Note/wiki/%E7%90%86%E8%A7%A3ASP.NET-Core%E9%AA%8C%E8%AF%81%E6%A8%A1%E5%9E%8B)
 
-[sql server & .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/sql-server-&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
-
-[postgresql && .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/postgresql-&&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
-
 [.net core service && angular项目 iis发布](https://github.com/zLulus/My_Note/wiki/.net-core-service-&&-angular%E9%A1%B9%E7%9B%AE-iis%E5%8F%91%E5%B8%83)
 
 [.net core图片相关操作](https://github.com/zLulus/My_Note/wiki/.net-core%E5%9B%BE%E7%89%87%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C)
@@ -770,6 +766,12 @@ If you have any questions about My_Note, you can create issues.
 [sql server 开启远程访问](https://github.com/zLulus/My_Note/wiki/sql-server-%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE)
 
 [SQL Server PARTITION FUNCTION(分区)](https://github.com/zLulus/My_Note/wiki/SQL-Server-PARTITION-FUNCTION(%E5%88%86%E5%8C%BA))
+
+[sql server空间数据](https://github.com/zLulus/My_Note/wiki/sql-server%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
+
+[sql server & .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/sql-server-&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
+
+[postgresql && .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/postgresql-&&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
 
 #### Mysql
 
