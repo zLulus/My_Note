@@ -1126,6 +1126,8 @@ If you have any questions about My_Note, you can create issues.
 
 [矢量数据](https://github.com/zLulus/My_Note/wiki/%E7%9F%A2%E9%87%8F%E6%95%B0%E6%8D%AE)
 
+[栅格数据](https://github.com/zLulus/My_Note/wiki/%E6%A0%85%E6%A0%BC%E6%95%B0%E6%8D%AE)
+
 ## WebGIS
 
 [空间数据库引擎技术(SDE)](https://github.com/zLulus/My_Note/wiki/%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E6%93%8E%E6%8A%80%E6%9C%AF)
