@@ -1128,6 +1128,11 @@ If you have any questions about My_Note, you can create issues.
 
 [栅格数据](https://github.com/zLulus/My_Note/wiki/%E6%A0%85%E6%A0%BC%E6%95%B0%E6%8D%AE)
 
+### 切片/瓦片技术
+[地图瓦片技术](https://github.com/zLulus/My_Note/wiki/%E5%9C%B0%E5%9B%BE%E7%93%A6%E7%89%87%E6%8A%80%E6%9C%AF)
+
+[切片地图数据格式](https://github.com/zLulus/My_Note/wiki/%E5%88%87%E7%89%87%E5%9C%B0%E5%9B%BE%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F)
+
 ## WebGIS
 
 [空间数据库引擎技术(SDE)](https://github.com/zLulus/My_Note/wiki/%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E6%93%8E%E6%8A%80%E6%9C%AF)
@@ -1135,8 +1140,6 @@ If you have any questions about My_Note, you can create issues.
 [数据源的同时访问与操作](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E5%90%8C%E6%97%B6%E8%AE%BF%E9%97%AE%E4%B8%8E%E6%93%8D%E4%BD%9C)
 
 [各大地图提供商及其API](https://github.com/zLulus/My_Note/wiki/%E5%90%84%E5%A4%A7%E5%9C%B0%E5%9B%BE%E6%8F%90%E4%BE%9B%E5%95%86%E5%8F%8A%E5%85%B6API)
-
-[地图瓦片技术](https://github.com/zLulus/My_Note/wiki/%E5%9C%B0%E5%9B%BE%E7%93%A6%E7%89%87%E6%8A%80%E6%9C%AF)
 
 [WMTS技术](https://github.com/zLulus/My_Note/wiki/WMTS%E6%8A%80%E6%9C%AF)
 
