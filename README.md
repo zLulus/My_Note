@@ -1180,6 +1180,10 @@ If you have any questions about My_Note, you can create issues.
 [QGIS](https://github.com/zLulus/My_Note/wiki/QGIS)
 
 ## SuperMap
+[超图资料下载与环境安装](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E4%B8%8E%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85)
+
+[超图产品系列](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+
 [超图SampleCode运行须知](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESampleCode%E8%BF%90%E8%A1%8C%E9%A1%BB%E7%9F%A5)
 
 # Xamarin
