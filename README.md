@@ -1179,6 +1179,9 @@ If you have any questions about My_Note, you can create issues.
 
 [QGIS](https://github.com/zLulus/My_Note/wiki/QGIS)
 
+## SuperMap
+[超图SampleCode运行须知](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESampleCode%E8%BF%90%E8%A1%8C%E9%A1%BB%E7%9F%A5)
+
 # Xamarin
 ## 移动端基本知识
 
