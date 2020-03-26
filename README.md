@@ -777,6 +777,8 @@ If you have any questions about My_Note, you can create issues.
 
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
 
+[MySql常用内容](https://github.com/zLulus/My_Note/wiki/MySql%E5%B8%B8%E7%94%A8%E5%86%85%E5%AE%B9)
+
 #### SQLite
 
 [SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
