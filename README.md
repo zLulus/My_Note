@@ -1197,6 +1197,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Failed Exec strSQL : call GetSequenceNextID('SmDatasetID', @a); PROCEDURE GetSequenceNextID does not exist](https://github.com/zLulus/My_Note/wiki/Failed-Exec-strSQL-:-call-GetSequenceNextID('SmDatasetID',-@a);-PROCEDURE-GetSequenceNextID-does-not-exist)
 
+[超图 Datasource](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESuperMap-iObjects-.NET-Datasource)
+
 # Xamarin
 ## 移动端基本知识
 
