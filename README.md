@@ -1135,6 +1135,8 @@ If you have any questions about My_Note, you can create issues.
 
 [比例尺](https://github.com/zLulus/My_Note/wiki/%E6%AF%94%E4%BE%8B%E5%B0%BA)
 
+[专题图](https://github.com/zLulus/My_Note/wiki/%E4%B8%93%E9%A2%98%E5%9B%BE)
+
 ### 数据格式
 [GIS 数据源 & 数据格式](https://github.com/zLulus/My_Note/wiki/GIS-%E6%95%B0%E6%8D%AE%E6%BA%90-&-%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F)
 
