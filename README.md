@@ -1129,6 +1129,8 @@ If you have any questions about My_Note, you can create issues.
 
 [开放地理空间信息联盟(OGC)](https://github.com/zLulus/My_Note/wiki/%E5%BC%80%E6%94%BE%E5%9C%B0%E7%90%86%E7%A9%BA%E9%97%B4%E4%BF%A1%E6%81%AF%E8%81%94%E7%9B%9F)
 
+[地理坐标系统和投影坐标系统](https://github.com/zLulus/My_Note/wiki/%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%8A%95%E5%BD%B1%E5%9D%90%E6%A0%87%E7%B3%BB%E7%BB%9F)
+
 ### 数据格式
 [GIS 数据源 & 数据格式](https://github.com/zLulus/My_Note/wiki/GIS-%E6%95%B0%E6%8D%AE%E6%BA%90-&-%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F)
 
