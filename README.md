@@ -1131,6 +1131,8 @@ If you have any questions about My_Note, you can create issues.
 
 [地理坐标系统和投影坐标系统](https://github.com/zLulus/My_Note/wiki/%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%8A%95%E5%BD%B1%E5%9D%90%E6%A0%87%E7%B3%BB%E7%BB%9F)
 
+[经纬度 度分秒](https://github.com/zLulus/My_Note/wiki/%E7%BB%8F%E7%BA%AC%E5%BA%A6-%E5%BA%A6%E5%88%86%E7%A7%92)
+
 ### 数据格式
 [GIS 数据源 & 数据格式](https://github.com/zLulus/My_Note/wiki/GIS-%E6%95%B0%E6%8D%AE%E6%BA%90-&-%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F)
 
