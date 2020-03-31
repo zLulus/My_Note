@@ -822,6 +822,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Mysql EF 数据录入&批量数据录入](https://github.com/zLulus/My_Note/wiki/Mysql-EF-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5&%E6%89%B9%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5)
 
+[Sql Server EF 批量数据录入](https://github.com/zLulus/My_Note/wiki/Sql-Server-EF-%E6%89%B9%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5)
+
 ## Code First
 [EF Code First 快速创建](https://github.com/zLulus/My_Note/wiki/EF-Code-First-%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA)
 
