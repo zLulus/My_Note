@@ -1133,6 +1133,8 @@ If you have any questions about My_Note, you can create issues.
 
 [经纬度 度分秒](https://github.com/zLulus/My_Note/wiki/%E7%BB%8F%E7%BA%AC%E5%BA%A6-%E5%BA%A6%E5%88%86%E7%A7%92)
 
+[比例尺](https://github.com/zLulus/My_Note/wiki/%E6%AF%94%E4%BE%8B%E5%B0%BA)
+
 ### 数据格式
 [GIS 数据源 & 数据格式](https://github.com/zLulus/My_Note/wiki/GIS-%E6%95%B0%E6%8D%AE%E6%BA%90-&-%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F)
 
