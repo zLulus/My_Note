@@ -1116,6 +1116,7 @@ If you have any questions about My_Note, you can create issues.
 
 # GIS
 ## 基础知识
+[空间参考标识符 (SRID)](https://github.com/zLulus/My_Note/wiki/%E7%A9%BA%E9%97%B4%E5%8F%82%E8%80%83%E6%A0%87%E8%AF%86%E7%AC%A6-(SRID))
 
 [二维与三维](https://github.com/zLulus/My_Note/wiki/%E4%BA%8C%E7%BB%B4%E4%B8%8E%E4%B8%89%E7%BB%B4)
 
