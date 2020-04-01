@@ -1211,6 +1211,8 @@ If you have any questions about My_Note, you can create issues.
 
 [超图 Datasource](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESuperMap-iObjects-.NET-Datasource)
 
+[文件数据导入数据库思路](https://github.com/zLulus/My_Note/wiki/%E6%96%87%E4%BB%B6%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%9D%E8%B7%AF)
+
 # Xamarin
 ## 移动端基本知识
 
