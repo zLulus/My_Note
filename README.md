@@ -1201,6 +1201,8 @@ If you have any questions about My_Note, you can create issues.
 [超图SampleCode运行须知](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESampleCode%E8%BF%90%E8%A1%8C%E9%A1%BB%E7%9F%A5)
 
 ### SuperMap iObjects .NET
+[SuperMap iObjects .NET 名词与数据结构](https://github.com/zLulus/My_Note/wiki/SuperMap-iObjects-.NET-%E5%90%8D%E8%AF%8D%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+
 [超图系统表](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E7%B3%BB%E7%BB%9F%E8%A1%A8)
 
 [超图自定义数据集名称](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E9%9B%86%E5%90%8D%E7%A7%B0)
