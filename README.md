@@ -179,6 +179,8 @@ If you have any questions about My_Note, you can create issues.
 
 [读取mdb文件](https://github.com/zLulus/My_Note/wiki/%E8%AF%BB%E5%8F%96mdb%E6%96%87%E4%BB%B6)
 
+[接口和抽象类](https://github.com/zLulus/My_Note/wiki/%E6%8E%A5%E5%8F%A3%E5%92%8C%E6%8A%BD%E8%B1%A1%E7%B1%BB)
+
 ## 值类型和引用类型
 [值类型和引用类型](https://github.com/zLulus/My_Note/wiki/%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
 
