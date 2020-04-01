@@ -1203,7 +1203,7 @@ If you have any questions about My_Note, you can create issues.
 ### SuperMap iObjects .NET
 [超图系统表](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E7%B3%BB%E7%BB%9F%E8%A1%A8)
 
-[超图系统表smregister](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E7%B3%BB%E7%BB%9F%E8%A1%A8smregister)
+[超图自定义数据集名称](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E9%9B%86%E5%90%8D%E7%A7%B0)
 
 [超图 wpf地图控件加载地图](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BE-wpf%E5%9C%B0%E5%9B%BE%E6%8E%A7%E4%BB%B6%E5%8A%A0%E8%BD%BD%E5%9C%B0%E5%9B%BE)
 
