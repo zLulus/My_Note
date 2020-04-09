@@ -1201,6 +1201,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ArcGIS Runtime SDK 相关资料](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
 
+[ArcGIS 创建空间数据库&表](https://github.com/zLulus/My_Note/wiki/ArcGIS-%E5%88%9B%E5%BB%BA%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93&%E8%A1%A8)
+
 [ArcGIS Runtime SDK for WPF 初始化](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E5%88%9D%E5%A7%8B%E5%8C%96)
 
 [ArcGIS Runtime SDK for WPF 飞行功能](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E9%A3%9E%E8%A1%8C%E5%8A%9F%E8%83%BD)
