@@ -195,6 +195,8 @@ If you have any questions about My_Note, you can create issues.
 
 [sealed](https://github.com/zLulus/My_Note/wiki/sealed)
 
+[树状结构的部分查询](https://github.com/zLulus/My_Note/wiki/%E6%A0%91%E7%8A%B6%E7%BB%93%E6%9E%84%E7%9A%84%E9%83%A8%E5%88%86%E6%9F%A5%E8%AF%A2)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
