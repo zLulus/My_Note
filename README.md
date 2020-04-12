@@ -812,6 +812,8 @@ If you have any questions about My_Note, you can create issues.
 
 [SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
 
+[ef core 连接sqlite](https://github.com/zLulus/My_Note/wiki/ef-core-%E8%BF%9E%E6%8E%A5sqlite)
+
 #### Postgresql
 
 [Postgresql入门](https://github.com/zLulus/My_Note/wiki/Postgresql%E5%85%A5%E9%97%A8)
