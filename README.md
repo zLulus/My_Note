@@ -75,6 +75,8 @@ If you have any questions about My_Note, you can create issues.
 
 [拥有一颗产品心的程序媛 ψ(｀∇´)ψ](#拥有一颗产品心的程序媛)
 
+[linux](#linux)
+
 [其他](#其他)
 
 # 技术路线
@@ -1538,6 +1540,11 @@ If you have any questions about My_Note, you can create issues.
 [针对bilibili与kanbilibili的分析](https://github.com/zLulus/My_Note/wiki/%E9%92%88%E5%AF%B9bilibili%E4%B8%8Ekanbilibili%E7%9A%84%E5%88%86%E6%9E%90)
 
 [需求分析杂记](https://github.com/zLulus/My_Note/wiki/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%9D%82%E8%AE%B0)
+
+# linux
+[linux 创建实例、登录、设置ssh](https://github.com/zLulus/My_Note/wiki/linux-%E5%88%9B%E5%BB%BA%E5%AE%9E%E4%BE%8B%E3%80%81%E7%99%BB%E5%BD%95%E3%80%81%E8%AE%BE%E7%BD%AEssh)
+
+[linux 安装mysql & sql server数据库](https://github.com/zLulus/My_Note/wiki/linux-%E5%AE%89%E8%A3%85mysql-&-sql-server%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
