@@ -800,7 +800,7 @@ If you have any questions about My_Note, you can create issues.
 
 [sql server & .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/sql-server-&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
 
-[postgresql && .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/postgresql-&&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
+[sql server 查询表结构](https://github.com/zLulus/My_Note/wiki/sql-server-%E6%9F%A5%E8%AF%A2%E8%A1%A8%E7%BB%93%E6%9E%84)
 
 #### Mysql
 
@@ -819,6 +819,8 @@ If you have any questions about My_Note, you can create issues.
 #### Postgresql
 
 [Postgresql入门](https://github.com/zLulus/My_Note/wiki/Postgresql%E5%85%A5%E9%97%A8)
+
+[postgresql && .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/postgresql-&&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
 
 ## 非关系型数据库
 
