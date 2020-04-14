@@ -776,6 +776,8 @@ If you have any questions about My_Note, you can create issues.
 
 [数据库日志](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%97%A5%E5%BF%97)
 
+[Sql Server & Mysql对比](https://github.com/zLulus/My_Note/wiki/Sql-Server-&-Mysql%E5%AF%B9%E6%AF%94)
+
 #### SQL Server
 
 [sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
