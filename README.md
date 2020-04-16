@@ -1091,6 +1091,8 @@ If you have any questions about My_Note, you can create issues.
 
 [WPF 打开txt文件](https://github.com/zLulus/My_Note/wiki/WPF-%E6%89%93%E5%BC%80txt%E6%96%87%E4%BB%B6)
 
+[WPF 移动控件、拖动边框修改控件大小](https://github.com/zLulus/My_Note/wiki/WPF-%E7%A7%BB%E5%8A%A8%E6%8E%A7%E4%BB%B6%E3%80%81%E6%8B%96%E5%8A%A8%E8%BE%B9%E6%A1%86%E4%BF%AE%E6%94%B9%E6%8E%A7%E4%BB%B6%E5%A4%A7%E5%B0%8F)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
