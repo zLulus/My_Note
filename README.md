@@ -1016,6 +1016,10 @@ If you have any questions about My_Note, you can create issues.
 
 [VisualStateManager](https://github.com/zLulus/My_Note/wiki/VisualStateManager)
 
+[WPF 菜单栏ContextMenu](https://github.com/zLulus/My_Note/wiki/WPF-%E8%8F%9C%E5%8D%95%E6%A0%8FContextMenu)
+
+[WPF TextBlock&Label随父级控件缩放](https://github.com/zLulus/My_Note/wiki/WPF-TextBlock&Label%E9%9A%8F%E7%88%B6%E7%BA%A7%E6%8E%A7%E4%BB%B6%E7%BC%A9%E6%94%BE)
+
 ## Style
 
 [style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
