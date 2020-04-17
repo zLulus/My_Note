@@ -1020,6 +1020,8 @@ If you have any questions about My_Note, you can create issues.
 
 [WPF TextBlock&Label随父级控件缩放](https://github.com/zLulus/My_Note/wiki/WPF-TextBlock&Label%E9%9A%8F%E7%88%B6%E7%BA%A7%E6%8E%A7%E4%BB%B6%E7%BC%A9%E6%94%BE)
 
+[WPF 弹窗](https://github.com/zLulus/My_Note/wiki/WPF-%E5%BC%B9%E7%AA%97)
+
 ## Style
 
 [style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
