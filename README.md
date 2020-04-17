@@ -1474,7 +1474,7 @@ If you have any questions about My_Note, you can create issues.
 
 [空间复杂度和时间复杂度](https://github.com/zLulus/My_Note/wiki/%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%92%8C%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6)
 
-[有穷性](https://github.com/zLulus/My_Note/wiki/%E6%9C%89%E7%A9%B7%E6%80%A7)
+[算法的基本概念及特性](https://github.com/zLulus/My_Note/wiki/%E7%AE%97%E6%B3%95%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%89%B9%E6%80%A7)
 
 ## CI/CD工具(持续集成/持续部署工具)
 
