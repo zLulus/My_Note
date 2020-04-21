@@ -1057,6 +1057,9 @@ If you have any questions about My_Note, you can create issues.
 
 [Command 传参的几种方式](https://github.com/zLulus/My_Note/wiki/Command-%E4%BC%A0%E5%8F%82%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F)
 
+## 动画
+[WPF 动画](https://github.com/zLulus/My_Note/wiki/WPF-%E5%8A%A8%E7%94%BB)
+
 ## 一些效果的实现
 
 [Binding控件某个属性](https://github.com/zLulus/My_Note/wiki/Binding%E6%8E%A7%E4%BB%B6%E6%9F%90%E4%B8%AA%E5%B1%9E%E6%80%A7)
