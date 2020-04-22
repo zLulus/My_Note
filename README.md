@@ -89,6 +89,8 @@ If you have any questions about My_Note, you can create issues.
 
 [解决问题的思路](https://github.com/zLulus/My_Note/wiki/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%B7%AF)
 
+[解决问题的思路（举例：网站的某个页面无法正常显示）](https://github.com/zLulus/My_Note/wiki/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%B7%AF%EF%BC%88%E4%B8%BE%E4%BE%8B%EF%BC%9A%E7%BD%91%E7%AB%99%E7%9A%84%E6%9F%90%E4%B8%AA%E9%A1%B5%E9%9D%A2%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%EF%BC%89)
+
 # .net
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
