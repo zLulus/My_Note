@@ -1284,6 +1284,8 @@ If you have any questions about My_Note, you can create issues.
 
 [超图SuperMap iObjects .NET Datasource](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESuperMap-iObjects-.NET-Datasource)
 
+[超图SuperMap iObjects .NET Geometry转geoJSON&WKT&WKB](https://github.com/zLulus/My_Note/wiki/%E8%B6%85%E5%9B%BESuperMap-iObjects-.NET-Geometry%E8%BD%ACgeoJSON&WKT&WKB)
+
 # Xamarin
 ## 移动端基本知识
 
