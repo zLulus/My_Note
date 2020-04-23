@@ -1135,6 +1135,8 @@ If you have any questions about My_Note, you can create issues.
 
 [单例模式](https://github.com/zLulus/My_Note/wiki/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 
+[工厂模式](https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
+
 # 网络
 
 [OSI与TCP/IP协议分层](https://github.com/zLulus/My_Note/wiki/OSI%E4%B8%8ETCP-IP%E5%8D%8F%E8%AE%AE%E5%88%86%E5%B1%82)
