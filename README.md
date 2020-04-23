@@ -1143,6 +1143,8 @@ If you have any questions about My_Note, you can create issues.
 
 [MVVM(Model-View-ViewModel)](https://github.com/zLulus/My_Note/wiki/MVVM(Model-View-ViewModel))
 
+[MVC，MVP 和 MVVM](https://github.com/zLulus/My_Note/wiki/MVC%EF%BC%8CMVP-%E5%92%8C-MVVM)
+
 # 网络
 
 [OSI与TCP/IP协议分层](https://github.com/zLulus/My_Note/wiki/OSI%E4%B8%8ETCP-IP%E5%8D%8F%E8%AE%AE%E5%88%86%E5%B1%82)
