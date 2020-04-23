@@ -53,6 +53,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Windows Service](#windows-service)
 
+[设计模式](#设计模式)
+
 [网络](#网络)
 
 [Docker](#Docker)
@@ -1130,6 +1132,8 @@ If you have any questions about My_Note, you can create issues.
 [创建Windows Service](https://github.com/zLulus/My_Note/wiki/%E5%88%9B%E5%BB%BAWindows-Service)
 
 # 设计模式
+
+[单例模式](https://github.com/zLulus/My_Note/wiki/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 
 # 网络
 
