@@ -1112,6 +1112,8 @@ If you have any questions about My_Note, you can create issues.
 
 [wpf 打印图片](https://github.com/zLulus/My_Note/wiki/wpf-%E6%89%93%E5%8D%B0%E5%9B%BE%E7%89%87)
 
+[wpf 打印A3 & A4 纸张大小的图片](https://github.com/zLulus/My_Note/wiki/wpf-%E6%89%93%E5%8D%B0A3-&-A4-%E7%BA%B8%E5%BC%A0%E5%A4%A7%E5%B0%8F%E7%9A%84%E5%9B%BE%E7%89%87)
+
 [wpf等桌面软件 模块化与调试的问题](https://github.com/zLulus/My_Note/wiki/wpf%E7%AD%89%E6%A1%8C%E9%9D%A2%E8%BD%AF%E4%BB%B6-%E6%A8%A1%E5%9D%97%E5%8C%96%E4%B8%8E%E8%B0%83%E8%AF%95%E7%9A%84%E9%97%AE%E9%A2%98)
 
 ## CefSharp
