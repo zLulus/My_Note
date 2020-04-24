@@ -1149,6 +1149,8 @@ If you have any questions about My_Note, you can create issues.
 
 [MVC，MVP 和 MVVM](https://github.com/zLulus/My_Note/wiki/MVC%EF%BC%8CMVP-%E5%92%8C-MVVM)
 
+[三层架构](https://github.com/zLulus/My_Note/wiki/%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84)
+
 # 网络
 
 [OSI与TCP/IP协议分层](https://github.com/zLulus/My_Note/wiki/OSI%E4%B8%8ETCP-IP%E5%8D%8F%E8%AE%AE%E5%88%86%E5%B1%82)
