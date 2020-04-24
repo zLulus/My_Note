@@ -205,6 +205,8 @@ If you have any questions about My_Note, you can create issues.
 
 [索引器&集合](https://github.com/zLulus/My_Note/wiki/%E7%B4%A2%E5%BC%95%E5%99%A8&%E9%9B%86%E5%90%88)
 
+[xml文件读写](https://github.com/zLulus/My_Note/wiki/xml%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
