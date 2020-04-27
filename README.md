@@ -1260,10 +1260,6 @@ If you have any questions about My_Note, you can create issues.
 
 [ArcGIS Runtime SDK for WPF 初始化](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E5%88%9D%E5%A7%8B%E5%8C%96)
 
-[ArcGIS Runtime SDK for WPF 飞行功能](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E9%A3%9E%E8%A1%8C%E5%8A%9F%E8%83%BD)
-
-[ArcGIS Runtime SDK for WPF 鹰眼](https://github.com/zLulus/My_Note/wiki/ArcGIS-Runtime-SDK-for-WPF-%E9%B9%B0%E7%9C%BC)
-
 [请使用 MakeValid 将该实例转换为有效实例](https://github.com/zLulus/My_Note/wiki/%E8%AF%B7%E4%BD%BF%E7%94%A8-MakeValid-%E5%B0%86%E8%AF%A5%E5%AE%9E%E4%BE%8B%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%9C%89%E6%95%88%E5%AE%9E%E4%BE%8B)
 
 ## CityEngine
