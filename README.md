@@ -730,6 +730,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ACID规则](https://github.com/zLulus/My_Note/wiki/ACID%E8%A7%84%E5%88%99)
 
+[ER模型与关系模型](https://github.com/zLulus/My_Note/wiki/ER%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%85%B3%E7%B3%BB%E6%A8%A1%E5%9E%8B)
+
 [varchar和char](https://github.com/zLulus/My_Note/wiki/varchar%E5%92%8Cchar)
 
 [sql server 查询存储过程指令](https://github.com/zLulus/My_Note/wiki/sql-server-%E6%9F%A5%E8%AF%A2%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E6%8C%87%E4%BB%A4)
