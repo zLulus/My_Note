@@ -738,8 +738,6 @@ If you have any questions about My_Note, you can create issues.
 
 [关系数据库的数据迁移](https://github.com/zLulus/My_Note/wiki/%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB)
 
-[工具：sql server profiler（分析器）](https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%85%B7%EF%BC%9Asql-server-profiler%EF%BC%88%E5%88%86%E6%9E%90%E5%99%A8%EF%BC%89)
-
 [存储过程Procedure](https://github.com/zLulus/My_Note/wiki/%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8BProcedure)
 
 [特殊存储过程——触发器Trigger](https://github.com/zLulus/My_Note/wiki/%E7%89%B9%E6%AE%8A%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E2%80%94%E2%80%94%E8%A7%A6%E5%8F%91%E5%99%A8Trigger)
@@ -791,6 +789,10 @@ If you have any questions about My_Note, you can create issues.
 [游标](https://github.com/zLulus/My_Note/wiki/%E6%B8%B8%E6%A0%87)
 
 #### SQL Server
+
+[工具：sql server profiler（分析器）](https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%85%B7%EF%BC%9Asql-server-profiler%EF%BC%88%E5%88%86%E6%9E%90%E5%99%A8%EF%BC%89)
+
+[工具：SQL Server执行计划](https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%85%B7%EF%BC%9ASQL-Server%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92)
 
 [sql server  DateTime与DateTime2的区别](https://github.com/zLulus/My_Note/wiki/sql-server--DateTime%E4%B8%8EDateTime2%E7%9A%84%E5%8C%BA%E5%88%AB)
 
