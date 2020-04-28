@@ -726,6 +726,8 @@ If you have any questions about My_Note, you can create issues.
 
 ## 关系型数据库
 
+[数据库设计三大范式](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E4%B8%89%E5%A4%A7%E8%8C%83%E5%BC%8F)
+
 [ACID规则](https://github.com/zLulus/My_Note/wiki/ACID%E8%A7%84%E5%88%99)
 
 [varchar和char](https://github.com/zLulus/My_Note/wiki/varchar%E5%92%8Cchar)
