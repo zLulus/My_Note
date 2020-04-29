@@ -792,6 +792,13 @@ If you have any questions about My_Note, you can create issues.
 
 [游标](https://github.com/zLulus/My_Note/wiki/%E6%B8%B8%E6%A0%87)
 
+#### 历史数据处理 & 集群 & 分布式
+[历史数据处理](https://github.com/zLulus/My_Note/wiki/%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86)
+
+[水平分表和垂直分表](https://github.com/zLulus/My_Note/wiki/%E6%B0%B4%E5%B9%B3%E5%88%86%E8%A1%A8%E5%92%8C%E5%9E%82%E7%9B%B4%E5%88%86%E8%A1%A8)
+
+[数据库集群](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9B%86%E7%BE%A4)
+
 #### SQL Server
 
 [工具：sql server profiler（分析器）](https://github.com/zLulus/My_Note/wiki/%E5%B7%A5%E5%85%B7%EF%BC%9Asql-server-profiler%EF%BC%88%E5%88%86%E6%9E%90%E5%99%A8%EF%BC%89)
