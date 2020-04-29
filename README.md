@@ -1122,6 +1122,8 @@ If you have any questions about My_Note, you can create issues.
 
 [wpf等桌面软件 模块化与调试的问题](https://github.com/zLulus/My_Note/wiki/wpf%E7%AD%89%E6%A1%8C%E9%9D%A2%E8%BD%AF%E4%BB%B6-%E6%A8%A1%E5%9D%97%E5%8C%96%E4%B8%8E%E8%B0%83%E8%AF%95%E7%9A%84%E9%97%AE%E9%A2%98)
 
+[Border不响应MouseDown等点击事件](https://github.com/zLulus/My_Note/wiki/Border%E4%B8%8D%E5%93%8D%E5%BA%94MouseDown%E7%AD%89%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
