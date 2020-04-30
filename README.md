@@ -836,7 +836,10 @@ If you have any questions about My_Note, you can create issues.
 [sql server 查询表结构](https://github.com/zLulus/My_Note/wiki/sql-server-%E6%9F%A5%E8%AF%A2%E8%A1%A8%E7%BB%93%E6%9E%84)
 
 ###### sql server sql
+
 [sql 变量](https://github.com/zLulus/My_Note/wiki/sql-%E5%8F%98%E9%87%8F)
+
+[SQL NULL](https://github.com/zLulus/My_Note/wiki/SQL-NULL)
 
 #### Mysql
 
