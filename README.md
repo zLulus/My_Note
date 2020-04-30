@@ -151,6 +151,8 @@ If you have any questions about My_Note, you can create issues.
 
 [.net for TCP服务端 && 客户端(Socket)](https://github.com/zLulus/My_Note/wiki/.net-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF(Socket))
 
+[Socket粘包](https://github.com/zLulus/My_Note/wiki/Socket%E7%B2%98%E5%8C%85)
+
 [设置HttpClient的授权Header](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AEHttpClient%E7%9A%84%E6%8E%88%E6%9D%83Header)
 
 [递归和迭代](https://github.com/zLulus/My_Note/wiki/%E9%80%92%E5%BD%92%E5%92%8C%E8%BF%AD%E4%BB%A3)
@@ -791,6 +793,8 @@ If you have any questions about My_Note, you can create issues.
 [Sql Server & Mysql对比](https://github.com/zLulus/My_Note/wiki/Sql-Server-&-Mysql%E5%AF%B9%E6%AF%94)
 
 [游标](https://github.com/zLulus/My_Note/wiki/%E6%B8%B8%E6%A0%87)
+
+[数据抽象](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1)
 
 #### 历史数据处理 & 集群 & 分布式
 [历史数据处理](https://github.com/zLulus/My_Note/wiki/%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86)
