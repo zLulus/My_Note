@@ -95,6 +95,8 @@ If you have any questions about My_Note, you can create issues.
 
 [定律法则](https://github.com/zLulus/My_Note/wiki/%E5%AE%9A%E5%BE%8B%E6%B3%95%E5%88%99)
 
+[「代码家」的学习过程和学习经验分享](https://github.com/zLulus/My_Note/wiki/%E3%80%8C%E4%BB%A3%E7%A0%81%E5%AE%B6%E3%80%8D%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
+
 # .net
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
