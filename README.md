@@ -1257,6 +1257,10 @@ If you have any questions about My_Note, you can create issues.
 
 [拓扑](https://github.com/zLulus/My_Note/wiki/%E6%8B%93%E6%89%91)
 
+[凸包](https://github.com/zLulus/My_Note/wiki/%E5%87%B8%E5%8C%85)
+
+[缓冲区(分析)](https://github.com/zLulus/My_Note/wiki/%E7%BC%93%E5%86%B2%E5%8C%BA(%E5%88%86%E6%9E%90))
+
 ### 数据格式
 [GIS 数据源 & 数据格式](https://github.com/zLulus/My_Note/wiki/GIS-%E6%95%B0%E6%8D%AE%E6%BA%90-&-%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F)
 
