@@ -847,6 +847,8 @@ If you have any questions about My_Note, you can create issues.
 
 [SQL NULL](https://github.com/zLulus/My_Note/wiki/SQL-NULL)
 
+[sql 空间数据](https://github.com/zLulus/My_Note/wiki/sql-%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
+
 #### Mysql
 
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
