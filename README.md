@@ -1510,8 +1510,6 @@ If you have any questions about My_Note, you can create issues.
 
 [url里面的数据解码](https://github.com/zLulus/My_Note/wiki/url%E9%87%8C%E9%9D%A2%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E7%A0%81)
 
-[spy](https://github.com/zLulus/My_Note/wiki/spy)
-
 [代码管理](https://github.com/zLulus/My_Note/wiki/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86)
 
 [OAuth 2.0](https://github.com/zLulus/My_Note/wiki/OAuth-2.0)
