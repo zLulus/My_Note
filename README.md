@@ -1151,6 +1151,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Border不响应MouseDown等点击事件](https://github.com/zLulus/My_Note/wiki/Border%E4%B8%8D%E5%93%8D%E5%BA%94MouseDown%E7%AD%89%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
+[DataGrid 添加Button](https://github.com/zLulus/My_Note/wiki/DataGrid-%E6%B7%BB%E5%8A%A0Button)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
