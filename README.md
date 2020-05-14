@@ -851,6 +851,8 @@ If you have any questions about My_Note, you can create issues.
 
 [sql 空间数据](https://github.com/zLulus/My_Note/wiki/sql-%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
 
+[sql 数据库&表备份与还原](https://github.com/zLulus/My_Note/wiki/sql-%E6%95%B0%E6%8D%AE%E5%BA%93&%E8%A1%A8%E5%A4%87%E4%BB%BD%E4%B8%8E%E8%BF%98%E5%8E%9F)
+
 #### Mysql
 
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
