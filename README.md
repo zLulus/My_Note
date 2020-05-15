@@ -215,6 +215,8 @@ If you have any questions about My_Note, you can create issues.
 
 [xml文件读写](https://github.com/zLulus/My_Note/wiki/xml%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99)
 
+[FTP自建服务器与C#访问](https://github.com/zLulus/My_Note/wiki/FTP%E8%87%AA%E5%BB%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8EC%23%E8%AE%BF%E9%97%AE)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
