@@ -871,6 +871,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Sqlite常用内容](https://github.com/zLulus/My_Note/wiki/Sqlite%E5%B8%B8%E7%94%A8%E5%86%85%E5%AE%B9)
 
+[sqlite 建表](https://github.com/zLulus/My_Note/wiki/sqlite-%E5%BB%BA%E8%A1%A8)
+
 #### Postgresql
 
 [Postgresql入门](https://github.com/zLulus/My_Note/wiki/Postgresql%E5%85%A5%E9%97%A8)
