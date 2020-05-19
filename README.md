@@ -1280,6 +1280,8 @@ If you have any questions about My_Note, you can create issues.
 
 [栅格数据](https://github.com/zLulus/My_Note/wiki/%E6%A0%85%E6%A0%BC%E6%95%B0%E6%8D%AE)
 
+[GIS 金字塔结构](https://github.com/zLulus/My_Note/wiki/GIS-%E9%87%91%E5%AD%97%E5%A1%94%E7%BB%93%E6%9E%84)
+
 [NetTopologySuite Geometry&WKT&WKB&GeoJSON互转](https://github.com/zLulus/My_Note/wiki/NetTopologySuite-Geometry&WKT&WKB&GeoJSON%E4%BA%92%E8%BD%AC)
 
 ### 切片/瓦片技术
