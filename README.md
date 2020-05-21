@@ -856,6 +856,8 @@ If you have any questions about My_Note, you can create issues.
 [sql 数据库&表备份与还原](https://github.com/zLulus/My_Note/wiki/sql-%E6%95%B0%E6%8D%AE%E5%BA%93&%E8%A1%A8%E5%A4%87%E4%BB%BD%E4%B8%8E%E8%BF%98%E5%8E%9F)
 
 #### Oracle
+[Oracle 连接的问题](https://github.com/zLulus/My_Note/wiki/Oracle-%E8%BF%9E%E6%8E%A5%E7%9A%84%E9%97%AE%E9%A2%98)
+
 [Oracle sql](https://github.com/zLulus/My_Note/wiki/Oracle-sql)
 
 #### Mysql
