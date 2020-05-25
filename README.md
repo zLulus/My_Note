@@ -1032,6 +1032,8 @@ If you have any questions about My_Note, you can create issues.
 
 [WPF性能优化](https://github.com/zLulus/My_Note/wiki/WPF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
+[优秀的WPF UI库](https://github.com/zLulus/My_Note/wiki/%E4%BC%98%E7%A7%80%E7%9A%84WPF-UI%E5%BA%93)
+
 ### Binding
 
 [数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
