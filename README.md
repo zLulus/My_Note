@@ -1252,6 +1252,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Visual Studio Code 常用快捷键](https://github.com/zLulus/My_Note/wiki/Visual-Studio--Code-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
+[Visual Studio 插件](https://github.com/zLulus/My_Note/wiki/Visual-Studio-%E6%8F%92%E4%BB%B6)
+
 # GIS
 ## 基础知识
 [空间参考标识符 (SRID)](https://github.com/zLulus/My_Note/wiki/%E7%A9%BA%E9%97%B4%E5%8F%82%E8%80%83%E6%A0%87%E8%AF%86%E7%AC%A6-(SRID))
