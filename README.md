@@ -1172,6 +1172,8 @@ If you have any questions about My_Note, you can create issues.
 
 [wpf 进度条ProgressBar配文字](https://github.com/zLulus/My_Note/wiki/wpf-%E8%BF%9B%E5%BA%A6%E6%9D%A1ProgressBar%E9%85%8D%E6%96%87%E5%AD%97)
 
+[动态生成DataGrid](https://github.com/zLulus/My_Note/wiki/%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90DataGrid)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
