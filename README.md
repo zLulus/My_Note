@@ -1100,6 +1100,8 @@ If you have any questions about My_Note, you can create issues.
 
 [DataTemplate](https://github.com/zLulus/My_Note/wiki/DataTemplate)
 
+[DataTemplate的后端用法(动态生成控件)](https://github.com/zLulus/My_Note/wiki/DataTemplate%E7%9A%84%E5%90%8E%E7%AB%AF%E7%94%A8%E6%B3%95(%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90%E6%8E%A7%E4%BB%B6))
+
 [ItemsPanelTemplate](https://github.com/zLulus/My_Note/wiki/ItemsPanelTemplate)
 
 [HierarchicalDataTemplate](https://github.com/zLulus/My_Note/wiki/HierarchicalDataTemplate)
@@ -1175,8 +1177,6 @@ If you have any questions about My_Note, you can create issues.
 [动态生成DataGrid](https://github.com/zLulus/My_Note/wiki/%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90DataGrid)
 
 [多用户控件间的切换](https://github.com/zLulus/My_Note/wiki/%E5%A4%9A%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6%E9%97%B4%E7%9A%84%E5%88%87%E6%8D%A2)
-
-[DataTemplate的后端用法(动态生成控件)](https://github.com/zLulus/My_Note/wiki/DataTemplate%E7%9A%84%E5%90%8E%E7%AB%AF%E7%94%A8%E6%B3%95(%E5%8A%A8%E6%80%81%E7%94%9F%E6%88%90%E6%8E%A7%E4%BB%B6))
 
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
