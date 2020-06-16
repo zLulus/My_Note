@@ -1178,6 +1178,8 @@ If you have any questions about My_Note, you can create issues.
 
 [多用户控件间的切换](https://github.com/zLulus/My_Note/wiki/%E5%A4%9A%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6%E9%97%B4%E7%9A%84%E5%88%87%E6%8D%A2)
 
+[wpf 树状单选&多选功能](https://github.com/zLulus/My_Note/wiki/wpf-%E6%A0%91%E7%8A%B6%E5%8D%95%E9%80%89&%E5%A4%9A%E9%80%89%E5%8A%9F%E8%83%BD)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
