@@ -1180,6 +1180,8 @@ If you have any questions about My_Note, you can create issues.
 
 [wpf 树状单选&多选功能](https://github.com/zLulus/My_Note/wiki/wpf-%E6%A0%91%E7%8A%B6%E5%8D%95%E9%80%89&%E5%A4%9A%E9%80%89%E5%8A%9F%E8%83%BD)
 
+[使用Converter实现控件的动态显隐](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8Converter%E5%AE%9E%E7%8E%B0%E6%8E%A7%E4%BB%B6%E7%9A%84%E5%8A%A8%E6%80%81%E6%98%BE%E9%9A%90)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
