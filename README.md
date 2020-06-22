@@ -868,6 +868,8 @@ If you have any questions about My_Note, you can create issues.
 
 [mysql: The target table of the UPDATE is not updatable](https://github.com/zLulus/My_Note/wiki/mysql:-The-target-table-of-the-UPDATE-is-not-updatable)
 
+[Mysql 使用mysqldump进行备份与还原](https://github.com/zLulus/My_Note/wiki/Mysql-%E4%BD%BF%E7%94%A8mysqldump%E8%BF%9B%E8%A1%8C%E5%A4%87%E4%BB%BD%E4%B8%8E%E8%BF%98%E5%8E%9F)   
+
 #### SQLite
 
 [SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
