@@ -93,6 +93,8 @@ If you have any questions about My_Note, you can create issues.
 
 [解决问题的思路（举例：网站的某个页面无法正常显示）](https://github.com/zLulus/My_Note/wiki/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%B7%AF%EF%BC%88%E4%B8%BE%E4%BE%8B%EF%BC%9A%E7%BD%91%E7%AB%99%E7%9A%84%E6%9F%90%E4%B8%AA%E9%A1%B5%E9%9D%A2%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%EF%BC%89)
 
+[解决问题的思路（举例：windows服务器环境问题）](https://github.com/zLulus/My_Note/wiki/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%B7%AF%EF%BC%88%E4%B8%BE%E4%BE%8B%EF%BC%9Awindows%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8E%AF%E5%A2%83%E9%97%AE%E9%A2%98%EF%BC%89)
+
 [定律法则](https://github.com/zLulus/My_Note/wiki/%E5%AE%9A%E5%BE%8B%E6%B3%95%E5%88%99)
 
 ## 文章收藏
