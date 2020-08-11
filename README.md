@@ -1126,6 +1126,8 @@ If you have any questions about My_Note, you can create issues.
 ## 动画
 [WPF 动画](https://github.com/zLulus/My_Note/wiki/WPF-%E5%8A%A8%E7%94%BB)
 
+[加载动画](https://github.com/zLulus/My_Note/wiki/%E5%8A%A0%E8%BD%BD%E5%8A%A8%E7%94%BB)
+
 ## 一些效果的实现
 
 [Binding控件某个属性](https://github.com/zLulus/My_Note/wiki/Binding%E6%8E%A7%E4%BB%B6%E6%9F%90%E4%B8%AA%E5%B1%9E%E6%80%A7)
