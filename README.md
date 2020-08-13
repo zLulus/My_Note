@@ -1114,6 +1114,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ListView DataTemplate & ItemsControl](https://github.com/zLulus/My_Note/wiki/ListView-DataTemplate-&-ItemsControl)
 
+[获得Template中的控件](https://github.com/zLulus/My_Note/wiki/%E8%8E%B7%E5%BE%97Template%E4%B8%AD%E7%9A%84%E6%8E%A7%E4%BB%B6)
+
 ## Trigger
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
