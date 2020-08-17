@@ -1196,6 +1196,8 @@ If you have any questions about My_Note, you can create issues.
 
 [动态加载用户控件](https://github.com/zLulus/My_Note/wiki/%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6)
 
+[WPF中Window的ShowInTaskbar、Owner和Topmost属性](https://github.com/zLulus/My_Note/wiki/WPF%E4%B8%ADWindow%E7%9A%84ShowInTaskbar%E3%80%81Owner%E5%92%8CTopmost%E5%B1%9E%E6%80%A7)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
