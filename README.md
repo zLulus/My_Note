@@ -1052,6 +1052,8 @@ If you have any questions about My_Note, you can create issues.
 
 [MultiBinding](https://github.com/zLulus/My_Note/wiki/MultiBinding)
 
+[MultiBinding 和 Converter](https://github.com/zLulus/My_Note/wiki/MultiBinding-%E5%92%8C-Converter)
+
 [DependencyProperty和INotifyPropertyChanged](https://github.com/zLulus/My_Note/wiki/DependencyProperty%E5%92%8CINotifyPropertyChanged)
 
 [DataGrid的Converter获得每行的数据](https://github.com/zLulus/My_Note/wiki/DataGrid%E7%9A%84Converter%E8%8E%B7%E5%BE%97%E6%AF%8F%E8%A1%8C%E7%9A%84%E6%95%B0%E6%8D%AE)
