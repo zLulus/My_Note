@@ -433,6 +433,9 @@ If you have any questions about My_Note, you can create issues.
 
 [GET请求和POST请求的区别](https://github.com/zLulus/My_Note/wiki/GET%E8%AF%B7%E6%B1%82%E5%92%8CPOST%E8%AF%B7%E6%B1%82%E7%9A%84%E5%8C%BA%E5%88%AB)
 
+## 其他
+[aspx “路由”](https://github.com/zLulus/My_Note/wiki/aspx-%E2%80%9C%E8%B7%AF%E7%94%B1%E2%80%9D)
+
 # .net core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
