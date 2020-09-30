@@ -1208,6 +1208,8 @@ If you have any questions about My_Note, you can create issues.
 
 [动态加载用户控件](https://github.com/zLulus/My_Note/wiki/%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E7%94%A8%E6%88%B7%E6%8E%A7%E4%BB%B6)
 
+[自定义内容的弹窗](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%86%85%E5%AE%B9%E7%9A%84%E5%BC%B9%E7%AA%97)
+
 #### ShowInTaskbar
 [WPF中Window的ShowInTaskbar、Owner和Topmost属性](https://github.com/zLulus/My_Note/wiki/WPF%E4%B8%ADWindow%E7%9A%84ShowInTaskbar%E3%80%81Owner%E5%92%8CTopmost%E5%B1%9E%E6%80%A7)
 
