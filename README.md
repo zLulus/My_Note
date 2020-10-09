@@ -1217,6 +1217,13 @@ If you have any questions about My_Note, you can create issues.
 
 [解决ShowInTaskbar=false的窗口在失去焦点后无法找到的问题](https://github.com/zLulus/My_Note/wiki/%E8%A7%A3%E5%86%B3ShowInTaskbar=false%E7%9A%84%E7%AA%97%E5%8F%A3%E5%9C%A8%E5%A4%B1%E5%8E%BB%E7%84%A6%E7%82%B9%E5%90%8E%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
 
+#### 验证表单
+[WPF 验证表单方法1](https://github.com/zLulus/My_Note/wiki/WPF-%E9%AA%8C%E8%AF%81%E8%A1%A8%E5%8D%95%E6%96%B9%E6%B3%951)
+
+[WPF 验证表单方法2](https://github.com/zLulus/My_Note/wiki/WPF-%E9%AA%8C%E8%AF%81%E8%A1%A8%E5%8D%95%E6%96%B9%E6%B3%952)
+
+[WPF 验证表单方法3（弹窗）](https://github.com/zLulus/My_Note/wiki/WPF-%E9%AA%8C%E8%AF%81%E8%A1%A8%E5%8D%95%E6%96%B9%E6%B3%953%EF%BC%88%E5%BC%B9%E7%AA%97%EF%BC%89)
+
 ## CefSharp
 [CefSharp For WPF基本使用](https://github.com/zLulus/My_Note/wiki/CefSharp-For-WPF%E5%93%8D%E5%BA%94%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6)
 
