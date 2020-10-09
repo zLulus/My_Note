@@ -738,6 +738,8 @@ If you have any questions about My_Note, you can create issues.
 
 [sql 分组取最大值](https://github.com/zLulus/My_Note/wiki/sql-%E5%88%86%E7%BB%84%E5%8F%96%E6%9C%80%E5%A4%A7%E5%80%BC)
 
+[sql AND & OR & ()运算符优先级](https://github.com/zLulus/My_Note/wiki/sql-AND-&-OR-&-()%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7)
+
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
