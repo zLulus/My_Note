@@ -874,6 +874,8 @@ If you have any questions about My_Note, you can create issues.
 #### Mysql
 [Mysql存储引擎](https://github.com/zLulus/My_Note/wiki/Mysql%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E)
 
+[Mysql 开启远程连接](https://github.com/zLulus/My_Note/wiki/Mysql-%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5)
+
 [MySQL 执行原生sql](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%94%9Fsql)
 
 [MySql常用内容](https://github.com/zLulus/My_Note/wiki/MySql%E5%B8%B8%E7%94%A8%E5%86%85%E5%AE%B9)
