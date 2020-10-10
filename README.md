@@ -1713,7 +1713,8 @@ If you have any questions about My_Note, you can create issues.
 [需求分析杂记](https://github.com/zLulus/My_Note/wiki/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%9D%82%E8%AE%B0)
 
 # linux
-[linux 创建实例、登录、设置ssh](https://github.com/zLulus/My_Note/wiki/linux-%E5%88%9B%E5%BB%BA%E5%AE%9E%E4%BE%8B%E3%80%81%E7%99%BB%E5%BD%95%E3%80%81%E8%AE%BE%E7%BD%AEssh)
+
+[ubuntu常识](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86)
 
 [linux 安装mysql & sql server数据库](https://github.com/zLulus/My_Note/wiki/linux-%E5%AE%89%E8%A3%85mysql-&-sql-server%E6%95%B0%E6%8D%AE%E5%BA%93)
 
@@ -1747,8 +1748,6 @@ If you have any questions about My_Note, you can create issues.
 [前端门户加载优化思路](https://github.com/zLulus/My_Note/wiki/%E5%89%8D%E7%AB%AF%E9%97%A8%E6%88%B7%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF)
 
 [本机桌面程序和web程序的通讯](https://github.com/zLulus/My_Note/wiki/%E6%9C%AC%E6%9C%BA%E6%A1%8C%E9%9D%A2%E7%A8%8B%E5%BA%8F%E5%92%8Cweb%E7%A8%8B%E5%BA%8F%E7%9A%84%E9%80%9A%E8%AE%AF)
-
-[ubuntu常识](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86)
 
 [vpn搭建(Shadowsocks)](https://github.com/zLulus/My_Note/wiki/vpn%E6%90%AD%E5%BB%BA(Shadowsocks))
 
