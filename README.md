@@ -710,8 +710,6 @@ If you have any questions about My_Note, you can create issues.
 
 [sql 1=1](https://github.com/zLulus/My_Note/wiki/sql-1=1)
 
-[SQL基础+关键字](https://github.com/zLulus/My_Note/wiki/SQL%E5%9F%BA%E7%A1%80-%E5%85%B3%E9%94%AE%E5%AD%97)
-
 [通配符](https://github.com/zLulus/My_Note/wiki/%E9%80%9A%E9%85%8D%E7%AC%A6)
 
 [典型示例](https://github.com/zLulus/My_Note/wiki/%E5%85%B8%E5%9E%8B%E7%A4%BA%E4%BE%8B)
@@ -721,8 +719,6 @@ If you have any questions about My_Note, you can create issues.
 [子查询：相关子查询、无关子查询](https://github.com/zLulus/My_Note/wiki/%E5%AD%90%E6%9F%A5%E8%AF%A2%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2%E3%80%81%E6%97%A0%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2)
 
 [sql in(inner join)](https://github.com/zLulus/My_Note/wiki/sql-in(inner-join))
-
-[MSSQL](https://github.com/zLulus/My_Note/wiki/MSSQL)
 
 [sql count(1)不要和查询数据混用 非常耗时](https://github.com/zLulus/My_Note/wiki/sql-count(1)%E4%B8%8D%E8%A6%81%E5%92%8C%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%B7%B7%E7%94%A8--%E9%9D%9E%E5%B8%B8%E8%80%97%E6%97%B6)
 
@@ -748,6 +744,8 @@ If you have any questions about My_Note, you can create issues.
 [SQL语句——数据操纵](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E6%93%8D%E7%BA%B5)
 
 [SQL语句——数据控制](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E6%8E%A7%E5%88%B6)
+
+[SQL规范](https://github.com/zLulus/My_Note/wiki/SQL%E8%A7%84%E8%8C%83)
 
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
