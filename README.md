@@ -694,6 +694,8 @@ If you have any questions about My_Note, you can create issues.
 [css盒子模型](https://github.com/zLulus/My_Note/wiki/css%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B)
 
 # sql
+sql在各数据库语法略有不同，以下主要以sql server数据库为主进行说明
+
 [sql like N'%...%' 在C#里的写法](https://github.com/zLulus/My_Note/wiki/sql-like-N'%25...%25'-%E5%9C%A8C%23%E9%87%8C%E7%9A%84%E5%86%99%E6%B3%95)
 
 [sql 循环 随机数创建数据](https://github.com/zLulus/My_Note/wiki/sql-%E5%BE%AA%E7%8E%AF-%E9%9A%8F%E6%9C%BA%E6%95%B0%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE)
@@ -744,6 +746,16 @@ If you have any questions about My_Note, you can create issues.
 [SQL语句——数据控制](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E6%8E%A7%E5%88%B6)
 
 [SQL规范](https://github.com/zLulus/My_Note/wiki/SQL%E8%A7%84%E8%8C%83)
+
+###### sql server sql
+
+[sql 变量](https://github.com/zLulus/My_Note/wiki/sql-%E5%8F%98%E9%87%8F)
+
+[SQL NULL](https://github.com/zLulus/My_Note/wiki/SQL-NULL)
+
+[sql 空间数据](https://github.com/zLulus/My_Note/wiki/sql-%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
+
+[sql 数据库&表备份与还原](https://github.com/zLulus/My_Note/wiki/sql-%E6%95%B0%E6%8D%AE%E5%BA%93&%E8%A1%A8%E5%A4%87%E4%BB%BD%E4%B8%8E%E8%BF%98%E5%8E%9F)
 
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
@@ -858,18 +870,6 @@ If you have any questions about My_Note, you can create issues.
 [sql server空间数据](https://github.com/zLulus/My_Note/wiki/sql-server%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
 
 [sql server & .net core 使用空间数据](https://github.com/zLulus/My_Note/wiki/sql-server-&-.net-core-%E4%BD%BF%E7%94%A8%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
-
-[sql server 数据定义常用sql](https://github.com/zLulus/My_Note/wiki/sql-server-%E6%95%B0%E6%8D%AE%E5%AE%9A%E4%B9%89%E5%B8%B8%E7%94%A8sql)
-
-###### sql server sql
-
-[sql 变量](https://github.com/zLulus/My_Note/wiki/sql-%E5%8F%98%E9%87%8F)
-
-[SQL NULL](https://github.com/zLulus/My_Note/wiki/SQL-NULL)
-
-[sql 空间数据](https://github.com/zLulus/My_Note/wiki/sql-%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE)
-
-[sql 数据库&表备份与还原](https://github.com/zLulus/My_Note/wiki/sql-%E6%95%B0%E6%8D%AE%E5%BA%93&%E8%A1%A8%E5%A4%87%E4%BB%BD%E4%B8%8E%E8%BF%98%E5%8E%9F)
 
 #### Oracle
 [Oracle 连接的问题](https://github.com/zLulus/My_Note/wiki/Oracle-%E8%BF%9E%E6%8E%A5%E7%9A%84%E9%97%AE%E9%A2%98)
