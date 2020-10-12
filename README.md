@@ -714,8 +714,6 @@ If you have any questions about My_Note, you can create issues.
 
 [典型示例](https://github.com/zLulus/My_Note/wiki/%E5%85%B8%E5%9E%8B%E7%A4%BA%E4%BE%8B)
 
-[SQL之Grant(分配权限)和Revoke(回收权限)](https://github.com/zLulus/My_Note/wiki/SQL%E4%B9%8BGrant(%E5%88%86%E9%85%8D%E6%9D%83%E9%99%90)%E5%92%8CRevoke(%E5%9B%9E%E6%94%B6%E6%9D%83%E9%99%90))
-
 [子查询：相关子查询、无关子查询](https://github.com/zLulus/My_Note/wiki/%E5%AD%90%E6%9F%A5%E8%AF%A2%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2%E3%80%81%E6%97%A0%E5%85%B3%E5%AD%90%E6%9F%A5%E8%AF%A2)
 
 [sql in(inner join)](https://github.com/zLulus/My_Note/wiki/sql-in(inner-join))
