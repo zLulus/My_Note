@@ -740,6 +740,15 @@ If you have any questions about My_Note, you can create issues.
 
 [sql AND & OR & ()运算符优先级](https://github.com/zLulus/My_Note/wiki/sql-AND-&-OR-&-()%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7)
 
+## SQL基础
+[SQL语句类型](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E7%B1%BB%E5%9E%8B)
+
+[SQL语句——数据定义](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%AE%9A%E4%B9%89)
+
+[SQL语句——数据操纵](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E6%93%8D%E7%BA%B5)
+
+[SQL语句——数据控制](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E6%8E%A7%E5%88%B6)
+
 # 数据库
 [数据库关系](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB)
 
