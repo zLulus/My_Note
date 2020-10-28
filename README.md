@@ -312,6 +312,8 @@ If you have any questions about My_Note, you can create issues.
 
 [WCF的几个注意事项](https://github.com/zLulus/My_Note/wiki/WCF%E7%9A%84%E5%87%A0%E4%B8%AA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
+[WCF 32位程序调试报错](https://github.com/zLulus/My_Note/wiki/WCF-32%E4%BD%8D%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95%E6%8A%A5%E9%94%99)
+
 ## Rest
 
 [RESTful API](https://github.com/zLulus/My_Note/wiki/RESTful-API)
