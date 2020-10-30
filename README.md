@@ -822,6 +822,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [java数据库连接(JDBC)](https://github.com/zLulus/My_Note/wiki/java%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5)
 
+[锁](https://github.com/zLulus/My_Note/wiki/%E9%94%81)
+
 [死锁](https://github.com/zLulus/My_Note/wiki/%E6%AD%BB%E9%94%81)
 
 [事务](https://github.com/zLulus/My_Note/wiki/%E4%BA%8B%E5%8A%A1)
