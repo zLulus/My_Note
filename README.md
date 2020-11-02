@@ -1771,3 +1771,5 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 [模拟浏览器访问](https://github.com/zLulus/My_Note/wiki/%E6%A8%A1%E6%8B%9F%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BF%E9%97%AE)
 
 [爬虫 && 数据分析](https://github.com/zLulus/My_Note/wiki/%E7%88%AC%E8%99%AB-&&-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
+
+[C#实现OBB碰撞算法](https://github.com/zLulus/My_Note/wiki/C%23%E5%AE%9E%E7%8E%B0OBB%E7%A2%B0%E6%92%9E%E7%AE%97%E6%B3%95)
