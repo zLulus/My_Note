@@ -1397,6 +1397,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [请使用 MakeValid 将该实例转换为有效实例](https://github.com/zLulus/My_Note/wiki/%E8%AF%B7%E4%BD%BF%E7%94%A8-MakeValid-%E5%B0%86%E8%AF%A5%E5%AE%9E%E4%BE%8B%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%9C%89%E6%95%88%E5%AE%9E%E4%BE%8B)
 
+[基于ArcGIS开发动态视域效果](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EArcGIS%E5%BC%80%E5%8F%91%E5%8A%A8%E6%80%81%E8%A7%86%E5%9F%9F%E6%95%88%E6%9E%9C)
+
 ## CityEngine
 
 [CityEngine流程](https://github.com/zLulus/My_Note/wiki/CityEngine%E6%B5%81%E7%A8%8B)
