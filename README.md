@@ -1399,6 +1399,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [基于ArcGIS开发动态视域效果](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EArcGIS%E5%BC%80%E5%8F%91%E5%8A%A8%E6%80%81%E8%A7%86%E5%9F%9F%E6%95%88%E6%9E%9C)
 
+[基于ArcGIS开发3D立方体空间关系判断](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E4%BA%8EArcGIS%E5%BC%80%E5%8F%913D%E7%AB%8B%E6%96%B9%E4%BD%93%E7%A9%BA%E9%97%B4%E5%85%B3%E7%B3%BB%E5%88%A4%E6%96%AD)
+
 ## CityEngine
 
 [CityEngine流程](https://github.com/zLulus/My_Note/wiki/CityEngine%E6%B5%81%E7%A8%8B)
