@@ -880,6 +880,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Oracle sql](https://github.com/zLulus/My_Note/wiki/Oracle-sql)
 
+[Oracle 导出 & 导入](https://github.com/zLulus/My_Note/wiki/Oracle-%E5%AF%BC%E5%87%BA-&-%E5%AF%BC%E5%85%A5)
+
 [Oracle : ORA 00933: SQL command not properly ended](https://github.com/zLulus/My_Note/wiki/Oracle-:-ORA-00933:-SQL-command-not-properly-ended)
 
 #### Mysql
