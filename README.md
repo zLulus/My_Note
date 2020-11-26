@@ -1,11 +1,11 @@
 If you have any questions about My_Note, you can create issues.
 
 # My Note
-[CSharpLearn](https://github.com/zLulus/CSharpLearn)
+[❤CSharpLearn](https://github.com/zLulus/CSharpLearn)
 
-[技术路线](#技术路线)
+[📗技术路线](#技术路线)
 
-[.net](#net)
+[📘.net](#net)
 
 [WCF](#wcf)
 
@@ -13,7 +13,7 @@ If you have any questions about My_Note, you can create issues.
 
 [ASP .NET](#asp-net)
 
-[.net core](#net-core)
+[📘.net core](#net-core)
 
 [javascript && jQuery](#javascript--jquery)
 
@@ -33,7 +33,7 @@ If you have any questions about My_Note, you can create issues.
 
 [css](#css)
 
-[sql](#sql)
+[📗sql](#sql)
 
 [数据库](#数据库)
 
@@ -49,7 +49,7 @@ If you have any questions about My_Note, you can create issues.
 
 [操作系统](#操作系统)
 
-[WPF ٩(๑òωó๑)۶](#wpf)
+[📘WPF ٩(๑òωó๑)۶](#wpf)
 
 [Windows Service](#windows-service)
 
@@ -69,7 +69,7 @@ If you have any questions about My_Note, you can create issues.
 
 [微信](#微信)
 
-[计算机基本知识](#计算机基本知识)
+[📗计算机基本知识](#计算机基本知识)
 
 [机器学习 Ծ‸Ծ](#机器学习)
 
