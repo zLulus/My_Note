@@ -1155,6 +1155,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Trigger](https://github.com/zLulus/My_Note/wiki/Trigger)
 
+[调试触发器](https://github.com/zLulus/My_Note/wiki/%E8%B0%83%E8%AF%95%E8%A7%A6%E5%8F%91%E5%99%A8)
+
 ## Action
 [Action](https://github.com/zLulus/My_Note/wiki/Action)
 
