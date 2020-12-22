@@ -897,6 +897,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Mysql 使用mysqldump进行备份与还原](https://github.com/zLulus/My_Note/wiki/Mysql-%E4%BD%BF%E7%94%A8mysqldump%E8%BF%9B%E8%A1%8C%E5%A4%87%E4%BB%BD%E4%B8%8E%E8%BF%98%E5%8E%9F)   
 
+[Mysql 查询执行计划](https://github.com/zLulus/My_Note/wiki/Mysql-%E6%9F%A5%E8%AF%A2%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92)
+
 #### SQLite
 
 [SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
