@@ -1083,6 +1083,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [DataGrid的Converter获得每行的数据](https://github.com/zLulus/My_Note/wiki/DataGrid%E7%9A%84Converter%E8%8E%B7%E5%BE%97%E6%AF%8F%E8%A1%8C%E7%9A%84%E6%95%B0%E6%8D%AE)
 
+[如何Debug数据绑定](https://github.com/zLulus/My_Note/wiki/%E5%A6%82%E4%BD%95Debug%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
+
 ### 资源文件
 
 [资源文件的适用范围](https://github.com/zLulus/My_Note/wiki/%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4)
