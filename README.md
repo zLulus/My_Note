@@ -882,6 +882,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Oracle : ORA 00933: SQL command not properly ended](https://github.com/zLulus/My_Note/wiki/Oracle-:-ORA-00933:-SQL-command-not-properly-ended)
 
+[使用Oracle OracleBulkCopy遇到的问题](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8Oracle-OracleBulkCopy%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
+
 #### Mysql
 [Mysql存储引擎](https://github.com/zLulus/My_Note/wiki/Mysql%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E)
 
