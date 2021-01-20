@@ -1674,6 +1674,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [查看文件类型](https://github.com/zLulus/My_Note/wiki/%E6%9F%A5%E7%9C%8B%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B)
 
+[理解localhost、127.0.0.1和0.0.0.0](https://github.com/zLulus/My_Note/wiki/%E7%90%86%E8%A7%A3localhost%E3%80%81127.0.0.1%E5%92%8C0.0.0.0)
+
 ## CI/CD工具(持续集成/持续部署工具)
 
 [持续集成](https://github.com/zLulus/My_Note/wiki/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90)
