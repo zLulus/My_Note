@@ -931,6 +931,10 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MongoDB 增删改查基本操作](https://github.com/zLulus/My_Note/wiki/MongoDB-%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
 
+## 数据库比较
+
+[PostgreSQL vs MySQL: The Critical Differences](https://www.xplenty.com/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/)
+
 # EF
 [EF性能优化](https://github.com/zLulus/My_Note/wiki/EF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
