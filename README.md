@@ -101,6 +101,8 @@ If you have any questions about My_Note, you can create issues.
 
 [「代码家」的学习过程和学习经验分享](https://github.com/zLulus/My_Note/wiki/%E3%80%8C%E4%BB%A3%E7%A0%81%E5%AE%B6%E3%80%8D%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
 
+[PostgreSQL vs MySQL: The Critical Differences](https://www.xplenty.com/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/)
+
 # .NET
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
@@ -935,10 +937,6 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 [MongoDB](https://github.com/zLulus/My_Note/wiki/MongoDB)
 
 [MongoDB 增删改查基本操作](https://github.com/zLulus/My_Note/wiki/MongoDB-%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
-
-## 数据库比较
-
-[PostgreSQL vs MySQL: The Critical Differences](https://www.xplenty.com/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/)
 
 # EF
 [EF性能优化](https://github.com/zLulus/My_Note/wiki/EF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
