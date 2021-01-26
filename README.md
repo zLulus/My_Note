@@ -157,10 +157,6 @@ If you have any questions about My_Note, you can create issues.
 
 [byte[] && 二进制 && 十进制 && 十六进制](https://github.com/zLulus/My_Note/wiki/byte%5B%5D-&&-%E4%BA%8C%E8%BF%9B%E5%88%B6-&&-%E5%8D%81%E8%BF%9B%E5%88%B6-&&-%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6)
 
-[.net for TCP服务端 && 客户端(Socket)](https://github.com/zLulus/My_Note/wiki/.net-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF(Socket))
-
-[Socket粘包](https://github.com/zLulus/My_Note/wiki/Socket%E7%B2%98%E5%8C%85)
-
 [设置HttpClient的授权Header](https://github.com/zLulus/My_Note/wiki/%E8%AE%BE%E7%BD%AEHttpClient%E7%9A%84%E6%8E%88%E6%9D%83Header)
 
 [递归和迭代](https://github.com/zLulus/My_Note/wiki/%E9%80%92%E5%BD%92%E5%92%8C%E8%BF%AD%E4%BB%A3)
@@ -279,6 +275,13 @@ If you have any questions about My_Note, you can create issues.
 [基类、子类之间的类型转换](https://github.com/zLulus/My_Note/wiki/%E5%9F%BA%E7%B1%BB%E3%80%81%E5%AD%90%E7%B1%BB%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
 
 [自定义显隐式类型转换](https://github.com/zLulus/My_Note/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%98%BE%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)
+
+## C# & TCP
+[.NET for TCP服务端 && 客户端(原生Socket)](https://github.com/zLulus/My_Note/wiki/.NET-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF(%E5%8E%9F%E7%94%9FSocket))
+
+[.NET for TCP服务端 && 客户端(BeetleX)](https://github.com/zLulus/My_Note/wiki/.NET-for-TCP%E6%9C%8D%E5%8A%A1%E7%AB%AF-&&-%E5%AE%A2%E6%88%B7%E7%AB%AF(BeetleX))
+
+[Socket粘包](https://github.com/zLulus/My_Note/wiki/Socket%E7%B2%98%E5%8C%85)
 
 ## 消息队列
 ### RabbitMQ
