@@ -269,6 +269,8 @@ If you have any questions about My_Note, you can create issues.
 ## 反射
 [C# 反射](https://github.com/zLulus/My_Note/wiki/C%23-%E5%8F%8D%E5%B0%84)
 
+[反射 BindingFlags 枚举](https://github.com/zLulus/My_Note/wiki/%E5%8F%8D%E5%B0%84-BindingFlags-%E6%9E%9A%E4%B8%BE)
+
 [反射 循环属性、字段赋值](https://github.com/zLulus/My_Note/wiki/%E5%8F%8D%E5%B0%84-%E5%BE%AA%E7%8E%AF%E5%B1%9E%E6%80%A7%E3%80%81%E5%AD%97%E6%AE%B5%E8%B5%8B%E5%80%BC)
 
 [DataTable转换为Entity(反射&&泛型)](https://github.com/zLulus/My_Note/wiki/DataTable%E8%BD%AC%E6%8D%A2%E4%B8%BAEntity(%E5%8F%8D%E5%B0%84&&%E6%B3%9B%E5%9E%8B))
