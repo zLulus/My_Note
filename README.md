@@ -217,6 +217,8 @@ If you have any questions about My_Note, you can create issues.
 
 [FTP自建服务器与C#访问](https://github.com/zLulus/My_Note/wiki/FTP%E8%87%AA%E5%BB%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8EC%23%E8%AE%BF%E9%97%AE)
 
+[C# 字符串公式计算](https://github.com/zLulus/My_Note/wiki/C%23-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%85%AC%E5%BC%8F%E8%AE%A1%E7%AE%97)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
