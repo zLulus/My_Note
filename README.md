@@ -483,8 +483,6 @@ If you have any questions about My_Note, you can create issues.
 
 [.net core service && angular项目 iis发布](https://github.com/zLulus/My_Note/wiki/.net-core-service-&&-angular%E9%A1%B9%E7%9B%AE-iis%E5%8F%91%E5%B8%83)
 
-[.net core图片相关操作](https://github.com/zLulus/My_Note/wiki/.net-core%E5%9B%BE%E7%89%87%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C)
-
 [.net core调用C++库](https://github.com/zLulus/My_Note/wiki/.net-core%E8%B0%83%E7%94%A8C-plus-plus%E5%BA%93)
 
 [ASP.NET Core 管道和中间件(pipeline)](https://github.com/zLulus/My_Note/wiki/ASP.NET-Core-%E7%AE%A1%E9%81%93%E5%92%8C%E4%B8%AD%E9%97%B4%E4%BB%B6(pipeline))
