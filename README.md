@@ -105,6 +105,8 @@ If you have any questions about My_Note, you can create issues.
 
 [RESTful API如何进行版本控制](https://mp.weixin.qq.com/s/V9OhqZOBqdBiuWzGuhTWbw)
 
+[外部排序（归并排序）](https://www.cnblogs.com/guozepingboke/p/10750691.html)
+
 # .NET
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
