@@ -109,6 +109,8 @@ If you have any questions about My_Note, you can create issues.
 
 [微软MVP精选 | dotnet 读 WPF 源代码笔记 XAML 创建对象的方法](https://mp.weixin.qq.com/s/hLkEhzcJrX3jJDPeSmv1XA)
 
+[《软件架构》缓存技术](http://ifeve.com/caching-techniques/)
+
 # .NET
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
