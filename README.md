@@ -107,6 +107,8 @@ If you have any questions about My_Note, you can create issues.
 
 [外部排序（归并排序）](https://www.cnblogs.com/guozepingboke/p/10750691.html)
 
+[微软MVP精选 | dotnet 读 WPF 源代码笔记 XAML 创建对象的方法](https://mp.weixin.qq.com/s/hLkEhzcJrX3jJDPeSmv1XA)
+
 # .NET
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
