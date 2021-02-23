@@ -227,6 +227,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# 字符串公式计算](https://github.com/zLulus/My_Note/wiki/C%23-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%85%AC%E5%BC%8F%E8%AE%A1%E7%AE%97)
 
+[The request was aborted: Could not create SSL TLS secure channel.](https://github.com/zLulus/My_Note/wiki/The-request-was-aborted:-Could-not-create-SSL-TLS-secure-channel.)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
