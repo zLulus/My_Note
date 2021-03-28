@@ -1271,6 +1271,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [WPF 选择文件夹](https://github.com/zLulus/My_Note/wiki/WPF-%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6%E5%A4%B9)
 
+[WPF 以管理员身份运行](https://github.com/zLulus/My_Note/wiki/WPF-%E4%BB%A5%E7%AE%A1%E7%90%86%E5%91%98%E8%BA%AB%E4%BB%BD%E8%BF%90%E8%A1%8C)
+
 #### ShowInTaskbar
 [WPF中Window的ShowInTaskbar、Owner和Topmost属性](https://github.com/zLulus/My_Note/wiki/WPF%E4%B8%ADWindow%E7%9A%84ShowInTaskbar%E3%80%81Owner%E5%92%8CTopmost%E5%B1%9E%E6%80%A7)
 
