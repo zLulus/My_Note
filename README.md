@@ -570,6 +570,8 @@ If you have any questions about My_Note, you can create issues.
 
 [git stash](https://github.com/zLulus/My_Note/wiki/git-stash)
 
+[git清除提交记录](https://github.com/zLulus/My_Note/wiki/git%E6%B8%85%E9%99%A4%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
+
 # AngularJS
 
 [AngularJS 简介](https://github.com/zLulus/My_Note/wiki/AngularJS-%E7%AE%80%E4%BB%8B)
