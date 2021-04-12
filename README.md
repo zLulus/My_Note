@@ -505,6 +505,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ASP .NET Core Get请求参数为数组](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Core-Get%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0%E4%B8%BA%E6%95%B0%E7%BB%84)
 
+[ASP .NET Core 发布到linux系统](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Core-%E5%8F%91%E5%B8%83%E5%88%B0linux%E7%B3%BB%E7%BB%9F)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
