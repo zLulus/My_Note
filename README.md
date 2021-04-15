@@ -235,6 +235,8 @@ If you have any questions about My_Note, you can create issues.
 
 [.NET程序调试的几种思路](https://github.com/zLulus/My_Note/wiki/.NET%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95%E7%9A%84%E5%87%A0%E7%A7%8D%E6%80%9D%E8%B7%AF)
 
+[C# Windows重启程序](https://github.com/zLulus/My_Note/wiki/C%23-Windows%E9%87%8D%E5%90%AF%E7%A8%8B%E5%BA%8F)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
