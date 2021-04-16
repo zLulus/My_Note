@@ -1795,6 +1795,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 # linux
 
+[Linux常用命令](https://github.com/zLulus/My_Note/wiki/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)
+
 [ubuntu常识](https://github.com/zLulus/My_Note/wiki/ubuntu%E5%B8%B8%E8%AF%86)
 
 [linux 安装mysql & sql server数据库](https://github.com/zLulus/My_Note/wiki/linux-%E5%AE%89%E8%A3%85mysql-&-sql-server%E6%95%B0%E6%8D%AE%E5%BA%93)
