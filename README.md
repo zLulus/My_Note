@@ -1801,6 +1801,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [linux 安装mysql & sql server数据库](https://github.com/zLulus/My_Note/wiki/linux-%E5%AE%89%E8%A3%85mysql-&-sql-server%E6%95%B0%E6%8D%AE%E5%BA%93)
 
+[linux使用supervisor](https://github.com/zLulus/My_Note/wiki/linux%E4%BD%BF%E7%94%A8supervisor)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
