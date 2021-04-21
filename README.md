@@ -101,6 +101,10 @@ If you have any questions about My_Note, you can create issues.
 
 ## 文章收藏
 
+[.NET 全栈开发工程师学习路径](https://www.cnblogs.com/edisonchou/p/the_way_to_fullstack_dotnet_programmer.html)
+
+[.NET Core 微服务架构学习与实践系列文章目录](https://www.cnblogs.com/edisonchou/p/dotnetcore_microservice_foundation_blogs_index_final.html)
+
 [墙裂推荐：这可能是CAP理论的最好解释](https://mp.weixin.qq.com/s/ODHBl38zpPCjn6f637-AEA)
 
 [「代码家」的学习过程和学习经验分享](https://github.com/zLulus/My_Note/wiki/%E3%80%8C%E4%BB%A3%E7%A0%81%E5%AE%B6%E3%80%8D%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
