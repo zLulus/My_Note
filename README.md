@@ -523,6 +523,10 @@ If you have any questions about My_Note, you can create issues.
 
 [Ocelot](https://github.com/zLulus/My_Note/wiki/Ocelot)
 
+#### 微服务
+
+[微服务中的通讯](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%AD%E7%9A%84%E9%80%9A%E8%AE%AF)
+
 ## IdentityServer
 [IdentityServer的基本概念与特性](https://github.com/zLulus/My_Note/wiki/IdentityServer%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E6%80%A7)
 
