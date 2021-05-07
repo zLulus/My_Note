@@ -1123,6 +1123,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [优秀的WPF UI库](https://github.com/zLulus/My_Note/wiki/%E4%BC%98%E7%A7%80%E7%9A%84WPF-UI%E5%BA%93)
 
+[WPF 本地化（比如DatePicker）](https://github.com/zLulus/My_Note/wiki/WPF-%E6%9C%AC%E5%9C%B0%E5%8C%96%EF%BC%88%E6%AF%94%E5%A6%82DatePicker%EF%BC%89)
+
 ### Binding
 
 [数据绑定：数据源Source-目标Target](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%BA%90Source-%E7%9B%AE%E6%A0%87Target)
