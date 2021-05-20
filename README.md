@@ -503,6 +503,8 @@ If you have any questions about My_Note, you can create issues.
 
 [.net core 获得方法名](https://github.com/zLulus/My_Note/wiki/.net-core-%E8%8E%B7%E5%BE%97%E6%96%B9%E6%B3%95%E5%90%8D)
 
+[转储和分析.NET Core 中的内存泄漏OOM (dotnet dump)](https://github.com/zLulus/My_Note/wiki/%E8%BD%AC%E5%82%A8%E5%92%8C%E5%88%86%E6%9E%90.NET-Core-%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8FOOM-(dotnet-dump))
+
 ## ASP .NET Core
 
 [ASP.NET Core 配置身份验证](https://github.com/zLulus/My_Note/wiki/ASP.NET-Core-%E9%85%8D%E7%BD%AE%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81)
