@@ -121,6 +121,8 @@ If you have any questions about My_Note, you can create issues.
 
 [在 C# 中生成代码的四种方式——包括.NET 5中的Source Generators](https://mp.weixin.qq.com/s/I3uuiWwtJwBnsRchPlYx1g)
 
+[Distributed data(分布式数据)](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-data?WT.mc_id=DT-MVP-5003010)
+
 # .NET
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
