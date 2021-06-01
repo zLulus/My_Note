@@ -868,8 +868,6 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Dapper简介](https://github.com/zLulus/My_Note/wiki/Dapper%E7%AE%80%E4%BB%8B)
 
-[数据库分库分表思路](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%80%9D%E8%B7%AF)
-
 [数据库操纵基本思路](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E7%BA%B5%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF)
 
 [数据库引擎](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%95%E6%93%8E)
@@ -895,7 +893,7 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 #### 历史数据处理 & 集群 & 分布式
 [历史数据处理](https://github.com/zLulus/My_Note/wiki/%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86)
 
-[水平分表和垂直分表](https://github.com/zLulus/My_Note/wiki/%E6%B0%B4%E5%B9%B3%E5%88%86%E8%A1%A8%E5%92%8C%E5%9E%82%E7%9B%B4%E5%88%86%E8%A1%A8)
+[水平数据分区、垂直数据分区和功能数据分区](https://github.com/zLulus/My_Note/wiki/%E6%B0%B4%E5%B9%B3%E6%95%B0%E6%8D%AE%E5%88%86%E5%8C%BA%E3%80%81%E5%9E%82%E7%9B%B4%E6%95%B0%E6%8D%AE%E5%88%86%E5%8C%BA%E5%92%8C%E5%8A%9F%E8%83%BD%E6%95%B0%E6%8D%AE%E5%88%86%E5%8C%BA)
 
 [数据库集群](https://github.com/zLulus/My_Note/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9B%86%E7%BE%A4)
 
