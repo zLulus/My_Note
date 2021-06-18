@@ -796,6 +796,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [sql AND & OR & ()运算符优先级](https://github.com/zLulus/My_Note/wiki/sql-AND-&-OR-&-()%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7)
 
+[根据某条件批量修改表](https://github.com/zLulus/My_Note/wiki/%E6%A0%B9%E6%8D%AE%E6%9F%90%E6%9D%A1%E4%BB%B6%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E8%A1%A8)
+
 ## SQL基础
 [SQL语句类型](https://github.com/zLulus/My_Note/wiki/SQL%E8%AF%AD%E5%8F%A5%E7%B1%BB%E5%9E%8B)
 
