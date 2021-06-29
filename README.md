@@ -1835,6 +1835,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [linux使用supervisor](https://github.com/zLulus/My_Note/wiki/linux%E4%BD%BF%E7%94%A8supervisor)
 
+[Linux 删除日志写脚本思路](https://github.com/zLulus/My_Note/wiki/Linux-%E5%88%A0%E9%99%A4%E6%97%A5%E5%BF%97%E5%86%99%E8%84%9A%E6%9C%AC%E6%80%9D%E8%B7%AF)
+
 # 其他
 [全链路体验设计（转载）](https://github.com/zLulus/My_Note/wiki/%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
 
