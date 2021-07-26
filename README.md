@@ -251,6 +251,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ffmpeg多媒体框架](https://github.com/zLulus/My_Note/wiki/ffmpeg%E5%A4%9A%E5%AA%92%E4%BD%93%E6%A1%86%E6%9E%B6)
 
+[HttpWebResponse ReadWriteTimeout和Timeout](https://github.com/zLulus/My_Note/wiki/HttpWebResponse-ReadWriteTimeout%E5%92%8CTimeout)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
