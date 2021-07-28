@@ -324,6 +324,8 @@ If you have any questions about My_Note, you can create issues.
 ## 调试
 [Windows 调试程序 (WinDbg)](https://github.com/zLulus/My_Note/wiki/Windows-%E8%B0%83%E8%AF%95%E7%A8%8B%E5%BA%8F-(WinDbg))
 
+[调试第三方库的源代码](https://github.com/zLulus/My_Note/wiki/%E8%B0%83%E8%AF%95%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81)
+
 ## 消息队列
 ### RabbitMQ
 
