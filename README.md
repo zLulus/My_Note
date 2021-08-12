@@ -253,6 +253,8 @@ If you have any questions about My_Note, you can create issues.
 
 [HttpWebResponse ReadWriteTimeout和Timeout](https://github.com/zLulus/My_Note/wiki/HttpWebResponse-ReadWriteTimeout%E5%92%8CTimeout)
 
+[使用代码生成dump文件](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90dump%E6%96%87%E4%BB%B6)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
