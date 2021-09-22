@@ -969,6 +969,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [mysql blob类型的查询和更新](https://github.com/zLulus/My_Note/wiki/mysql-blob%E7%B1%BB%E5%9E%8B%E7%9A%84%E6%9F%A5%E8%AF%A2%E5%92%8C%E6%9B%B4%E6%96%B0)
 
+[MySQL 死锁](https://github.com/zLulus/My_Note/wiki/MySQL-%E6%AD%BB%E9%94%81)
+
 #### SQLite
 
 [SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
