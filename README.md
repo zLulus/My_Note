@@ -197,6 +197,8 @@ If you have any questions about My_Note, you can create issues.
 
 [lock语句](https://github.com/zLulus/My_Note/wiki/lock%E8%AF%AD%E5%8F%A5)
 
+[AsyncLock 异步锁](https://github.com/zLulus/My_Note/wiki/AsyncLock-%E5%BC%82%E6%AD%A5%E9%94%81)
+
 [.NET和C#](https://github.com/zLulus/My_Note/wiki/.NET%E5%92%8CC%23)
 
 [Object Equals && GetHashCode](https://github.com/zLulus/My_Note/wiki/Object-Equals-&&-GetHashCode)
