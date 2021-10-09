@@ -345,6 +345,8 @@ If you have any questions about My_Note, you can create issues.
 
 [RabbitMQ Remote procedure call (RPC)](https://github.com/zLulus/My_Note/wiki/RabbitMQ-Remote-procedure-call-(RPC))
 
+[RabbitMQ 生产者确认](https://github.com/zLulus/My_Note/wiki/RabbitMQ-%E7%94%9F%E4%BA%A7%E8%80%85%E7%A1%AE%E8%AE%A4)
+
 # WCF
 ## 基本
 
