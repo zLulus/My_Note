@@ -259,6 +259,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# Task.Delay() 和 Thread.Sleep() 区别](https://github.com/zLulus/My_Note/wiki/C%23-Task.Delay()-%E5%92%8C-Thread.Sleep()-%E5%8C%BA%E5%88%AB)
 
+[计算机性能监测](https://github.com/zLulus/My_Note/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%A7%E8%83%BD%E7%9B%91%E6%B5%8B)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
