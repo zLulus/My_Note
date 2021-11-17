@@ -1101,6 +1101,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [搜索服务器Elasticsearch](https://github.com/zLulus/My_Note/wiki/%E6%90%9C%E7%B4%A2%E6%9C%8D%E5%8A%A1%E5%99%A8Elasticsearch)
 
+[Elasticsearch.Net(NEST) 设置保留请求和回复Body，并在请求结束后保留](https://github.com/zLulus/My_Note/wiki/Elasticsearch.Net(NEST)-%E8%AE%BE%E7%BD%AE%E4%BF%9D%E7%95%99%E8%AF%B7%E6%B1%82%E5%92%8C%E5%9B%9E%E5%A4%8DBody%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%AF%B7%E6%B1%82%E7%BB%93%E6%9D%9F%E5%90%8E%E5%9B%9E%E8%B0%83)
+
 # 操作系统
 
 [windows server疑难杂症](https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
