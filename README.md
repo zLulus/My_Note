@@ -261,6 +261,8 @@ If you have any questions about My_Note, you can create issues.
 
 [计算机性能监测](https://github.com/zLulus/My_Note/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%A7%E8%83%BD%E7%9B%91%E6%B5%8B)
 
+[Bitmap使用注意事项](https://github.com/zLulus/My_Note/wiki/Bitmap%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
