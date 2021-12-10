@@ -53,6 +53,8 @@ If you have any questions about My_Note, you can create issues.
 
 [📘WPF ٩(๑òωó๑)۶](#wpf)
 
+[UWP](#uwp)
+
 [Windows Service](#windows-service)
 
 [设计模式](#设计模式)
@@ -1371,6 +1373,10 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 [Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
 
 [Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts-ToolBar)
+
+# UWP
+
+[UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
 
 # Windows Service
 
