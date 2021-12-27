@@ -265,6 +265,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Bitmap使用注意事项](https://github.com/zLulus/My_Note/wiki/Bitmap%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
+[C# 删除正在使用的文件](https://github.com/zLulus/My_Note/wiki/C%23-%E5%88%A0%E9%99%A4%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
