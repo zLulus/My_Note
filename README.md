@@ -1356,6 +1356,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [SetForegroundWindow()前置窗口失败的问题](https://github.com/zLulus/My_Note/wiki/SetForegroundWindow()%E5%89%8D%E7%BD%AE%E7%AA%97%E5%8F%A3%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98)
 
+[WPF 触摸交互相关资料](https://github.com/zLulus/My_Note/wiki/WPF-%E8%A7%A6%E6%91%B8%E4%BA%A4%E4%BA%92%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
+
 #### 验证表单
 [WPF 验证表单方法1](https://github.com/zLulus/My_Note/wiki/WPF-%E9%AA%8C%E8%AF%81%E8%A1%A8%E5%8D%95%E6%96%B9%E6%B3%951)
 
