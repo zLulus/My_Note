@@ -1223,6 +1223,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [ListView Header添加CheckBox](https://github.com/zLulus/My_Note/wiki/ListView-Header%E6%B7%BB%E5%8A%A0CheckBox)
 
+[ListBox虚拟化](https://github.com/zLulus/My_Note/wiki/ListBox%E8%99%9A%E6%8B%9F%E5%8C%96)
+
 ## Style
 
 [style原则问题](https://github.com/zLulus/My_Note/wiki/style%E5%8E%9F%E5%88%99%E9%97%AE%E9%A2%98)
