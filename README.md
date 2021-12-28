@@ -267,6 +267,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# 删除正在使用的文件](https://github.com/zLulus/My_Note/wiki/C%23-%E5%88%A0%E9%99%A4%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6)
 
+[C# WindowFromPoint在64位程序中无效](https://github.com/zLulus/My_Note/wiki/C%23-WindowFromPoint%E5%9C%A864%E4%BD%8D%E7%A8%8B%E5%BA%8F%E4%B8%AD%E6%97%A0%E6%95%88)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
