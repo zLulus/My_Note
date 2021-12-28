@@ -1219,6 +1219,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [ComboBox](https://github.com/zLulus/My_Note/wiki/ComboBox)
 
+[ComboBox设置选项与反显](https://github.com/zLulus/My_Note/wiki/ComboBox%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9%E4%B8%8E%E5%8F%8D%E6%98%BE)
+
 [TrreView 递归绑定数据源](https://github.com/zLulus/My_Note/wiki/TrreView-%E9%80%92%E5%BD%92%E7%BB%91%E5%AE%9A%E6%95%B0%E6%8D%AE%E6%BA%90)
 
 [TextBox输入小数](https://github.com/zLulus/My_Note/wiki/TextBox%E8%BE%93%E5%85%A5%E5%B0%8F%E6%95%B0)
