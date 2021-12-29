@@ -269,6 +269,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# WindowFromPoint在64位程序中无效](https://github.com/zLulus/My_Note/wiki/C%23-WindowFromPoint%E5%9C%A864%E4%BD%8D%E7%A8%8B%E5%BA%8F%E4%B8%AD%E6%97%A0%E6%95%88)
 
+[C# 报错：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。](https://github.com/zLulus/My_Note/wiki/C%23-%E6%8A%A5%E9%94%99%EF%BC%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E7%AD%89%E5%BE%85%E4%BB%BB%E5%8A%A1%E6%88%96%E8%AE%BF%E9%97%AE%E4%BB%BB%E5%8A%A1%E7%9A%84-Exception-%E5%B1%9E%E6%80%A7%E8%A7%82%E5%AF%9F%E5%88%B0%E4%BB%BB%E5%8A%A1%E7%9A%84%E5%BC%82%E5%B8%B8%E3%80%82%E5%9B%A0%E6%AD%A4%EF%BC%8C%E7%BB%88%E7%BB%93%E5%99%A8%E7%BA%BF%E7%A8%8B%E9%87%8D%E6%96%B0%E5%BC%95%E5%8F%91%E4%BA%86%E6%9C%AA%E8%A7%82%E5%AF%9F%E5%88%B0%E7%9A%84%E5%BC%82%E5%B8%B8%E3%80%82)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
