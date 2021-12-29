@@ -987,6 +987,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MySQL 迁移数据库](https://github.com/zLulus/My_Note/wiki/MySQL-%E8%BF%81%E7%A7%BB%E6%95%B0%E6%8D%AE%E5%BA%93)
 
+[MySQL 设置max_allowed_packet](https://github.com/zLulus/My_Note/wiki/MySQL-%E8%AE%BE%E7%BD%AEmax_allowed_packet)
+
 #### SQLite
 
 [SQLite基础](https://github.com/zLulus/My_Note/wiki/SQLite%E5%9F%BA%E7%A1%80)
