@@ -1394,6 +1394,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
 
+[UWP 一些powershell命令](https://github.com/zLulus/My_Note/wiki/UWP-%E4%B8%80%E4%BA%9Bpowershell%E5%91%BD%E4%BB%A4)
+
 [UWP 手写板InkCanvas](https://github.com/zLulus/My_Note/wiki/UWP-%E6%89%8B%E5%86%99%E6%9D%BFInkCanvas)
 
 # Windows Service
