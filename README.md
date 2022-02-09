@@ -1368,6 +1368,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [WPF 手写板](https://github.com/zLulus/My_Note/wiki/WPF-%E6%89%8B%E5%86%99%E6%9D%BF)
 
+[WPF 启动带参数](https://github.com/zLulus/My_Note/wiki/WPF-%E5%90%AF%E5%8A%A8%E5%B8%A6%E5%8F%82%E6%95%B0)
+
 #### 验证表单
 [WPF 验证表单方法1](https://github.com/zLulus/My_Note/wiki/WPF-%E9%AA%8C%E8%AF%81%E8%A1%A8%E5%8D%95%E6%96%B9%E6%B3%951)
 
