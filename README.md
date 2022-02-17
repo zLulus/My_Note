@@ -1404,6 +1404,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [UWP Dispatcher用法](https://github.com/zLulus/My_Note/wiki/UWP-Dispatcher%E7%94%A8%E6%B3%95)
 
+[UWP 阴影效果](https://github.com/zLulus/My_Note/wiki/UWP-%E9%98%B4%E5%BD%B1%E6%95%88%E6%9E%9C)
+
 # Windows Service
 
 [创建Windows Service](https://github.com/zLulus/My_Note/wiki/%E5%88%9B%E5%BB%BAWindows-Service)
