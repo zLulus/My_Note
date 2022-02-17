@@ -1402,6 +1402,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [UWP 确认是否有弹窗显示](https://github.com/zLulus/My_Note/wiki/UWP-%E7%A1%AE%E8%AE%A4%E6%98%AF%E5%90%A6%E6%9C%89%E5%BC%B9%E7%AA%97%E6%98%BE%E7%A4%BA)
 
+[UWP Dispatcher用法](https://github.com/zLulus/My_Note/wiki/UWP-Dispatcher%E7%94%A8%E6%B3%95)
+
 # Windows Service
 
 [创建Windows Service](https://github.com/zLulus/My_Note/wiki/%E5%88%9B%E5%BB%BAWindows-Service)
