@@ -1406,6 +1406,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [UWP 阴影效果](https://github.com/zLulus/My_Note/wiki/UWP-%E9%98%B4%E5%BD%B1%E6%95%88%E6%9E%9C)
 
+[[UWP]UIElement.Clip](https://www.cnblogs.com/dino623/p/UWP_UIElement_Clip.html)
+
 # Windows Service
 
 [创建Windows Service](https://github.com/zLulus/My_Note/wiki/%E5%88%9B%E5%BB%BAWindows-Service)
