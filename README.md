@@ -1408,6 +1408,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [[UWP]UIElement.Clip](https://www.cnblogs.com/dino623/p/UWP_UIElement_Clip.html)
 
+[UWP 指定应用主题RequestedTheme](https://github.com/zLulus/My_Note/wiki/UWP-%E6%8C%87%E5%AE%9A%E5%BA%94%E7%94%A8%E4%B8%BB%E9%A2%98RequestedTheme)
+
 # Windows Service
 
 [创建Windows Service](https://github.com/zLulus/My_Note/wiki/%E5%88%9B%E5%BB%BAWindows-Service)
