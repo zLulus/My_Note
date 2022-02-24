@@ -127,6 +127,8 @@ If you have any questions about My_Note, you can create issues.
 
 [.NET Core微服务之基于Ocelot+IdentityServer实现统一验证与授权](https://www.cnblogs.com/edisonchou/p/integration_authentication-authorization_service_foundation.html)
 
+[体系结构原则](https://docs.microsoft.com/zh-cn/dotnet/architecture/modern-web-apps-azure/architectural-principles?WT.mc_id=DT-MVP-5003010)
+
 # .NET
 
 [IQueryable与IEnumerable（转载）](https://github.com/zLulus/My_Note/wiki/IQueryable%E4%B8%8EIEnumerable%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89)
