@@ -1410,7 +1410,7 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [UWP 阴影效果](https://github.com/zLulus/My_Note/wiki/UWP-%E9%98%B4%E5%BD%B1%E6%95%88%E6%9E%9C)
 
-[[UWP]UIElement.Clip](https://www.cnblogs.com/dino623/p/UWP_UIElement_Clip.html)
+[UIElement.Clip](https://github.com/zLulus/My_Note/wiki/UIElement.Clip)
 
 [UWP 指定应用主题RequestedTheme](https://github.com/zLulus/My_Note/wiki/UWP-%E6%8C%87%E5%AE%9A%E5%BA%94%E7%94%A8%E4%B8%BB%E9%A2%98RequestedTheme)
 
