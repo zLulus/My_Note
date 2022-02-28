@@ -275,6 +275,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# 读写锁](https://github.com/zLulus/My_Note/wiki/C%23-%E8%AF%BB%E5%86%99%E9%94%81)
 
+[Flags特性](https://github.com/zLulus/My_Note/wiki/Flags%E7%89%B9%E6%80%A7)
+
 ## 程序集
 [Assembly Qualified Name（程序集限定名称）](https://github.com/zLulus/My_Note/wiki/Assembly-Qualified-Name%EF%BC%88%E7%A8%8B%E5%BA%8F%E9%9B%86%E9%99%90%E5%AE%9A%E5%90%8D%E7%A7%B0%EF%BC%89)
 
