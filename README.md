@@ -273,7 +273,7 @@ If you have any questions about My_Note, you can create issues.
 
 ## 锁
 
-[lock语句](https://github.com/zLulus/My_Note/wiki/lock%E8%AF%AD%E5%8F%A5)
+[lock与Monitor](https://github.com/zLulus/My_Note/wiki/lock%E4%B8%8EMonitor)
 
 [AsyncLock 异步锁](https://github.com/zLulus/My_Note/wiki/AsyncLock-%E5%BC%82%E6%AD%A5%E9%94%81)
 
