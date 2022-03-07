@@ -277,6 +277,8 @@ If you have any questions about My_Note, you can create issues.
 
 [获得调用者信息](https://github.com/zLulus/My_Note/wiki/%E8%8E%B7%E5%BE%97%E8%B0%83%E7%94%A8%E8%80%85%E4%BF%A1%E6%81%AF)
 
+[switch语法](https://github.com/zLulus/My_Note/wiki/switch%E8%AF%AD%E6%B3%95)
+
 ## 锁
 
 [lock与Monitor](https://github.com/zLulus/My_Note/wiki/lock%E4%B8%8EMonitor)
