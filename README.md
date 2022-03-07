@@ -382,6 +382,8 @@ If you have any questions about My_Note, you can create issues.
 # ML .NET
 [ML .NET 二手车价格预测](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B)
 
+[ML .NET 二手车价格预测之再次训练与参数调整](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%E4%B9%8B%E5%86%8D%E6%AC%A1%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%8F%82%E6%95%B0%E8%B0%83%E6%95%B4)
+
 # WCF
 ## 基本
 
