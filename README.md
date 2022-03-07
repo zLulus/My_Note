@@ -7,7 +7,7 @@ If you have any questions about My_Note, you can create issues.
 
 [📘.NET](#NET)
 
-[📘ML .NET](#ML-.NET)
+[📘ML .NET](#ml-net)
 
 [WCF](#wcf)
 
