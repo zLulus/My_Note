@@ -1144,6 +1144,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Elasticsearch.Net(NEST) Terms查询多字段匹配](https://github.com/zLulus/My_Note/wiki/Elasticsearch.Net(NEST)-Terms%E6%9F%A5%E8%AF%A2%E5%A4%9A%E5%AD%97%E6%AE%B5%E5%8C%B9%E9%85%8D)
 
+[Elasticsearch报错Result window is too large](https://github.com/zLulus/My_Note/wiki/Elasticsearch%E6%8A%A5%E9%94%99Result-window-is-too-large)
+
 # 操作系统
 
 [windows server疑难杂症](https://github.com/zLulus/My_Note/wiki/windows-server%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
