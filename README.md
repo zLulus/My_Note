@@ -281,6 +281,10 @@ If you have any questions about My_Note, you can create issues.
 
 [C# 远程连接Linux执行命令](https://github.com/zLulus/My_Note/wiki/C%23-%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5Linux%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4)
 
+[表达式树Expression](https://github.com/zLulus/My_Note/wiki/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%A0%91Expression)
+
+[监控文件变化](https://github.com/zLulus/My_Note/wiki/%E7%9B%91%E6%8E%A7%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96)
+
 ## 锁
 
 [lock与Monitor](https://github.com/zLulus/My_Note/wiki/lock%E4%B8%8EMonitor)
