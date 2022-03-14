@@ -548,7 +548,7 @@ If you have any questions about My_Note, you can create issues.
 
 [.net core注入服务](https://github.com/zLulus/My_Note/wiki/.net-core%E6%B3%A8%E5%85%A5%E6%9C%8D%E5%8A%A1)
 
-[.net core使用redis](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8redis)
+[.NET Core使用Redis](https://github.com/zLulus/My_Note/wiki/.NET-Core%E4%BD%BF%E7%94%A8Redis)
 
 [EF Core注意事项](https://github.com/zLulus/My_Note/wiki/EF-Core%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
