@@ -15,8 +15,6 @@ If you have any questions about My_Note, you can create issues.
 
 [ASP .NET](#asp-net)
 
-[📘.net core](#net-core)
-
 [📘ASP .NET Core](#asp-net-core)
 
 [javascript && jQuery](#javascript--jquery)
@@ -285,6 +283,34 @@ If you have any questions about My_Note, you can create issues.
 
 [监控文件变化](https://github.com/zLulus/My_Note/wiki/%E7%9B%91%E6%8E%A7%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96)
 
+## .NET Core
+[.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+
+[windows IIS发布.net core网站的环境配置](https://github.com/zLulus/My_Note/wiki/windows-IIS%E5%8F%91%E5%B8%83.net-core%E7%BD%91%E7%AB%99%E7%9A%84%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE)
+
+[.net core注入服务](https://github.com/zLulus/My_Note/wiki/.net-core%E6%B3%A8%E5%85%A5%E6%9C%8D%E5%8A%A1)
+
+[EF Core注意事项](https://github.com/zLulus/My_Note/wiki/EF-Core%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+
+[asp .net core 读取读取Views文件夹下的js和css](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E8%AF%BB%E5%8F%96%E8%AF%BB%E5%8F%96Views%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84js%E5%92%8Ccss)
+
+[.net core config读取](https://github.com/zLulus/My_Note/wiki/.net-core-config%E8%AF%BB%E5%8F%96)
+
+[.net core 允许跨域](https://github.com/zLulus/My_Note/wiki/.net-core-%E5%85%81%E8%AE%B8%E8%B7%A8%E5%9F%9F)
+
+[.net core使用ef 6](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8ef-6)
+
+[.net core响应缓存](https://github.com/zLulus/My_Note/wiki/.net-core%E5%93%8D%E5%BA%94%E7%BC%93%E5%AD%98)
+
+[.net core调用C++库](https://github.com/zLulus/My_Note/wiki/.net-core%E8%B0%83%E7%94%A8C-plus-plus%E5%BA%93)
+
+[.net core 获得方法名](https://github.com/zLulus/My_Note/wiki/.net-core-%E8%8E%B7%E5%BE%97%E6%96%B9%E6%B3%95%E5%90%8D)
+
+[转储和分析.NET Core 中的内存泄漏OOM (dotnet dump)](https://github.com/zLulus/My_Note/wiki/%E8%BD%AC%E5%82%A8%E5%92%8C%E5%88%86%E6%9E%90.NET-Core-%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8FOOM-(dotnet-dump))
+
+## .NET
+[.NET 6使用Redis](https://github.com/zLulus/My_Note/wiki/.NET-6%E4%BD%BF%E7%94%A8Redis)
+
 ## 锁
 
 [lock与Monitor](https://github.com/zLulus/My_Note/wiki/lock%E4%B8%8EMonitor)
@@ -540,33 +566,6 @@ If you have any questions about My_Note, you can create issues.
 
 ## 其他
 [aspx “路由”](https://github.com/zLulus/My_Note/wiki/aspx-%E2%80%9C%E8%B7%AF%E7%94%B1%E2%80%9D)
-
-# .net core
-[.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
-
-[windows IIS发布.net core网站的环境配置](https://github.com/zLulus/My_Note/wiki/windows-IIS%E5%8F%91%E5%B8%83.net-core%E7%BD%91%E7%AB%99%E7%9A%84%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE)
-
-[.net core注入服务](https://github.com/zLulus/My_Note/wiki/.net-core%E6%B3%A8%E5%85%A5%E6%9C%8D%E5%8A%A1)
-
-[.NET Core使用Redis](https://github.com/zLulus/My_Note/wiki/.NET-Core%E4%BD%BF%E7%94%A8Redis)
-
-[EF Core注意事项](https://github.com/zLulus/My_Note/wiki/EF-Core%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
-
-[asp .net core 读取读取Views文件夹下的js和css](https://github.com/zLulus/My_Note/wiki/asp-.net-core-%E8%AF%BB%E5%8F%96%E8%AF%BB%E5%8F%96Views%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84js%E5%92%8Ccss)
-
-[.net core config读取](https://github.com/zLulus/My_Note/wiki/.net-core-config%E8%AF%BB%E5%8F%96)
-
-[.net core 允许跨域](https://github.com/zLulus/My_Note/wiki/.net-core-%E5%85%81%E8%AE%B8%E8%B7%A8%E5%9F%9F)
-
-[.net core使用ef 6](https://github.com/zLulus/My_Note/wiki/.net-core%E4%BD%BF%E7%94%A8ef-6)
-
-[.net core响应缓存](https://github.com/zLulus/My_Note/wiki/.net-core%E5%93%8D%E5%BA%94%E7%BC%93%E5%AD%98)
-
-[.net core调用C++库](https://github.com/zLulus/My_Note/wiki/.net-core%E8%B0%83%E7%94%A8C-plus-plus%E5%BA%93)
-
-[.net core 获得方法名](https://github.com/zLulus/My_Note/wiki/.net-core-%E8%8E%B7%E5%BE%97%E6%96%B9%E6%B3%95%E5%90%8D)
-
-[转储和分析.NET Core 中的内存泄漏OOM (dotnet dump)](https://github.com/zLulus/My_Note/wiki/%E8%BD%AC%E5%82%A8%E5%92%8C%E5%88%86%E6%9E%90.NET-Core-%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8FOOM-(dotnet-dump))
 
 ## ASP .NET Core
 
