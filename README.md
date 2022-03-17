@@ -422,6 +422,10 @@ If you have any questions about My_Note, you can create issues.
 
 [ML .NET 猫狗图像分类](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E7%8C%AB%E7%8B%97%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB)
 
+[ML .NET 预测订单是否被退货](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E9%A2%84%E6%B5%8B%E8%AE%A2%E5%8D%95%E6%98%AF%E5%90%A6%E8%A2%AB%E9%80%80%E8%B4%A7)
+
+[ML .NET 电影推荐](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90)
+
 # WCF
 ## 基本
 
