@@ -426,6 +426,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ML .NET 电影推荐](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90)
 
+[ML .NET 电影评论情绪分析](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E6%83%85%E7%BB%AA%E5%88%86%E6%9E%90)
+
 # WCF
 ## 基本
 
