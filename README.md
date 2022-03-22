@@ -283,6 +283,8 @@ If you have any questions about My_Note, you can create issues.
 
 [监控文件变化](https://github.com/zLulus/My_Note/wiki/%E7%9B%91%E6%8E%A7%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96)
 
+[XML转Json 设置指定节点为数组](https://github.com/zLulus/My_Note/wiki/XML%E8%BD%ACJson-%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%AE%9A%E8%8A%82%E7%82%B9%E4%B8%BA%E6%95%B0%E7%BB%84)
+
 ## .NET Core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
