@@ -430,6 +430,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ML .NET 电影评论情绪分析](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E6%83%85%E7%BB%AA%E5%88%86%E6%9E%90)
 
+[ML .NET 异常情况检测](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E5%BC%82%E5%B8%B8%E6%83%85%E5%86%B5%E6%A3%80%E6%B5%8B)
+
 # WCF
 ## 基本
 
