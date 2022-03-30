@@ -285,6 +285,8 @@ If you have any questions about My_Note, you can create issues.
 
 [XML转Json 设置指定节点为数组](https://github.com/zLulus/My_Note/wiki/XML%E8%BD%ACJson-%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%AE%9A%E8%8A%82%E7%82%B9%E4%B8%BA%E6%95%B0%E7%BB%84)
 
+[使用Lazy使ConcurrentDictionary的GetOrAdd方法线程安全](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8Lazy%E4%BD%BFConcurrentDictionary%E7%9A%84GetOrAdd%E6%96%B9%E6%B3%95%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8)
+
 ## .NET Core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
