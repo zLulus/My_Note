@@ -434,6 +434,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ML .NET 异常情况检测](https://github.com/zLulus/My_Note/wiki/ML-.NET-%E5%BC%82%E5%B8%B8%E6%83%85%E5%86%B5%E6%A3%80%E6%B5%8B)
 
+[Unable to load DLL 'tensorflow' or one of its dependencies (ML.NET)](https://github.com/zLulus/My_Note/wiki/Unable-to-load-DLL-'tensorflow'-or-one-of-its-dependencies-(ML.NET))
+
 # WCF
 ## 基本
 
