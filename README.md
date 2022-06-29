@@ -766,6 +766,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ngFor && index 用法](https://github.com/zLulus/My_Note/wiki/ngFor-&&-index-%E7%94%A8%E6%B3%95)
 
+[npm audit输出html报告](https://github.com/zLulus/My_Note/wiki/npm-audit%E8%BE%93%E5%87%BAhtml%E6%8A%A5%E5%91%8A)
+
 # TypeScript
 
 [TypeScript随手记](https://github.com/zLulus/My_Note/wiki/TypeScript%E9%9A%8F%E6%89%8B%E8%AE%B0)
