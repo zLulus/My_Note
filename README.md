@@ -768,7 +768,7 @@ If you have any questions about My_Note, you can create issues.
 
 [npm audit输出html报告](https://github.com/zLulus/My_Note/wiki/npm-audit%E8%BE%93%E5%87%BAhtml%E6%8A%A5%E5%91%8A)
 
-[Sonarqube与Angular集成](https://github.com/zLulus/My_Note/wiki/Sonarqube%E4%B8%8EAngular%E9%9B%86%E6%88%90)
+[Sonarqube与Angular集成](https://github.com/zLulus/My_Note/wiki/Sonarqube%E4%B8%8EAngular%E9%9B%86%E6%88%90)([English Version](https://github.com/zLulus/My_Note/wiki/Sonarqube-integration-with-Angular))
 
 # TypeScript
 
