@@ -1769,7 +1769,7 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [unity mod制作](https://github.com/zLulus/My_Note/wiki/unity-mod%E5%88%B6%E4%BD%9C)
 
-[Unity 使用Sqlite](https://github.com/zLulus/My_Note/wiki/Unity-%E4%BD%BF%E7%94%A8Sqlite)
+[Unity 使用Sqlite](https://github.com/zLulus/My_Note/wiki/Unity-%E4%BD%BF%E7%94%A8Sqlite)([English Version](https://github.com/zLulus/My_Note/wiki/Unity-using-Sqlite))
 
 # 微信
 
