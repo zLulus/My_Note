@@ -1019,7 +1019,7 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [SQL Server 查询默认值是否存在](https://github.com/zLulus/My_Note/wiki/SQL-Server-%E6%9F%A5%E8%AF%A2%E9%BB%98%E8%AE%A4%E5%80%BC%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8)
 
-[SQL Server 查询字段是否存在](https://github.com/zLulus/My_Note/wiki/SQL-Server-%E6%9F%A5%E8%AF%A2%E5%AD%97%E6%AE%B5%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8)
+[SQL Server 查询列是否存在](https://github.com/zLulus/My_Note/wiki/SQL-Server-%E6%9F%A5%E8%AF%A2%E5%88%97%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8)
 
 #### Oracle
 [Oracle 连接的问题](https://github.com/zLulus/My_Note/wiki/Oracle-%E8%BF%9E%E6%8E%A5%E7%9A%84%E9%97%AE%E9%A2%98)
