@@ -607,6 +607,8 @@ If you have any questions about My_Note, you can create issues.
 
 [Ocelot](https://github.com/zLulus/My_Note/wiki/Ocelot)
 
+[ASP .NET Core添加Problem Details](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Core%E6%B7%BB%E5%8A%A0Problem-Details)
+
 #### 微服务
 
 [微服务中的通讯](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%AD%E7%9A%84%E9%80%9A%E8%AE%AF)
