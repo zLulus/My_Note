@@ -946,6 +946,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [索引与约束的区别](https://github.com/zLulus/My_Note/wiki/%E7%B4%A2%E5%BC%95%E4%B8%8E%E7%BA%A6%E6%9D%9F%E7%9A%84%E5%8C%BA%E5%88%AB)
 
+[外键Foreign Keys](https://github.com/zLulus/My_Note/wiki/%E5%A4%96%E9%94%AEForeign-Keys)
+
 [删除数据库依赖项与被依赖项](https://github.com/zLulus/My_Note/wiki/%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BE%9D%E8%B5%96%E9%A1%B9%E4%B8%8E%E8%A2%AB%E4%BE%9D%E8%B5%96%E9%A1%B9)
 
 [级联删除、更新](https://github.com/zLulus/My_Note/wiki/%E7%BA%A7%E8%81%94%E5%88%A0%E9%99%A4%E3%80%81%E6%9B%B4%E6%96%B0)
