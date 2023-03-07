@@ -609,6 +609,8 @@ If you have any questions about My_Note, you can create issues.
 
 [ASP .NET Core添加Problem Details](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Core%E6%B7%BB%E5%8A%A0Problem-Details)
 
+[ASP .NET Core 设置枚举请求和返回使用字符串而非数字](https://github.com/zLulus/My_Note/wiki/ASP-.NET-Core-%E8%AE%BE%E7%BD%AE%E6%9E%9A%E4%B8%BE%E8%AF%B7%E6%B1%82%E5%92%8C%E8%BF%94%E5%9B%9E%E4%BD%BF%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%80%8C%E9%9D%9E%E6%95%B0%E5%AD%97)
+
 #### 微服务
 
 [微服务中的通讯](https://github.com/zLulus/My_Note/wiki/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%AD%E7%9A%84%E9%80%9A%E8%AE%AF)
