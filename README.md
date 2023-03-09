@@ -289,12 +289,18 @@ If you have any questions about My_Note, you can create issues.
 
 [使用Lazy使ConcurrentDictionary的GetOrAdd方法线程安全](https://github.com/zLulus/My_Note/wiki/%E4%BD%BF%E7%94%A8Lazy%E4%BD%BFConcurrentDictionary%E7%9A%84GetOrAdd%E6%96%B9%E6%B3%95%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8)
 
+[C# 动态替换方法](https://github.com/zLulus/My_Note/wiki/C%23-%E5%8A%A8%E6%80%81%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%B3%95)
+
 ## 单元测试
 [.NET 单元测试](https://github.com/zLulus/My_Note/wiki/.net-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
 [.NET & Xunit 设置优先级、顺序的单元测试](https://github.com/zLulus/My_Note/wiki/.NET-&-Xunit-%E8%AE%BE%E7%BD%AE%E4%BC%98%E5%85%88%E7%BA%A7%E3%80%81%E9%A1%BA%E5%BA%8F%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
 [.NET & Xunit 最佳实践的单元测试](https://github.com/zLulus/My_Note/wiki/.NET-&-Xunit-%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+
+[.NET & Nsubstitute 根据条件模拟返回值](https://github.com/zLulus/My_Note/wiki/.NET-&-Nsubstitute-%E6%A0%B9%E6%8D%AE%E6%9D%A1%E4%BB%B6%E6%A8%A1%E6%8B%9F%E8%BF%94%E5%9B%9E%E5%80%BC)
+
+[.NET & Xunit 多层级关系的单元测试](https://github.com/zLulus/My_Note/wiki/.NET-&-Xunit-%E5%A4%9A%E5%B1%82%E7%BA%A7%E5%85%B3%E7%B3%BB%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
 ## .NET Core
 [.net core 2.0 读取配置文件](https://github.com/zLulus/My_Note/wiki/.net-core-2.0-%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
