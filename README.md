@@ -293,6 +293,10 @@ If you have any questions about My_Note, you can create issues.
 
 [C# 向SqlCommand添加参数列表](https://github.com/zLulus/My_Note/wiki/C%23-%E5%90%91SqlCommand%E6%B7%BB%E5%8A%A0%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8)
 
+[C# 计算两个时间相差的年份和月份](https://github.com/zLulus/My_Note/wiki/C%23-%E8%AE%A1%E7%AE%97%E4%B8%A4%E4%B8%AA%E6%97%B6%E9%97%B4%E7%9B%B8%E5%B7%AE%E7%9A%84%E5%B9%B4%E4%BB%BD%E5%92%8C%E6%9C%88%E4%BB%BD)
+
+[通过OpenAPI和Visual Studio生成客户端代码](https://github.com/zLulus/My_Note/wiki/%E9%80%9A%E8%BF%87OpenAPI%E5%92%8CVisual-Studio%E7%94%9F%E6%88%90%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%A3%E7%A0%81)
+
 ## 单元测试
 [.NET 单元测试](https://github.com/zLulus/My_Note/wiki/.net-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
