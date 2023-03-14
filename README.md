@@ -297,6 +297,8 @@ If you have any questions about My_Note, you can create issues.
 
 [通过OpenAPI和Visual Studio生成客户端代码](https://github.com/zLulus/My_Note/wiki/%E9%80%9A%E8%BF%87OpenAPI%E5%92%8CVisual-Studio%E7%94%9F%E6%88%90%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BB%A3%E7%A0%81)
 
+[C# 友元程序集](https://github.com/zLulus/My_Note/wiki/C%23-%E5%8F%8B%E5%85%83%E7%A8%8B%E5%BA%8F%E9%9B%86)
+
 ## 单元测试
 [.NET 单元测试](https://github.com/zLulus/My_Note/wiki/.net-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
