@@ -299,6 +299,8 @@ If you have any questions about My_Note, you can create issues.
 
 [C# 友元程序集](https://github.com/zLulus/My_Note/wiki/C%23-%E5%8F%8B%E5%85%83%E7%A8%8B%E5%BA%8F%E9%9B%86)
 
+[.NET 6 & Newtonsoft.Json 自定义JsonConverter 返回2位小数](https://github.com/zLulus/My_Note/wiki/.NET-6-&-Newtonsoft.Json-%E8%87%AA%E5%AE%9A%E4%B9%89JsonConverter-%E8%BF%94%E5%9B%9E2%E4%BD%8D%E5%B0%8F%E6%95%B0)
+
 ## 单元测试
 [.NET 单元测试](https://github.com/zLulus/My_Note/wiki/.net-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
 
