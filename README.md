@@ -1515,6 +1515,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MAUI 数据绑定之命令绑定](https://github.com/zLulus/My_Note/wiki/MAUI-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E4%B9%8B%E5%91%BD%E4%BB%A4%E7%BB%91%E5%AE%9A)
 
+[MAUI 数据绑定之MultiBinding](https://github.com/zLulus/My_Note/wiki/MAUI-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E4%B9%8BMultiBinding)
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
