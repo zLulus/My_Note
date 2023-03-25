@@ -1499,6 +1499,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Grid](https://github.com/zLulus/My_Note/wiki/MAUI-%E5%B8%83%E5%B1%80Layout-Grid)
 
+[AbsoluteLayout](https://github.com/zLulus/My_Note/wiki/MAUI-%E5%B8%83%E5%B1%80Layout-AbsoluteLayout)
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
