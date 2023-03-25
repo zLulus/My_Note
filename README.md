@@ -53,6 +53,8 @@ If you have any questions about My_Note, you can create issues.
 
 [📘WPF ٩(๑òωó๑)۶](#wpf)
 
+[MAUI](#maui)
+
 [UWP](#uwp)
 
 [Windows Service](#windows-service)
@@ -1484,6 +1486,10 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 [Visifire charts AxisLabels FontSize](https://github.com/zLulus/My_Note/wiki/Visifire-charts--AxisLabels--FontSize)
 
 [Visifire charts ToolBar](https://github.com/zLulus/My_Note/wiki/Visifire-charts-ToolBar)
+
+# MAUI
+
+[MAUI 简介](https://github.com/zLulus/My_Note/wiki/MAUI-%E7%AE%80%E4%BB%8B)
 
 # UWP
 
