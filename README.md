@@ -1509,6 +1509,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MAUI 数据绑定简介](https://github.com/zLulus/My_Note/wiki/MAUI-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E7%AE%80%E4%BB%8B)
 
+[MAUI 数据绑定之属性绑定](https://github.com/zLulus/My_Note/wiki/MAUI-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E4%B9%8B%E5%B1%9E%E6%80%A7%E7%BB%91%E5%AE%9A)
+
 [MAUI 数据绑定之命令绑定](https://github.com/zLulus/My_Note/wiki/MAUI-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E4%B9%8B%E5%91%BD%E4%BB%A4%E7%BB%91%E5%AE%9A)
 
 # UWP
