@@ -1521,6 +1521,10 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MAUI 数据绑定之绑定模式](https://github.com/zLulus/My_Note/wiki/MAUI-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E4%B9%8B%E7%BB%91%E5%AE%9A%E6%A8%A1%E5%BC%8F)
 
+## 字符串格式化
+
+[MAUI 字符串格式化](https://github.com/zLulus/My_Note/wiki/MAUI-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96)
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
