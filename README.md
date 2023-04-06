@@ -1952,6 +1952,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [如何分辨IP是外网IP还是内网IP](https://github.com/zLulus/My_Note/wiki/%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8IP%E6%98%AF%E5%A4%96%E7%BD%91IP%E8%BF%98%E6%98%AF%E5%86%85%E7%BD%91IP)
 
+[Windows设置NFS客户端](https://github.com/zLulus/My_Note/wiki/Windows%E8%AE%BE%E7%BD%AENFS%E5%AE%A2%E6%88%B7%E7%AB%AF)
+
 ## CI/CD工具(持续集成/持续部署工具)
 
 [持续集成](https://github.com/zLulus/My_Note/wiki/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90)
