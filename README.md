@@ -1491,6 +1491,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MAUI 简介](https://github.com/zLulus/My_Note/wiki/MAUI-%E7%AE%80%E4%BB%8B)
 
+[.NET MAUI Shell](https://github.com/zLulus/My_Note/wiki/.NET-MAUI-Shell)
+
 ## MAUI 布局
 
 [MAUI 布局Layout](https://github.com/zLulus/My_Note/wiki/MAUI-%E5%B8%83%E5%B1%80Layout)
@@ -1524,6 +1526,10 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 ## 字符串格式化
 
 [MAUI 字符串格式化](https://github.com/zLulus/My_Note/wiki/MAUI-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96)
+
+## MAUI 触发器
+
+[MAUI 触发器简介](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E7%AE%80%E4%BB%8B)
 
 # UWP
 
