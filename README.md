@@ -1533,6 +1533,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MAUI 触发器之属性触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E5%B1%9E%E6%80%A7%E8%A7%A6%E5%8F%91%E5%99%A8)
 
+[MAUI 触发器之数据触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A7%A6%E5%8F%91%E5%99%A8)
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
