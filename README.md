@@ -1531,9 +1531,15 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [MAUI 触发器简介](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E7%AE%80%E4%BB%8B)
 
-[MAUI 触发器之属性触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E5%B1%9E%E6%80%A7%E8%A7%A6%E5%8F%91%E5%99%A8)
+[MAUI 触发器之属性触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E5%B1%9E%E6%80%A7%E8%A7%A6%E5%8F%91%E5%99%A8)   
 
-[MAUI 触发器之数据触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A7%A6%E5%8F%91%E5%99%A8)
+[MAUI 触发器之数据触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A7%A6%E5%8F%91%E5%99%A8)  
+
+[MAUI 触发器之事件触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E4%BA%8B%E4%BB%B6%E8%A7%A6%E5%8F%91%E5%99%A8)   
+
+[MAUI 触发器之多触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E5%A4%9A%E8%A7%A6%E5%8F%91%E5%99%A8)    
+
+[MAUI 触发器之状态触发器和比较状态触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E7%8A%B6%E6%80%81%E8%A7%A6%E5%8F%91%E5%99%A8%E5%92%8C%E6%AF%94%E8%BE%83%E7%8A%B6%E6%80%81%E8%A7%A6%E5%8F%91%E5%99%A8)    
 
 # UWP
 
