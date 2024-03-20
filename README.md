@@ -55,6 +55,8 @@ If you have any questions about My_Note, you can create issues.
 
 [MAUI](#maui)
 
+[Blazor](#blazor)
+
 [UWP](#uwp)
 
 [Windows Service](#windows-service)
@@ -1540,6 +1542,18 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 [MAUI 触发器之多触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E5%A4%9A%E8%A7%A6%E5%8F%91%E5%99%A8)    
 
 [MAUI 触发器之状态触发器和比较状态触发器](https://github.com/zLulus/My_Note/wiki/MAUI-%E8%A7%A6%E5%8F%91%E5%99%A8%E4%B9%8B%E7%8A%B6%E6%80%81%E8%A7%A6%E5%8F%91%E5%99%A8%E5%92%8C%E6%AF%94%E8%BE%83%E7%8A%B6%E6%80%81%E8%A7%A6%E5%8F%91%E5%99%A8)    
+
+# Blazor
+
+[Blazor 简介](https://github.com/zLulus/My_Note/wiki/Blazor-%E7%AE%80%E4%BB%8B)
+
+[Blazor 组件——表单](https://github.com/zLulus/My_Note/wiki/Blazor-%E7%BB%84%E4%BB%B6%E2%80%94%E2%80%94%E8%A1%A8%E5%8D%95)
+
+[Blazor 创建自定义 Blazor 组件](https://github.com/zLulus/My_Note/wiki/Blazor-%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89-Blazor-%E7%BB%84%E4%BB%B6)
+
+[Blazor 属性数据绑定](https://github.com/zLulus/My_Note/wiki/Blazor-%E5%B1%9E%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
+
+[Blazor 事件绑定](https://github.com/zLulus/My_Note/wiki/Blazor-%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A)
 
 # UWP
 
