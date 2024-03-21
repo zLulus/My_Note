@@ -1575,6 +1575,10 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Blazor 自定义组件 弹出框](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6-%E5%BC%B9%E5%87%BA%E6%A1%86)
 
+[Blazor 组件 导航条](https://github.com/zLulus/My_Note/wiki/Blazor--%E7%BB%84%E4%BB%B6-%E5%AF%BC%E8%88%AA%E6%9D%A1)
+
+[Blazor 组件的生命周期与状态管理](https://github.com/zLulus/My_Note/wiki/Blazor-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E4%B8%8E%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86)   
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
