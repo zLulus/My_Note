@@ -1551,6 +1551,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Blazor 创建自定义 Blazor 组件](https://github.com/zLulus/My_Note/wiki/Blazor-%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89-Blazor-%E7%BB%84%E4%BB%B6)
 
+[Blazor 数据绑定简介](https://github.com/zLulus/My_Note/wiki/Blazor-%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E7%AE%80%E4%BB%8B)
+
 [Blazor 属性数据绑定](https://github.com/zLulus/My_Note/wiki/Blazor-%E5%B1%9E%E6%80%A7%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A)
 
 [Blazor 事件绑定](https://github.com/zLulus/My_Note/wiki/Blazor-%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A)
