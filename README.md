@@ -1569,6 +1569,12 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Blazor 表格](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%A1%A8%E6%A0%BC)
 
+[Blazor 自定义组件 下拉框](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6-%E4%B8%8B%E6%8B%89%E6%A1%86)
+
+[Blazor 自定义组件 模态框](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6-%E6%A8%A1%E6%80%81%E6%A1%86)
+
+[Blazor 自定义组件 弹出框](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6-%E5%BC%B9%E5%87%BA%E6%A1%86)
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
