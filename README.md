@@ -1557,9 +1557,15 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Blazor 自定义弹窗](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BC%B9%E7%AA%97)
 
+[Blazor 自定义弹窗2](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BC%B9%E7%AA%972)
+
 [Blazor 手动实现双向绑定](https://github.com/zLulus/My_Note/wiki/Blazor-%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%8F%8C%E5%90%91%E7%BB%91%E5%AE%9A)
 
 [Blazor 使用oninput事件实现实时文本绑定](https://github.com/zLulus/My_Note/wiki/Blazor-%E4%BD%BF%E7%94%A8oninput%E4%BA%8B%E4%BB%B6%E5%AE%9E%E7%8E%B0%E5%AE%9E%E6%97%B6%E6%96%87%E6%9C%AC%E7%BB%91%E5%AE%9A)
+
+[Blazor 引入CSS](https://github.com/zLulus/My_Note/wiki/Blazor-%E5%BC%95%E5%85%A5CSS)
+
+[Blazor 表格](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%A1%A8%E6%A0%BC)
 
 # UWP
 
