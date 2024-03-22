@@ -1589,6 +1589,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Blazor SetParametersAsync 和 OnParametersSet](https://github.com/zLulus/My_Note/wiki/Blazor-SetParametersAsync-%E5%92%8C-OnParametersSet)
 
+[Blazor 注册并使用HttpClient服务](https://github.com/zLulus/My_Note/wiki/Blazor-%E6%B3%A8%E5%86%8C%E5%B9%B6%E4%BD%BF%E7%94%A8HttpClient%E6%9C%8D%E5%8A%A1)
+
 # UWP
 
 [UWP应用手工安装](https://github.com/zLulus/My_Note/wiki/UWP%E5%BA%94%E7%94%A8%E6%89%8B%E5%B7%A5%E5%AE%89%E8%A3%85)
