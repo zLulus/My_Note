@@ -1547,6 +1547,14 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 
 [Blazor 简介](https://github.com/zLulus/My_Note/wiki/Blazor-%E7%AE%80%E4%BB%8B)
 
+[Blazor 依赖注入Dependency Injection](https://github.com/zLulus/My_Note/wiki/Blazor-%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5Dependency-Injection)
+
+[Blazor 路由和导航](https://github.com/zLulus/My_Note/wiki/Blazor-%E8%B7%AF%E7%94%B1%E5%92%8C%E5%AF%BC%E8%88%AA)
+
+[Blazor 静态文件](https://github.com/zLulus/My_Note/wiki/Blazor-%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6)
+
+[Blazor JsRuntime](https://github.com/zLulus/My_Note/wiki/Blazor--JsRuntime)
+
 [Blazor 组件——表单](https://github.com/zLulus/My_Note/wiki/Blazor-%E7%BB%84%E4%BB%B6%E2%80%94%E2%80%94%E8%A1%A8%E5%8D%95)
 
 [Blazor 创建自定义 Blazor 组件](https://github.com/zLulus/My_Note/wiki/Blazor-%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89-Blazor-%E7%BB%84%E4%BB%B6)
@@ -1578,6 +1586,8 @@ sql在各数据库语法略有不同，以下主要以sql server数据库为主�
 [Blazor 组件 导航条](https://github.com/zLulus/My_Note/wiki/Blazor--%E7%BB%84%E4%BB%B6-%E5%AF%BC%E8%88%AA%E6%9D%A1)
 
 [Blazor 组件的生命周期与状态管理](https://github.com/zLulus/My_Note/wiki/Blazor-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E4%B8%8E%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86)   
+
+[Blazor SetParametersAsync 和 OnParametersSet](https://github.com/zLulus/My_Note/wiki/Blazor-SetParametersAsync-%E5%92%8C-OnParametersSet)
 
 # UWP
 
